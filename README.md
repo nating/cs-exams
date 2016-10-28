@@ -1,5 +1,5 @@
-# nating.netsoc.ie - automatic!
-A website to help Computer Science students at Trinity College Dublin study their course material.  
+# Trinity CS Website
+A website to help Computer Science students at Trinity College Dublin study their course material.  It can be found at nating.netsoc.ie. 
 
 
 ## Description
@@ -56,5 +56,6 @@ The last step (which adds the real value to the website) is the most difficult a
 
 ## Acknowledgments
   As this was my first website, many errors with conventions and bad code were looked over and advised on very generously by Dario. (This whole thing would be a lot more hacky if it were not for him)  
+  Thanks to netsoc in Trinity for hosting the website.  
   Thanks to everyone who's notes and pages are linked to on the website, notably Scarlett's fantastic Discrete Maths notes for second years.  
   
