@@ -1,4 +1,4 @@
-# [nating.netsoc.ie](../../../../../nating.netsoc.ie)
+# nating.netsoc.ie - automatic!
 A website to help Computer Science students at Trinity College Dublin study their course material.  
 
 
