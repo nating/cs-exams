@@ -1,0 +1,124 @@
+body{
+    background-attachment: fixed;
+    background-position: center;
+    background-size:cover;
+    background-color:#444444;
+}
+.background-scroll{
+    background-color:#222222;
+    max-width:67em;
+    height:100%;
+    margin: 0 auto;
+    margin-top:none;
+    margin-bottom:none;
+    z-index:1;
+    border-radius: 10px;
+}
+.content{
+    z-index: 10;
+}
+.subheading, h1{
+    color:#FFFFFF;
+    background-color: #BBBBBB;
+    padding:5px;
+    list-style-type:none;
+    position:relative;
+    text-align:left;
+}
+#title{
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+}
+h1 {
+    text-align:center;
+}
+.subjects, .years, .questions{
+    color:black;
+    padding:2px;
+    list-style-type:none;
+    position:relative;
+    text-align:left;
+}
+.subjects li, .years li{
+    border-radius: 2px;
+    background-color:#FFFFFF;
+    margin: 0 0 3px 0;
+    margin-right:10%;
+    margin-left:10%;
+}
+.subjects li{
+    padding-left: 3px;
+    padding-right: 3px;
+}
+.years{
+    text-align:center;
+    margin-right:30%;
+    margin-left:30%;
+}
+.questions li{
+    border-radius: 2px;
+    text-align:center;
+    background-color:#FFFFFF;
+    margin:4px;
+}
+table, th, td, tr{
+    color:black;
+    padding:2px;
+    margin:20px auto;
+    background-color:#EEEEEE;
+    border:1px solid black;
+    border-collapse:collapse;
+}
+table{
+    width:90%;
+}
+.site-page-links{
+    display:flex;
+    padding-right:5%;
+    padding-left:5%;
+    width:calc(100% - 5% - 5%);
+}
+.site-page-links li{
+    display: inline-block;
+    background-color:#222222;
+    margin-top: none;
+    border: none;
+    border: 0px;
+    outline: none;
+    width:100%;
+}
+a:hover{
+    border-radius: 2px;
+    background-color:#D5D5D5;
+}
+.subjects li:hover, .site-page-links li a:hover{
+    border-radius: 2px;
+    background-color:#D5D5D5;
+}
+a{
+    display:block;
+    cursor:pointer;
+}
+.site-page-links li a{
+    border-radius: 2px;
+    text-align:center;
+    background-color:#FFFFFF;
+    margin:4px;
+    padding-left:4px;
+    padding-right:4px;
+    color: black;
+    text-decoration: none;
+}
+p {
+    border-radius: 2px;
+    text-align:center;
+    background-color:#FFFFFF;
+    margin:10%;
+    padding:5%;
+}
+h1 a, h1 a:hover{
+    border-radius: 0px;
+    background-color:#BBBBBB;
+    text-decoration:none;
+    color:#FFFFFF;
+}
