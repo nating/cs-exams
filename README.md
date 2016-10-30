@@ -3,7 +3,7 @@ A website to help Computer Science students at Trinity College Dublin study thei
 
 
 ## Description
-This website has a separate page for each year of study in Computer Science at Trinity College Dublin, as well as a separate page for studying for the Foundation Scholarships examinations.  
+This website has a separate page for each year of study in Computer Science at Trinity College Dublin, as well as a page for studying for the Foundation Scholarships examinations.  
   Each page has buttons for every module in that year of study. When these buttons are clicked, the page displays buttons for:
   
 * Relevant module links
