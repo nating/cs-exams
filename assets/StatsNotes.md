@@ -1,8 +1,6 @@
 # Statistic Notes
 ---
 
-
-
 # About the Module
 |Sections|Topics|
 |---|---|
@@ -63,9 +61,6 @@ Independent events can become dependent when we condition on additional informat
 
 Two events E and F are called **Conditionally Independent** given G if: P(E ∩ F|G) = P(E|G)P(F|G)
 
-Dependent events can become independent by conditioning on
-additional information.
-
 ---
 
 # Random Variables
@@ -94,7 +89,6 @@ The **Cumulative Distribution Function** (CDF) of a random variable X is defined
 F(a) = P(X ≤ a) _(where a is real-valued)_.
 
 
-
 ## Bernoulli & Binomial RVs
 A **Bernoulli Random Variable** is an indicator random variable where:  
 P(X=1)=p and P(X=0)=p-1
@@ -104,12 +98,15 @@ A **Binomial Random Variable** is the sum of n Bernoulli Random Variables.
 ## Mean & Variance
 The **Expected Value** of discrete random variable X taking values in {x<sub>0</sub>, x<sub>1</sub>, ..., x<sub>n</sub>} is defined to be: E[X] = the sum of x<sub>i</sub>P(X = x<sub>i</sub>) from i=0 to i=n.
 
+The Expected Value is also referred to as the **mean** or the **average**.
+
 The **Linearity of Expected value** is:  
 For any random variable X and constants a and b:  
 E[aX + b] = aE[X] + b
 
+The **Variance** of an RV X with a mean µ is Var(X) = E[(X − µ)<sup>2</sup>].
 
-
+Standard deviation is square root of variance p sqroot(Var(X)).
 
 
 ## Correlation & Conditional Expectation
