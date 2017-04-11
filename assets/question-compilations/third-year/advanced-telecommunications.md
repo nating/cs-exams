@@ -64,8 +64,6 @@ Describe in detail three methods discussed in lectures. **[12 marks]**
 
 # 3. Cryptography
 
-### ?
-
 1. Describe some of the components that comprise modern day block ciphers. In particular, describe with the aid of an example the Vignère Cipher. **[8 marks]**
 
 2. With the aid of an example, show why the electronic code book (ECB) mode is susceptible to substitution attacks. Describe the cipher block chaining (CBC) mode and hot it can provide probablistic encryption which overcomes the deterministic features of ECB mode. **[10 marks]**
