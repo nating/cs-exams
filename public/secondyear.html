@@ -58,8 +58,34 @@
 
       ga('create', 'UA-82042718-1', 'auto');
       ga('send', 'pageview');
+
+        window.addEventListener('load',function(){ startUp();},false);
         
-        
+        //Code run once the page is loaded.
+        var startUp = function(){
+            updateContent(window.history.state);
+        }
+
+        //Change the content displayed on the screen according to the current state
+        function updateContent(state) {
+            if(state==null){return generateSubject("");}
+            else if(state['module']){
+                return generateSubject(state['module']);
+            }
+        }
+
+        // Revert to a previously saved state
+        window.onpopstate = function(event) {
+          updateContent(event.state);
+        };
+
+        //Changes the history state of the window and updates the content on screen
+        var moduleClicked = function(moduleID){
+            //Update the url to contain the moduleID
+            var state = { module: moduleID };
+            history.pushState(state, moduleID, "secondyear.html?module="+moduleID);
+            updateContent(state);
+        }
         
         var generateSubject = function(moduleCode){
             
@@ -797,8 +823,16 @@
                             </table>
                         </div>`;
                     break;
+                default: subject.innerHTML = ""; break;
             }
         };
-        document.getElementById("CS2010").addEventListener("click",function(){generateSubject("CS2010");}); document.getElementById("CS2022").addEventListener("click",function(){generateSubject("CS2022");}); document.getElementById("CS2016").addEventListener("click",function(){generateSubject("CS2016");}); document.getElementById("MA2C03").addEventListener("click",function(){generateSubject("MA2C03");}); document.getElementById("CS2041").addEventListener("click",function(){generateSubject("CS2041");}); document.getElementById("CS2021").addEventListener("click",function(){generateSubject("CS2021");}); document.getElementById("CS2014").addEventListener("click",function(){generateSubject("CS2014");}); document.getElementById("CS2031").addEventListener("click",function(){generateSubject("CS2031");});
+        document.getElementById("CS2010").addEventListener("click",function(){moduleClicked("CS2010");}); 
+        document.getElementById("CS2022").addEventListener("click",function(){moduleClicked("CS2022");}); 
+        document.getElementById("CS2016").addEventListener("click",function(){moduleClicked("CS2016");}); 
+        document.getElementById("MA2C03").addEventListener("click",function(){moduleClicked("MA2C03");}); 
+        document.getElementById("CS2041").addEventListener("click",function(){moduleClicked("CS2041");}); 
+        document.getElementById("CS2021").addEventListener("click",function(){moduleClicked("CS2021");}); 
+        document.getElementById("CS2014").addEventListener("click",function(){moduleClicked("CS2014");}); 
+        document.getElementById("CS2031").addEventListener("click",function(){moduleClicked("CS2031");}); 
     </script>
 </body>
