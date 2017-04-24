@@ -63,6 +63,34 @@
 
       ga('create', 'UA-82042718-1', 'auto');
       ga('send', 'pageview');
+
+        window.addEventListener('load',function(){ startUp();},false);
+        
+        //Code run once the page is loaded.
+        var startUp = function(){
+            updateContent(window.history.state);
+        }
+
+        //Change the content displayed on the screen according to the current state
+        function updateContent(state) {
+            if(state==null){return generateSubject("");}
+            else if(state['module']){
+                return generateSubject(state['module']);
+            }
+        }
+
+        // Revert to a previously saved state
+        window.onpopstate = function(event) {
+          updateContent(event.state);
+        };
+
+        //Changes the history state of the window and updates the content on screen
+        var moduleClicked = function(moduleID){
+            //Update the url to contain the moduleID
+            var state = { module: moduleID };
+            history.pushState(state, moduleID, "fourthyear.html?module="+moduleID);
+            updateContent(state);
+        }
         
         
         
@@ -326,8 +354,20 @@
                                 </ul>
                         </div>`;
                     break;
+                default: subject.innerHTML = ""; break;
             }
         };
-        document.getElementById("CS4051").addEventListener("click",function(){generateSubject("CS4051");}); document.getElementById("CS4001").addEventListener("click",function(){generateSubject("CS4001");}); document.getElementById("CS4004").addEventListener("click",function(){generateSubject("CS4004");}); document.getElementById("CS4012").addEventListener("click",function(){generateSubject("CS4012");}); document.getElementById("CS4021").addEventListener("click",function(){generateSubject("CS4021");}); document.getElementById("CS4031").addEventListener("click",function(){generateSubject("CS4031");}); document.getElementById("CS4032").addEventListener("click",function(){generateSubject("CS4032");}); document.getElementById("CS4052").addEventListener("click",function(){generateSubject("CS4052");}); document.getElementById("CS4053").addEventListener("click",function(){generateSubject("CS4053");}); document.getElementById("CS4061").addEventListener("click",function(){generateSubject("CS4061");}); document.getElementById("CS4071").addEventListener("click",function(){generateSubject("CS4071");}); document.getElementById("CS4LL5").addEventListener("click",function(){generateSubject("CS4LL5");});
+        document.getElementById("CS4051").addEventListener("click",function(){moduleClicked("CS4051");}); 
+        document.getElementById("CS4001").addEventListener("click",function(){moduleClicked("CS4001");}); 
+        document.getElementById("CS4004").addEventListener("click",function(){moduleClicked("CS4004");}); 
+        document.getElementById("CS4012").addEventListener("click",function(){moduleClicked("CS4012");}); 
+        document.getElementById("CS4021").addEventListener("click",function(){moduleClicked("CS4021");}); 
+        document.getElementById("CS4031").addEventListener("click",function(){moduleClicked("CS4031");}); 
+        document.getElementById("CS4032").addEventListener("click",function(){moduleClicked("CS4032");}); 
+        document.getElementById("CS4052").addEventListener("click",function(){moduleClicked("CS4052");}); 
+        document.getElementById("CS4053").addEventListener("click",function(){moduleClicked("CS4053");}); 
+        document.getElementById("CS4061").addEventListener("click",function(){moduleClicked("CS4061");}); 
+        document.getElementById("CS4071").addEventListener("click",function(){moduleClicked("CS4071");}); 
+        document.getElementById("CS4LL5").addEventListener("click",function(){moduleClicked("CS4LL5");}); 
     </script>
 </body>

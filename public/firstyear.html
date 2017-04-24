@@ -56,6 +56,34 @@
 
       ga('create', 'UA-82042718-1', 'auto');
       ga('send', 'pageview');
+
+        window.addEventListener('load',function(){ startUp();},false);
+        
+        //Code run once the page is loaded.
+        var startUp = function(){
+            updateContent(window.history.state);
+        }
+
+        //Change the content displayed on the screen according to the current state
+        function updateContent(state) {
+            if(state==null){return generateSubject("");}
+            else if(state['module']){
+                return generateSubject(state['module']);
+            }
+        }
+
+        // Revert to a previously saved state
+        window.onpopstate = function(event) {
+          updateContent(event.state);
+        };
+
+        //Changes the history state of the window and updates the content on screen
+        var moduleClicked = function(moduleID){
+            //Update the url to contain the moduleID
+            var state = { module: moduleID };
+            history.pushState(state, moduleID, "firstyear.html?module="+moduleID);
+            updateContent(state);
+        }
         
         
         var generateSubject = function(moduleCode){
@@ -888,8 +916,14 @@
                             </table>
                         </div>`;
                     break;
+                default: subject.innerHTML = ""; break;
             }
         };
-        document.getElementById("CS1026").addEventListener("click",function(){generateSubject("CS1026");}); document.getElementById("CS1025").addEventListener("click",function(){generateSubject("CS1025");}); document.getElementById("CS1021").addEventListener("click",function(){generateSubject("CS1021");}); document.getElementById("CS1010").addEventListener("click",function(){generateSubject("CS1010");}); document.getElementById("CS1003").addEventListener("click",function(){generateSubject("CS1003");}); document.getElementById("CS1031").addEventListener("click",function(){generateSubject("CS1031");});
+        document.getElementById("CS1026").addEventListener("click",function(){moduleClicked("CS1026");}); 
+        document.getElementById("CS1025").addEventListener("click",function(){moduleClicked("CS1025");}); 
+        document.getElementById("CS1021").addEventListener("click",function(){moduleClicked("CS1021");}); 
+        document.getElementById("CS1010").addEventListener("click",function(){moduleClicked("CS1010");}); 
+        document.getElementById("CS1003").addEventListener("click",function(){moduleClicked("CS1003");}); 
+        document.getElementById("CS1031").addEventListener("click",function(){moduleClicked("CS1031");}); 
     </script>
 </body>

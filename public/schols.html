@@ -54,6 +54,33 @@
       ga('create', 'UA-82042718-1', 'auto');
       ga('send', 'pageview');
         
+        window.addEventListener('load',function(){ startUp();},false);
+        
+        //Code run once the page is loaded.
+        var startUp = function(){
+            updateContent(window.history.state);
+        }
+
+        //Change the content displayed on the screen according to the current state
+        function updateContent(state) {
+            if(state==null){return generateSubject("");}
+            else if(state['module']){
+                return generateSubject(state['module']);
+            }
+        }
+
+        // Revert to a previously saved state
+        window.onpopstate = function(event) {
+          updateContent(event.state);
+        };
+
+        //Changes the history state of the window and updates the content on screen
+        var moduleClicked = function(moduleID){
+            //Update the url to contain the moduleID
+            var state = { module: moduleID };
+            history.pushState(state, moduleID, "schols.html?module="+moduleID);
+            updateContent(state);
+        }
         
         
         var generateSubject = function(moduleCode){
@@ -430,8 +457,11 @@
                             </table>
                         </div>`;
                     break;
+                default: subject.innerHTML = ""; break;
             }
         };
-        document.getElementById("XSCH3071").addEventListener("click",function(){generateSubject("XSCH3071");}); document.getElementById("XSCH3087").addEventListener("click",function(){generateSubject("XSCH3087");}); document.getElementById("XSCH3307").addEventListener("click",function(){generateSubject("XSCH3307");});
+        document.getElementById("XSCH3071").addEventListener("click",function(){moduleClicked("XSCH3071");}); 
+        document.getElementById("XSCH3087").addEventListener("click",function(){moduleClicked("XSCH3087");}); 
+        document.getElementById("XSCH3307").addEventListener("click",function(){moduleClicked("XSCH3307");}); 
     </script>
 </body>

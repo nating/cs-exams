@@ -71,7 +71,7 @@
 
         //Change the content displayed on the screen according to the current state
         function updateContent(state) {
-            if(state==null){return null}
+            if(state==null){ return generateSubject("");}
             else if(state['module']){
                 return generateSubject(state['module']);
             }
@@ -802,6 +802,7 @@
                                 </ul>
                         </div>`;
                     break;
+                default: subject.innerHTML = ""; break;
             }
         };
         document.getElementById("CS3011").addEventListener("click",function(){moduleClicked("CS3011");}); 
