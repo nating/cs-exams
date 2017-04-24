@@ -54,15 +54,41 @@
     <script>
         
         
-            (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-      (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-      m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-      })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+        (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+          (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+          m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+          })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
 
-      ga('create', 'UA-82042718-1', 'auto');
-      ga('send', 'pageview');
+        ga('create', 'UA-82042718-1', 'auto');
+        ga('send', 'pageview');
+
+        window.addEventListener('load',function(){ startUp();},false);
         
-        
+        //Code run once the page is loaded.
+        var startUp = function(){
+            updateContent(window.history.state);
+        }
+
+        //Change the content displayed on the screen according to the current state
+        function updateContent(state) {
+            if(state==null){return null}
+            else if(state['module']){
+                return generateSubject(state['module']);
+            }
+        }
+
+        // Revert to a previously saved state
+        window.onpopstate = function(event) {
+          updateContent(event.state);
+        };
+
+        //Changes the history state of the window and updates the content on screen
+        var moduleClicked = function(moduleID){
+            //Update the url to contain the moduleID
+            var state = { module: moduleID };
+            history.pushState(state, moduleID, "thirdyear.html?module="+moduleID);
+            updateContent(state);
+        }
         
         var generateSubject = function(moduleCode){
             
@@ -778,6 +804,16 @@
                     break;
             }
         };
-        document.getElementById("CS3011").addEventListener("click",function(){generateSubject("CS3011");}); document.getElementById("CS3012").addEventListener("click",function(){generateSubject("CS3012");}); document.getElementById("CS3021").addEventListener("click",function(){generateSubject("CS3021");}); document.getElementById("CS3071").addEventListener("click",function(){generateSubject("CS3071");}); document.getElementById("CS3016").addEventListener("click",function(){generateSubject("CS3016");}); document.getElementById("CS3041").addEventListener("click",function(){generateSubject("CS3041");}); document.getElementById("CS3081").addEventListener("click",function(){generateSubject("CS3081");}); document.getElementById("CS3014").addEventListener("click",function(){generateSubject("CS3014");}); document.getElementById("ST3009").addEventListener("click",function(){generateSubject("ST3009");}); document.getElementById("CS3031").addEventListener("click",function(){generateSubject("CS3031");}); document.getElementById("CS3061").addEventListener("click",function(){generateSubject("CS3061");});
+        document.getElementById("CS3011").addEventListener("click",function(){moduleClicked("CS3011");}); 
+        document.getElementById("CS3012").addEventListener("click",function(){moduleClicked("CS3012");}); 
+        document.getElementById("CS3021").addEventListener("click",function(){moduleClicked("CS3021");}); 
+        document.getElementById("CS3071").addEventListener("click",function(){moduleClicked("CS3071");}); 
+        document.getElementById("CS3016").addEventListener("click",function(){moduleClicked("CS3016");}); 
+        document.getElementById("CS3041").addEventListener("click",function(){moduleClicked("CS3041");}); 
+        document.getElementById("CS3081").addEventListener("click",function(){moduleClicked("CS3081");}); 
+        document.getElementById("CS3014").addEventListener("click",function(){moduleClicked("CS3014");}); 
+        document.getElementById("ST3009").addEventListener("click",function(){moduleClicked("ST3009");}); 
+        document.getElementById("CS3031").addEventListener("click",function(){moduleClicked("CS3031");}); 
+        document.getElementById("CS3061").addEventListener("click",function(){moduleClicked("CS3061");}); 
     </script>
 </body>
