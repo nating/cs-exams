@@ -74,6 +74,14 @@ An Intelligent Agent which is given a goal, cannot tell if the goal has been sat
 ### 1j)
 What is SAT and how is it relevant to (✝)?
 
+```
+Given a boolean expression B with N variables, can we make it True by assigning True/False to all of 
+the N variables.
+
+The agent might be tasked with the computation.
+Boolean expressions are ways of expressing the computation of the agent.
+```
+
 ### 1k)
 What is P vs NP and how is SAT relevant to it?
 
