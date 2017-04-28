@@ -28,6 +28,12 @@ What is the problem SAT of Boolean satisfiability, and what does it have to do w
 ### 1e)
 How is exponentiation relevant to SAT and polynomial time computability?
 
+```
+The process for finding assignments which satisfy the expression (2^n) is an exponential problem in terms of
+both time and space.
+
+```
+
 ### 1f)
 What is a binary decision diagram (BDD), and what does it mean to be ordered and reduced?
 
