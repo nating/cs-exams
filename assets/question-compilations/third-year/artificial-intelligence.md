@@ -6,9 +6,11 @@
 
 ### 1a)
 What is the Symbol System Hypothesis & what does it have to do with (✝)?
-### Answer
-The hypothesis states that all reasoning can be expressed as symbol manipulation. This relates to (✝) as an intelligent agent can manipulate symbols. Therefore based on the hypothesis it is proposed that an intelligent agent can reason.
-
+```
+The hypothesis states that all reasoning can be expressed as symbol manipulation. 
+This relates to (✝), as an intelligent agent can manipulate symbols. 
+Therefore based on the hypothesis it is proposed that an intelligent agent can reason.
+```
 ### 1b)
 What does search have to do with non-determinism?
 
