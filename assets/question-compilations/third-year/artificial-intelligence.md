@@ -50,6 +50,13 @@ Give an ordered and reduced tree for the following Boolean expression...
 ### 1h)
 What is a Turing Machine and what does it have to do with (✝)?
 
+```
+A Turing machine is a hypothetical machine which uses tape to manipulate symbols one at a time.
+
+An Intelligent Agent ✝ can be viewed as a Turing machine manipulating symbols in the environment one at a time.
+
+```
+
 ### 1i)
 What is the Halting Problem and how is it relevant to (✝)?
 
