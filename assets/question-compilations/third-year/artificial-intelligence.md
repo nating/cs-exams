@@ -87,6 +87,15 @@ What is the generate and test approach in CSP?
 ### 1o)
 What does it mean for A* to be admissable, and what three things are necessary for A* to be admissable?
 
+```
+If there in a solution, A* will find the optimal solution.
+
+1) Branching factor must be finite
+2) Arc costs must be bounded above 0
+3) The heuristic must be an underestimate 
+
+```
+
 ### 1p)
 When is an ordered BDD satisfiable?
 ```
