@@ -105,6 +105,13 @@ The thesis states that any symbol manipulation can be carried out by a Turing ma
 ### 1m)
 What are the ingredients of a CSP?
 
+```
+1) Variables
+2) Domain
+3) Constraints
+
+```
+
 ### 1n)
 What is the generate and test approach in CSP?
 
