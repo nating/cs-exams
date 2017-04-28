@@ -30,8 +30,11 @@ What is a binary decision diagram (BDD), and what does it mean to be ordered and
 ```
 A BDD is a rooted, acyclic graph with terminal nodes of the values 0/1. Branching depends on the boolean 
 variable value of the node.
+
 Ordered: A nodes variable index must be less than that of any of its children.
-Reduced: High and Low children of a node cannot be the same. They must be opposite in order to arrive at a terminal node.
+
+Reduced: High and Low children of a node cannot be the same. 
+They must be opposite in order to arrive at a terminal node.
 
 ```
 
