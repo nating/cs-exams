@@ -73,6 +73,11 @@ What is P vs NP and how is SAT relevant to it?
 ### 1l)
 What is the Church-Turing thesis and what does it add to Symbol-System hypothesis in addressing (✝)?
 
+```
+The thesis states that any symbol manipulation can be carried out by a Turing machine. The envirnoment can be represented by symbols on which (✝) can act.
+
+```
+
 ### 1m)
 What are the ingredients of a CSP?
 
