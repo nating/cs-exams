@@ -51,6 +51,17 @@ What is a Turing Machine and what does it have to do with (✝)?
 ### 1i)
 What is the Halting Problem and how is it relevant to (✝)?
 
+```
+The Halting Problem states:
+
+HP(P,D) := (1 if halts on D, 0 otherwise)
+
+There exists no program (HP) that given another program (P) and data (D) as input that will output 1 if the program
+halts or 0 otherwise.
+
+An Intelligent Agent which is given a goal, cannot tell if the goal has been satisfied.
+```
+
 ### 1j)
 What is SAT and how is it relevant to (✝)?
 
