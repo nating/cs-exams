@@ -147,3 +147,11 @@ Precisely when it is not equal to 0.
 
 ### 1q)
 What do non-determinism and search have to do with (✝)?
+
+```
+Intelligent action comes with the need to make a choice based on a heuristic.
+
+When searching, the intelligent agent will need to be non-determinsitc in its 
+approach and make choices based on the heuristic.
+
+```
