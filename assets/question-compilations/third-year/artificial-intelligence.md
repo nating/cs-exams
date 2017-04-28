@@ -32,12 +32,14 @@ How is exponentiation relevant to SAT and polynomial time computability?
 What is a binary decision diagram (BDD), and what does it mean to be ordered and reduced?
 
 ```
-A BDD is a rooted, acyclic graph with terminal nodes of the values 0/1. Branching depends on the boolean 
-variable value of the node.
+A BDD is a rooted, acyclic graph with terminal nodes of the values 0/1.
+Branching depends on the boolean variable value of the node.
 
-Ordered: A nodes variable index must be less than that of any of its children.
+Ordered: 
+A nodes variable index must be less than that of any of its children.
 
-Reduced: High and Low children of a node cannot be the same. 
+Reduced: 
+High and Low children of a node cannot be the same. 
 They must be opposite in order to arrive at a terminal node.
 
 ```
@@ -82,6 +84,9 @@ What does it mean for A* to be admissable, and what three things are necessary f
 
 ### 1p)
 When is an ordered BDD satisfiable?
+```
+Precisely when it is not equal to 0.
+```
 
 ### 1q)
 What do non-determinism and search have to do with (✝)?
