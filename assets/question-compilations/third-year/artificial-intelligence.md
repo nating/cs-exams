@@ -91,6 +91,12 @@ What are the ingredients of a CSP?
 ### 1n)
 What is the generate and test approach in CSP?
 
+```
+This is a brute force approach in which every possible solution is generated. Then these solutions are all tested 
+to see if they satisfy the criterium.
+
+```
+
 ### 1o)
 What does it mean for A* to be admissable, and what three things are necessary for A* to be admissable?
 
