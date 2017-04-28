@@ -85,6 +85,15 @@ Boolean expressions are ways of expressing the computation of the agent.
 ### 1k)
 What is P vs NP and how is SAT relevant to it?
 
+```
+P are all the problems a determinisitic Turing machine can solve in polynomial time.
+NP are are the problems a non-deterministic Turing machine can solve in polynomial time.
+
+Checking whether an assignment satisfies a boolean expression is a P problem.
+Finding the assignments which satisfy the boolean expression is a NP problem.
+
+```
+
 ### 1l)
 What is the Church-Turing thesis and what does it add to Symbol-System hypothesis in addressing (✝)?
 
