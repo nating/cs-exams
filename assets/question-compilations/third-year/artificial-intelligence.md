@@ -17,6 +17,10 @@ What does search have to do with non-determinism?
 ### 1c) 
 State precisely the sense in which Cantors theorem says that
 the set of infinite bit strings cannot be searched.
+```
+There are too many infinite bit strings to be searched one at a time.
+There is no function from the natural numbers onto the set of infinite bit strings.
+```
 
 ### 1d)
 What is the problem SAT of Boolean satisfiability, and what does it have to do with finite bit strings?
