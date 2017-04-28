@@ -24,7 +24,7 @@ How is exponentiation relevant to SAT and polynomial time computability?
 What is a binary decision diagram (BDD), and what does it mean to be ordered and reduced?
 
 ### 1g)
-Give an ordered and reduced tree.
+Give an ordered and reduced tree for the following Boolean expression...
 
 ### 1h)
 What is a Turing Machine and what does it have to do with (✝)?
