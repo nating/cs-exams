@@ -1,8 +1,8 @@
 # Artificial Intelligence Question Compilation
 
-(Courtesy of (Sean McGroarty)[https://github.com/McGizzle])
+(Courtesy of [Sean McGroarty](https://github.com/McGizzle))
 
-## Q1
+## Q1 (theory parts)
 
 ### 1a)
 What is the Symbol System Hypothesis & what does it have to do with (✝)?
@@ -18,10 +18,10 @@ the set of infinite bit strings cannot be searched.
 What is the problem SAT of Boolean satisfiability, and what does it have to do with finite bit strings?
 
 ### 1e)
-How is exponentiation relevant to SAT and polynomial time computation?
+How is exponentiation relevant to SAT and polynomial time computability?
 
 ### 1f)
-What is a BDD? [Ordered v reduced]
+What is a binary decision diagram (BDD), and what does it mean to be ordered and reduced?
 
 ### 1g)
 Give an ordered and reduced tree.
@@ -39,7 +39,7 @@ What is SAT and how is it relevant to (✝)?
 What is P vs NP and how is SAT relevant to it?
 
 ### 1l)
-What is the Church-Turing thesis and what does [] to Symbol-System hypo[] addressing (✝)?
+What is the Church-Turing thesis and what does it add to Symbol-System hypothesis in addressing (✝)?
 
 ### 1m)
 What are the ingredients of a CSP?
@@ -49,3 +49,9 @@ What is the generate and test approach in CSP?
 
 ### 1o)
 What does it mean for A* to be admissable, and what three things are necessary for A* to be admissable?
+
+### 1p)
+When is an ordered BDD satisfiable?
+
+### 1q)
+What do non-determinism and search have to do with (✝)?
