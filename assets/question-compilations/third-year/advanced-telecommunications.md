@@ -62,7 +62,7 @@ Describe in detail three methods discussed in lectures. **[12 marks]**
 12. Consider Trudy joins the BitTorrent without possessing any chunks. Without any chunks, she cannot become a top-four uploader for any other peers, since she has nothing to upload. Then how will Trudy get her first chunk? **[6 marks]**
 
 
-# 3. Cryptography
+# 3. Security
 
 1. Describe some of the components that comprise modern day block ciphers. In particular, describe with the aid of an example the Vignère Cipher. **[8 marks]**
 
