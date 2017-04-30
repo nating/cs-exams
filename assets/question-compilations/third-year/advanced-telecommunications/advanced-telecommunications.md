@@ -17,7 +17,7 @@ Are all the requests being sent through the same socket on host C?
 If they are being passed through different sockets, do both the sockets have port 80? Discuss & Explain. **[6 marks]**
 
 6. Draw the FSM for the reciever that corresponds to this sender's fsm.
-![](/Users/GeoffreyNatin/Documents/Screenshots/Screen Shot 2017-04-09 at 17.03.33.png)
+<img src="Screen Shot 2017-04-09 at 17.03.33.png"></img>
 
 7. If host A sends two packets to host B, the first with sequence number 65 and the second with sequence number 92, how much data is in the first segment? **[3 marks]**
 
@@ -36,7 +36,8 @@ Why is HTTP 1.0 called a stateless protocol? **[5 marks]**
 
 3. Consider the institutional network below, which is connected to the internet via a 15 Mbps access link. Suppose that the average object size is 960,000 bits and that the average request rate from the institution's browsers to the origin servers is 15 requests per second. Also suppose that the amount of time it takes from when the router on the Internet side of hte accss link forwards an HTTP request until it recieves the response is 2 seconds on average. Model the total average response time as teh sum of the average access delay (that is, the delay from the internet router to the institution router) and the average Internet delay. For the average access delay, use Δ(1-Δβ), where Δ is the average time required to send an object over the access link and β is the arrival rate of objects to the access link.  
 Find the average response time. **[6 marks]**
-![](/Users/GeoffreyNatin/Documents/Screenshots/Screen Shot 2017-04-10 at 11.00.02.png)
+<img src="Screen Shot 2017-04-10 at 11.00.02.png"></img>
+
 4. Find the total response time if a cache is installed in the institutional LAN with a miss rate of 0.4. **[6 marks]**
 
 5. Consider what happens when a browser (i.e. a HTTP client), running in some user's host, requests the URL somesite.com/index.html. In order for the user's host to be able to send a HTTP request message to the Web server www.somesite.com. Explain the steps through which the IP address for such a hostname is obtained by the client. **[12 marks]**
@@ -86,7 +87,8 @@ Show with the aid of an example how the DHKE scheme is vulnerable to man-in-the-
 
 9. Suppose that a system uses PKI based on a tree-structured hierarchy of CAs. Alice wants to communicate with Bob, and recieves a certificate from Bob sigend by a CA X after establishing a commuincations channel with Bob. Suppose Alice has neer heard of X. What steps does Alice take to verify that she is talking to Bob? **[10 marks]**
 
-10. Change one message in the exhange below in a minor way to make it resistant to the reflection attack. Explain why this change works. **[5 marks]**![](/Users/GeoffreyNatin/Documents/Screenshots/Screen Shot 2017-04-10 at 16.40.01.png)
+10. Change one message in the exhange below in a minor way to make it resistant to the reflection attack. Explain why this change works. **[5 marks]**
+<img src="Screen Shot 2017-04-10 at 16.40.01.png"></img>
 
 11. Describe in detail the Handshake in the secure sockets layer (SSL) protocol. **[4 marks]**  
 When we talk about authentication in SSL, explain if we mean *message authentication* or *entity authentication*. **[4 marks]**  
@@ -130,11 +132,10 @@ Show how message integrity can be achieved using symmetric an asymmetric key cry
 
 26. Explain with the aid of an example how Alice and Bob can mutually authenticate each other using a hashed message authentication protocol (HMAC). Give one advantage of HMACs over using RSA to sign SHA-1 hashes. **[10 marks]**
 
-
-
 # 4. IP
 
-1. Briefly describe the various datalink and network layer protocols used in transporting IP datagrams from the source to destination machines in the figure below. **[12 marks]**![](/Users/GeoffreyNatin/Documents/Screenshots/Screen Shot 2017-04-10 at 11.31.12.png)
+1. Briefly describe the various datalink and network layer protocols used in transporting IP datagrams from the source to destination machines in the figure below. **[12 marks]**
+<img src="Screen Shot 2017-04-10 at 11.31.12.png"></img>
 
 2. Explain the meaning of the term 'IP address class' and why these classes were created. List the number of networks, hosts and the default mask in each of the first three classes. Explain in detail how 'classless' addressing overcomes some of the restrictions of classful addressing. **[10 marks]**
 
@@ -164,9 +165,11 @@ What the specific support is there for MPLS in IPv6? **[4 marks]**
 10. Compare and contrast the IPv4 and IPv6 header fields. **[7 marks]**  
 Why is the *Protocol* field used in the IPv4 header not present in the fixed IPv6 header? **[3 marks]**
 
-11. Specify the routing table for the router R3 in the figure below. **[15 marks]**![](/Users/GeoffreyNatin/Documents/Screenshots/Screen Shot 2017-04-10 at 16.57.32.png)
+11. Specify the routing table for the router R3 in the figure below. **[15 marks]**
+<img src="Screen Shot 2017-04-10 at 16.57.32.png"></img>
 
-12. The routing table for a router R1 is provided in the table below. You are required to draw the topology of the resulting network. Explain any assumptions that you may have had to make. **[15 marks]**![](/Users/GeoffreyNatin/Documents/Screenshots/Screen Shot 2017-04-10 at 17.17.31.png)
+12. The routing table for a router R1 is provided in the table below. You are required to draw the topology of the resulting network. Explain any assumptions that you may have had to make. **[15 marks]**
+<img src="Screen Shot 2017-04-10 at 17.17.31.png"></img>
 
 13. List the entities of Mobile IP and describe the process of data transfer from a mobile node to a fixed node and vice versa. **[10 marks]**  
 Why and where is encapsulation needed? **[5 marks]**
