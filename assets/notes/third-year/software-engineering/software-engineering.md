@@ -16,7 +16,7 @@
  - Validation
 
 **Different Elicitation techniques**:
-<img src="/Users/GeoffreyNatin/Documents/Screenshots/Screen Shot 2017-05-01 at 15.32.07.png"></img>
+<img src="Screen Shot 2017-05-01 at 15.32.07.png"></img>
 
 Having users write down requirements can result in bad requirements.
 
