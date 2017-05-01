@@ -1,5 +1,7 @@
 # Application Layer
 
+---
+
 ## Network Application Architectures
 Network Applications can be structured Client-to-Server or Peer-to-Peer.
 
