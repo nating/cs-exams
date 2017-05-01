@@ -262,3 +262,16 @@ In **System Testing** the behaviour of the entire system is tested to match the 
 **Acceptance Testing** is run in the customer's environment and are carried out by the customer. Literally the software is tested to see if it will be accepted.
 
 Other types of testing include Regression testing (re-testing things as modifications are made), and Beta-testing.
+
+---
+
+## Business & Legal aspects of sofware engineering
+A **Chief Information Officer** (or Chief Technology Officer) is familiar with both technology & business requirements.
+
+The **Product Manager** views the project as a Product and is concerned with its function, market, sales and legal concerns.
+
+A **Software House** is a company that develops software for other organizations.
+
+With **Embedded Systems**, software is bundled with hardware.
+
+**Shareware** is free software where the developer asks for a fee if you find the software useful or need help running the software (Sublime Text).
