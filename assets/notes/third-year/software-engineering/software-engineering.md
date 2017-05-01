@@ -62,6 +62,7 @@ Estimates should be unbiased.
 To make estimates more sophisticated you can provide a bestcase and worstcase estimate.
 
 **To make a good estimate:**
+
 |Mechanism|Process
 |---|---
 |Count|Count things that are highly correlated with the size of the software being estimated.
@@ -83,6 +84,7 @@ The Architecture can be described to different stakeholders through different ar
 Architecture views enable the architecture to be communicated to all stakeholders so they can verity the system addresses all their concerns.
 
 **Different kinds of Architecture view:**
+
 |View|Stakeholder
 |---|---
 |Business view|Business Management
@@ -96,14 +98,14 @@ Architecture is about tradeoffs, and solving issues from one aspect of the archi
 
 There are such things as **Architectural Styles** so that there is a common language for sets of patterns and principles that may be used in different systems.
 
-|Architecture Style ||
+|Architecture Style||
 |---|---
-|Client Server|Distributed systems talk to one server.|
-|Layered|Where functionalities of the system are grouped into layers that are stacked on top of eachother and can only communicate with the layer above or below.|
-|Message Bus|System is comprised of interacting components that only need to know how to interact with the interface of the bus.|
-|Model View Controller|Model deals with data, View displays information & Controller handles the go between|
-|Blackboard|Split into B,K & C. Blackboard is a structured memory with objects from the solution space, Knowledge sources are different sources of data, & Control selects configures and executes Knowledge sources.|
-|Service Oriented|Services are provided to different components through a communication protocol over a network.|
+|Client Server|Distributed systems talk to one server.
+|Layered|Where functionalities of the system are grouped into layers that are stacked on top of eachother and can only communicate with the layer above or below.
+|Message Bus|System is comprised of interacting components that only need to know how to interact with the interface of the bus.
+|Model View Controller|Model deals with data, View displays information & Controller handles the go between
+|Blackboard|Split into B,K & C. Blackboard is a structured memory with objects from the solution space, Knowledge sources are different sources of data, & Control selects configures and executes Knowledge sources.
+|Service Oriented|Services are provided to different components through a communication protocol over a network.
 
 ---
 
