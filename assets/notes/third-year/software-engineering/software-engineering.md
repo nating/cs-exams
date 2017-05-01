@@ -32,6 +32,8 @@ Having users write down requirements can result in bad requirements.
  - Feasible
  - Necessary
  - Prioritized
+ 
+---
 
 ## Use Case Modelling
 
@@ -49,6 +51,8 @@ Having users write down requirements can result in bad requirements.
 
 When you're going to come up with use cases, create a list of goals and then decide which of them are in scope.
 
+---
+
 ## Estimation
 
 An **Estimate** is a tentative evaluation or a rough calculation.
@@ -65,6 +69,8 @@ To make estimates more sophisticated you can provide a bestcase and worstcase es
 |Judge|Divide the project into smaller parts, estimate those, then add them all up.
 |Analogy|Estimate by referring to similar projects
 |Consult|Talk to experts to see what they think.
+
+---
 
 ## Architecture
 
@@ -99,6 +105,8 @@ There are such things as **Architectural Styles** so that there is a common lang
 |Blackboard|Split into B,K & C. Blackboard is a structured memory with objects from the solution space, Knowledge sources are different sources of data, & Control selects configures and executes Knowledge sources.|
 |Service Oriented|Services are provided to different components through a communication protocol over a network.|
 
+---
+
 ## Design Patterns
 **Design Patterns** allow for certain elegant solutions in the presence of common problems.
 
@@ -113,6 +121,8 @@ The **Observer Pattern** defines a one-to-many relationship between objects so t
 The **Decorator Pattern** allows behaviours to be added to an individual object without affecting the behaviour of other objects from the same class.
 
 The **Adapter Pattern** converts the interface of a class into another interface that the client expects.
+
+---
 
 ## Usability
 Usability concentrates on goal achievement, whereas user interface is about presentation.
@@ -138,6 +148,8 @@ Usability testing involves selecting, demographics, users, tasks and time spent 
 |Report Analysis|Organize problems by severity.
 
 Good design minimizes Cognitive work, Memory work & Physical work when performing a task.
+
+---
 
 ## Development Process
 A **Software Development Process** is a structure imposed on the development of software.
@@ -172,6 +184,8 @@ Leads to 'Implementing then Repairing' way of building, and maybe an inadequate 
 The **Spiral Model** has multiple phases, each of which can adopt any of the linear models. Every phase is concerned with eliminating the most dominant risks.  
 It actively avoids risks, and functionality can be added later.  
 It needs specialized expertise, is very costly, and only works for relatively large projects.
+
+---
 
 ## Agile Manifesto
 
@@ -208,6 +222,8 @@ Risks are identified on a **ROAM Board (Resolved, Owned, Accepted, Mitigated)**.
 
 Daily Scrums are limited to 15 minutes. Each person says what they did yesterday to achieve the Sprint Goal, what they will do today to meet the Sprint goal and if they see any risk that would prevent them from meeting the sprint goal.
 
+---
+
 ## Risk Management
 A **Risk** is a potential problem that may or may not occur in the future.
 
@@ -225,6 +241,8 @@ Risks can also be categorized as known knowns, known unknowns & unknown unknowns
 **Risk Exposure** can be calculated by multiplying the probability of the risk by its impact.
 
 **Risk Leverage** can be calculated by subtracting the exposure after the mitigation from the exposure before the mitigation and dividing it by the cost of the mitigation.
+
+---
 
 ## Software Testing
 Tests should be done from very early on in the process of a project and should be automated as much as possible.
