@@ -45,8 +45,8 @@ UDP is Connectionless. Each UDP segment is handled independant from any other.
 UDP is used in DNS, SNMP, & Streaming multimedia applications (which are loss tolerant and rate sensitive)
 
 Why use UDP?
- - No connection establishment (which would add delay)
- - It is simple to implement because there is no connection state at the sender or reciever
+ - No connection establishment (which would add delay).
+ - It is simple to implement because there is no connection state at the sender or reciever.
  - It has a small header size, which means less data to be transfered.
  - There is no congestion control to slow down data transfer.
 
@@ -66,7 +66,7 @@ There are two generic forms of pipelined flow control protocols.
  - Up to N unacked packets in the pipeline.
  - Reciever can send cumulative acks.
  - Sender has one timer for the oldest unacked packet.
- - Discards out of order packets (No Buffering)
+ - Discards out of order packets (No Buffering).
  - The sequence numbers must be go up to higher than the window size.
 
 **Selective Repeat**
@@ -101,7 +101,7 @@ EstimatedRTT = (1 - a) * EstimatedRTT + a*SampleRTT
 
 The Timeout interval is the EstimatedRTT plus 4 * (Safety Margin).
 
-The saftey margin is calculated with a formula:
+The safety margin is calculated with a formula:
 
 ```
 SafetyMargin = (1 - (B * SafetyMargin) + (B * |SampleRTT - EstimatedRTT|) )
@@ -109,7 +109,7 @@ SafetyMargin = (1 - (B * SafetyMargin) + (B * |SampleRTT - EstimatedRTT|) )
 
 *A typical value for B is 0.25*
 
-TCP has a long time-out period. With **TCP Fast Retransmit**, segments are resent if three ACKs are recieved for it before its timeout (rather than wait for the timeout).
+TCP has a long time-out period. With **TCP Fast Retransmit**, segments are resent if three **duplicate** ACKs (4 ACKs) are recieved for it before its timeout (rather than wait for the timeout).
 
 The Receiver uses the *rwnd* (reciever window) value in the TCP header to advertise its free buffer space. The sender limits the amount of unacked packets in flight to only go up to as much as rwnd so that the buffer is guaranteed not to overflow.
 
