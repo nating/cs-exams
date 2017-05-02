@@ -79,7 +79,7 @@ The **Software Architecture** of a system is a depiction of the system that aids
 
 **Architecture Views** are represenations of the architecture that are meaningful to certain stakeholders.
 
-The Architecture can be described to different stakeholders through different archtitecture views.
+The Architecture can be described to different stakeholders through different architecture views.
 
 Architecture views enable the architecture to be communicated to all stakeholders so they can verity the system addresses all their concerns.
 
@@ -94,14 +94,14 @@ Architecture views enable the architecture to be communicated to all stakeholder
 
 Things that need to be considered in an architecture include, Security, Scalability, Availability, & Privacy.
 
-Architecture is about tradeoffs, and solving issues from one aspect of the architecture can have negative impacts on the other.
+Architecture is about tradeoffs, and solving issues from one aspect of the architecture can have negative impacts on another.
 
-There are such things as **Architectural Styles** so that there is a common language for sets of patterns and principles that may be used in different systems.
+**Architectural Styles** allow a common language for sets of patterns and principles that may be used in different systems.
 
 |Architecture Style||
 |---|---
 |Client Server|Distributed systems talk to one server.
-|Layered|Where functionalities of the system are grouped into layers that are stacked on top of eachother and can only communicate with the layer above or below.
+|Layered|Where functionalities of the system are grouped into layers that are stacked on top of each other and can only communicate with the layer above or below.
 |Message Bus|System is comprised of interacting components that only need to know how to interact with the interface of the bus.
 |Model View Controller|Model deals with data, View displays information & Controller handles the go between
 |Blackboard|Split into B,K & C. Blackboard is a structured memory with objects from the solution space, Knowledge sources are different sources of data, & Control selects configures and executes Knowledge sources.
@@ -131,6 +131,8 @@ Usability concentrates on goal achievement, whereas user interface is about pres
 
 **Characteristics of Usability include:**
 
+|Characteristic|Meaning|
+|---|---
 |Effective|Completely & Accurately help users achieve their goals
 |Efficient|Speedily help users achieve their goal
 |Error Tolerant|Prevention and recovery from errors
@@ -139,7 +141,7 @@ Usability concentrates on goal achievement, whereas user interface is about pres
 
 Part of usability is having good error messages.
 
-Usability testing involves selecting, demographics, users, tasks and time spent for a user, methods of recording the usage by a tester (screen-recording/paper/audio).
+Usability testing involves selecting demographics, users, tasks and time spent for a user, methods of recording the usage by a tester (screen-recording/paper/audio).
 
 |Measuring Usability||
 |---|---
