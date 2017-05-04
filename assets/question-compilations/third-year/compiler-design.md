@@ -95,13 +95,13 @@ where the control variable *i* is assigned successive values running from 1 to n
 ```
 TYPE
 	CourseData = RECORD
-						code, mark: INTEGER
-					END;
+		code, mark: INTEGER
+	END;
 	StudentInfo = RECORD
-						name: STRING;
-						number: INTEGER;
-						course: ARRAY {} OF CourseData
-					END;
+		name: STRING;
+		number: INTEGER;
+		course: ARRAY {} OF CourseData
+	END;
 	VAR
 		Students: ARRAY [1..32] OF StudentInfo;
 ```  
