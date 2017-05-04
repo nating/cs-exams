@@ -134,7 +134,7 @@ ATM ABR is a type of congestion control where the sender throttles his sending r
 
 **What form of congestion control does TCP use?**
 
-*TCP uses an Additive Increase Multiplicative Decrease (AIMD) form of congestion control. It increases the rate at which it sends data until a loss occurs, at which point it cuts the bandwidth in half.*
+*(TCP) uses a congestion control algorithm that includes various aspects of an additive increase/multiplicative decrease (AIMD) scheme, with other schemes such as slow-start. It increases the rate at which it sends data until a loss occurs, at which point it cuts the bandwidth in half.*
 
 **What is 'TCP Slow Start'?**
 
