@@ -89,3 +89,7 @@ When is an ordered BDD satisfiable?
 What do non-determinism and search have to do with (✝)?
 - Intelligent action comes with the need to make a choice based on a heuristic.
 - When searching, the intelligent agent will need to be non-determinsitc in its approach and make choices based on the heuristic.
+
+### 1r)
+What is non-determinism?
+- A nondeterministic algorithm is an algorithm that, even for the same input, can exhibit different behaviors on different runs.
