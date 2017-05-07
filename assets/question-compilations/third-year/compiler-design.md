@@ -51,7 +51,7 @@
 <A> -> <B>  
 <A> -> a 
 <A> -> ϵ
-<B> -> B 
+<B> -> b 
 <B> -> ϵ
  ```
  * B  
@@ -59,7 +59,7 @@
 <S> -> <A> <B> c   
 <A> -> a 
 <A> -> ϵ
-<B> -> B 
+<B> -> b 
 <B> -> ϵ
  ```
  * C  
@@ -67,11 +67,15 @@
 <S> -> <A> <B> <B> <A>  
 <A> -> a 
 <A> -> ϵ
-<B> -> B 
+<B> -> b 
 <B> -> ϵ
  ```
  
 12. Explain why the following two productions are not LL(1) and show how they may be handled by a recursive descent parser:  
+```
+<statement> -> if <condition> then <statement> else <statment>
+<statement> -> if <condition> then <statement>
+```  
 **[10 marks]**
 
 13. Design an augmented pushdown machine to compute the value of an arithmetic expression of the form '* 2 + 16 32' with this L-attributed translation grammar:  
