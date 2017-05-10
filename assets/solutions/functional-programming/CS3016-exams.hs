@@ -4,9 +4,6 @@
 
 	This file contains attempts at the questions
 	from the CS3016 Exams from 2013-2016.
-
-	There are also tests which can be run to verify
-	that the code works, if you are skeptical x
 -}
 import Test.HUnit
 
