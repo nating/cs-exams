@@ -93,8 +93,8 @@ eval d (Dvd e1 e2) = case(eval d e1,eval d e2) of
                       (Nothing,_) -> Nothing
                       (_,Nothing) -> Nothing
                       (Just x, Just y)
-                      | y == 0
-                      | otherwise = Just (div x y)
+                      | y == 0 -> Nothing
+                      | otherwise -> Just (div x y)
 eval d (Let v e1 e2) = case (eval d e1) of
                       | Nothing -> Nothing
                       | Just i -> eval (ins v i d) e2
@@ -199,7 +199,7 @@ lookup str table =
                         Just (_,bucket) -> find (==str . fst) bucket
       value = case valueTuple of
                     Nothing -> Nothing
-                    Just (_,v) -> Jsut v
+                    Just (_,v) -> Just v
   in value
 
 --3c)
@@ -298,15 +298,25 @@ f5 e xs = hof f5b e xs
 
 --3b)
 search :: Tree -> Int -> Maybe String
-search Empty -> Nothing
+search Empty = Nothing
 search x (Many left i s right)
   | x == i = Just s
   | x > i = search x right
   | x < i = search x left
 search x (Single i s)
   | x == i = Just s
+  | otherwise = Nothing
 
 --3c)
+search :: Tree -> Int -> Either Err String
+search Empty = Left "The tree you are searching is empty."
+search x (Many left i s right)
+  | x == i = Right s
+  | x > i = search x right
+  | x < i = search x left
+search x (Single i s)
+  | x == i = Right s
+  | otherwise = Left "Key not found in tree."
 
 
 
@@ -372,9 +382,51 @@ f5 xs = hof f5b 0 xs
 -}
 
 
+------------Q3--------------
 
+--3a)
+{-
+  The function will fail if the 'lkp' does not return a 'Just' in the
+  second pattern.
 
+  In the fourth pattern, if 'eval d e2' evaluates to zero there will
+  be an runtime error because of an attempt to divide by zero.  
+-}
 
+--3b)
+eval :: Dict -> Expr -> Maybe Int
+eval _ (K i) = Just i
+eval d (V s) = lkp s d
+eval d (Add e1 e2) = case (eval d e1,eval d e2) of
+                      (Nothing,_) -> Nothing
+                      (_,Nothing) -> Nothing
+                      (Just a, Just b) -> Just (a+b) 
+eval d (Dvd e1 e2) = case (eval d e1,eval d e2) of
+                      (Nothing,_) -> Nothing
+                      (_,Nothing) -> Nothing
+                      (Just a, Just b)
+                      | b == 0 -> Nothing
+                      | otherwise -> Just (div a b) 
+eval d (Let v e1 e2) = case eval d e1 of 
+                        Nothing -> Nothing
+                        Just i -> eval (ins v i d) e2
 
-
-
+--3c)
+eval :: Dict -> Expr -> Either Err Int
+eval _ (K i) = Right i
+eval d (V s) = case (lkp s d) of
+                Nothing -> Left "Function 'lkp' returned Nothing."
+                Just i -> Right i
+eval d (Add e1 e2) = case (eval d e1,eval d e2) of
+                      (Left msg,_) -> Left msg
+                      (_,Left msg) -> Left msg
+                      (Right a, Right b) -> Right (a+b) 
+eval d (Dvd e1 e2) = case (eval d e1,eval d e2) of
+                      (Left msg,_) -> Left msg
+                      (_,Left msg) -> Left msg
+                      (Right a, Right b)
+                      | b == 0 -> Left "Won't divide by zero- sorry! x"
+                      | otherwise -> Right (div a b) 
+eval d (Let v e1 e2) = case eval d e1 of 
+                        Left msg -> Left msg
+                        Right i -> eval (ins v i d) e2
