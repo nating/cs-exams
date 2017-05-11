@@ -6,7 +6,7 @@
 	from the CS3016 Exams from 2013-2016.
 
   These are 'attemps'. Who knows how many marks they would go for...
-  (and don't say Andrew Butterfield!)
+  (yes, I know: Dr Andrew Butterfield probably!)
 -}
 import Test.HUnit
 
@@ -153,14 +153,14 @@ hof fx (x:xs) (y:ys) = (fx x y) : (hof fx xs ys)
 -}
 
 --2c)
-f1 x y = hof (*) x y
-f2 x y = hof (+) x y
-f3 x y = hof f3b x y
-          where f3b x y = (x,y)
-f4 x y = hof f4b x y
-          where f4b x y = (y,x)
-f5 x y = hof f5b x y
-          where f5b x y = x
+f1 = hof (*)
+f2 = hof (+)
+f3 = hof f3b
+    where f3b x y = (x,y)
+f4 = hof f4b
+     where f4b x y = (y,x)
+f5 = hof f5b
+    where f5b x y = x
 
 --2d)
 {-
@@ -263,13 +263,13 @@ hof _ e [] = e
 hof fx e (x:xs) = hof fx (fx e x) xs
 
 --2b)
-f1 e xs = hof (*) e xs 
-f2 e xs = hof f2b e xs
-          where f2b x y = (x+1) 
-f3 e xs = hof (+) e xs 
-f4 e xs = hof (++) e xs 
-f5 e xs = hof f5b e xs
-          where f5b x y = (x+y*y)
+f1 = hof (*) 
+f2 = hof f2b
+     where f2b x y = (x+1) 
+f3 = hof (+) 
+f4 = hof (++) 
+f5 = hof f5b
+     where f5b x y = (x+y*y)
 
 --2c)
 {-
@@ -368,13 +368,13 @@ hof _ e [] = e
 hof fx e (x:xs) = fx x (hof fx e xs)
 
 --2b)
-f1 xs = hof (*) 1 xs
-f2 xs = hof f2b 0 xs
-        where f2b x y = (1+y)
-f3 xs = hof (+) 0 xs
-f4 xs = hof (++) [] xs
-f5 xs = hof f5b 0 xs
-        where f5b x y = (x*x+y)
+f1 = hof (*) 1
+f2 = hof f2b 0
+     where f2b x y = (1+y)
+f3 = hof (+) 0
+f4 = hof (++) []
+f5 = hof f5b 0
+     where f5b x y = (x*x+y)
 
 --2c)
 {-
