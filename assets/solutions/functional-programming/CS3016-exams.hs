@@ -104,6 +104,11 @@ eval d (Let v e1 e2) = case (eval d e1) of
   Won't attempt to draw a tree in a .hs file. 
 -}
 
+
+
+
+
+
 --------------------------------2015-----------------------------------------
 
 ------------Q1--------------
@@ -156,7 +161,7 @@ hof fx (x:xs) (y:ys) = (fx x y) : (hof fx xs ys)
 f1 = hof (*)
 f2 = hof (+)
 f3 = hof f3b
-    where f3b x y = (x,y)
+    where f3b x y = (x y)
 f4 = hof f4b
      where f4b x y = (y,x)
 f5 = hof f5b
@@ -216,6 +221,47 @@ lookup2 str table =
                     Right Nothing -> Left "Key not found in bucket for hash of string."
                     Right (Just (_,v) -> Right v
   in value
+
+
+------------Q4--------------
+
+--4a)
+{-
+  Won't attempt to draw a tree in a .hs file.
+-}
+
+--4b)
+{-
+
+  Strict:
+    take 2 (zig 20)
+    take 2 (20:zag(19))
+    take 2 (20:19:zig 18)
+    take 2 (20:19:18:zag 17)
+    take 2 (20:19:18:17:zig 16)
+    take 2 (20:19:18:17:16:zag 15)
+    take 2 (20:19:18:17:16:15:zig 14)...
+    This continues on infinitely list (it won't stop at zig 0 or zag 0)
+
+  Lazy:
+    take 2 (zig 20)
+    20 : take 1 (zig 20)
+    20 : 19 : take 0 (zig 20)
+    20 : 19 : []
+    [20,19]
+
+  As you can see, only lazy evaluation will give the proper result.
+-}
+
+--4ci) take 0 []
+
+--4cii) There is no expression that can be evaluated strictly but not lazily.
+
+--4ciii) take 2 (zig 20)
+
+--4civ) zig 0
+
+--4d)
 
 
 
@@ -297,8 +343,8 @@ f5 = hof f5b
 -}
 
 --3b)
-search :: Tree -> Int -> Maybe String
-search Empty = Nothing
+search :: Int -> Tree -> Maybe String
+search _ Empty = Nothing
 search x (Many left i s right)
   | x == i = Just s
   | x > i = search x right
@@ -308,8 +354,8 @@ search x (Single i s)
   | otherwise = Nothing
 
 --3c)
-search :: Tree -> Int -> Either Err String
-search Empty = Left "The tree you are searching is empty."
+search :: Int -> Tree -> Either Err String
+search _ Empty = Left "The tree you are searching is empty."
 search x (Many left i s right)
   | x == i = Right s
   | x > i = search x right
@@ -317,6 +363,51 @@ search x (Many left i s right)
 search x (Single i s)
   | x == i = Right s
   | otherwise = Left "Key not found in tree."
+
+
+------------Q4--------------
+
+--4a)
+{-
+  Won't attempt to create a tree in a .hs file.
+-}
+
+--4b)
+{-
+  take 2 (evenup 2)
+
+  Strict:
+    take 2 (evenup 2)
+    take 2 (2:evenup 3)
+    take 2 (2:3:evenup 4)
+    take 2 (2:3:4:evenup 5)
+    This will continue on infinitely and therefore not give a result.
+
+  Lazy:
+  take 2 (evenup 2)
+  take 2 (2:evenup 4)
+  2: take 1 (evenup 4)
+  2: take 1 (4:evenup 6)
+  2: 4: take 0 (evenup 6)
+  2: 4: []
+  [2,4]
+
+  As you can see, only lazy evaluation will give the proper result.
+-}
+
+--4ci) evenup 0
+
+--4cii) There is no expression that terminates when evaluated strictly but 
+--      not when evaluated lazily.
+
+--4ciii) take 2 (evenup 2)
+
+--4civ) take 0 []
+
+--4d)
+
+
+
 
 
 
@@ -430,3 +521,61 @@ eval d (Dvd e1 e2) = case (eval d e1,eval d e2) of
 eval d (Let v e1 e2) = case eval d e1 of 
                         Left msg -> Left msg
                         Right i -> eval (ins v i d) e2
+
+
+------------Q4--------------
+
+--4a)
+{-
+  Won't attempt to draw a tree in a .hs file.
+-}
+
+--4b)
+{-
+  take 2 (down 42)
+
+  Strict:
+    take 2 (down 42)
+    take 2 (42:down 41)
+    take 2 (42:41:down 40)
+    take 2 (42:41:40:down 39)
+    This continues on infitely (does not stop at down 0) and therefore a result will never emerge.
+
+  Lazy:
+    take 2 (down 42)
+    take 2 (42:down 41)
+    42: take 1 (down 41)
+    42: take 1 (41:down 40)
+    42: 41: take 0 (down 40)
+    42: 41: []
+    [42,41]
+
+  As you can see, only lazy evaluation will give the proper result.
+-}
+
+--4ci) take 0 []
+
+--4cii) There is no such expression
+
+--4ciii) take 2 (down 42)
+
+--4civ) down 42
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
