@@ -262,6 +262,15 @@ lookup2 str table =
 --4civ) zig 0
 
 --4d)
+hashFileToAnother = 
+       do     putStr "What file do you want hashed?"
+              from <- getLine
+              putStr "Where do you want the hash?"
+              to <- getLine
+              text <- readFile (from++".txt")
+              writeFile (to++".txt") (hash text)
+              putStr "Done." 
+
 
 
 
@@ -403,9 +412,6 @@ search x (Single i s)
 --4ciii) take 2 (evenup 2)
 
 --4civ) take 0 []
-
---4d)
-
 
 
 
@@ -561,8 +567,13 @@ eval d (Let v e1 e2) = case eval d e1 of
 
 --4civ) down 42
 
-
-
+--4d)
+fileToUpperCase = 
+       do     putStr "What file do you want to uppercase?"
+              from <- getLine
+              text <- readFile (from++".in")
+              writeFile (from++".ing") (toUpper text)
+              putStr "Done." 
 
 
 
