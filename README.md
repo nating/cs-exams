@@ -1,4 +1,4 @@
-# Trinity Computer Science Website
+# Trinity Computer Science Website [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 A website to help Computer Science students at Trinity College Dublin study their course material.  It can be found at <a href="https://nating.netsoc.ie">nating.netsoc.ie<a>. 
 
 
