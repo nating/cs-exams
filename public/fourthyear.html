@@ -53,9 +53,9 @@
         </div>
     </div>
     <script>
-        
-        
-        
+
+
+
             (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
       (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
       m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
@@ -65,7 +65,7 @@
       ga('send', 'pageview');
 
         window.addEventListener('load',function(){ startUp();},false);
-        
+
         //Code run once the page is loaded.
         var startUp = function(){
             updateContent(window.history.state);
@@ -91,16 +91,16 @@
             history.pushState(state, moduleID, "fourthyear.html?module="+moduleID);
             updateContent(state);
         }
-        
-        
-        
+
+
+
         var generateSubject = function(moduleCode){
-            
+
             var subject = document.getElementById("subject");
-            
+
             switch (moduleCode){
                 case "CS4LL5":
-                    subject.innerHTML = 
+                    subject.innerHTML =
                         `<div>
                             <h2 class="subheading">Advanced Computational Linguistics Links</h2>
                                 <ul class="subjects">
@@ -116,7 +116,7 @@
                         </div>`;
                     break;
                 case "CS4021":
-                    subject.innerHTML = 
+                    subject.innerHTML =
                         `<div>
                             <h2 class="subheading">Advanced Computer Architecture Links</h2>
                                 <ul class="subjects">
@@ -137,7 +137,7 @@
                         </div>`;
                     break;
                 case "CS4061":
-                    subject.innerHTML = 
+                    subject.innerHTML =
                         `<div>
                             <h2 class="subheading">Artificial Intelligence IIa Links</h2>
                                 <ul class="subjects">
@@ -155,7 +155,7 @@
                         </div>`;
                     break;
                 case "CS4071":
-                    subject.innerHTML = 
+                    subject.innerHTML =
                         `<div>
                             <h2 class="subheading">Compiler Design II Links</h2>
                                 <ul class="subjects">
@@ -173,7 +173,7 @@
                         </div>`;
                     break;
                 case "CS4052":
-                    subject.innerHTML = 
+                    subject.innerHTML =
                         `<div>
                             <h2 class="subheading">Computer Graphics Links</h2>
                                 <ul class="subjects">
@@ -198,7 +198,7 @@
                         </div>`;
                     break;
                 case "CS4053":
-                    subject.innerHTML = 
+                    subject.innerHTML =
                         `<div>
                             <h2 class="subheading">Computer Vision Links</h2>
                                 <ul class="subjects">
@@ -223,7 +223,7 @@
                         </div>`;
                     break;
                 case "CS4032":
-                    subject.innerHTML = 
+                    subject.innerHTML =
                         `<div>
                             <h2 class="subheading">Distributed Systems Links</h2>
                                 <ul class="subjects">
@@ -248,7 +248,7 @@
                         </div>`;
                     break;
                 case "CS4004":
-                    subject.innerHTML = 
+                    subject.innerHTML =
                         `<div>
                             <h2 class="subheading">Formal Verification Links</h2>
                                 <ul class="subjects">
@@ -264,11 +264,21 @@
                         </div>`;
                     break;
                 case "CS4001":
-                    subject.innerHTML = 
+                    subject.innerHTML =
                         `<div>
                             <h2 class="subheading">Fuzzy Logic Links</h2>
                                 <ul class="subjects">
                                     <li><a class="link" href="https://mymodule.tcd.ie/">Blackboard</a></li>
+                                </ul>
+                        </div>
+                        <div>
+                            <h2 class="subheading">Fuzzy Logic Model Answers</h2>
+                                <ul class="subjects">
+                                    <li><a class="link" href="https://www.scss.tcd.ie/Khurshid.Ahmad/Teaching/Lectures_on_Fuzzy_Logic/2011_2012_CS_Paper_Model_Solutions.pdf">2012</a></li>
+                                    <li><a class="link" href="https://www.scss.tcd.ie/Khurshid.Ahmad/Teaching/Lectures_on_Fuzzy_Logic/Model_Answers.pdf">2011</a></li>
+                                    <li><a class="link" href="https://www.scss.tcd.ie/Khurshid.Ahmad/Teaching/Lectures_on_Fuzzy_Logic/2009_2010_CS4001_Paper_Model_Solutions.pdf">2010</a></li>
+                                    <li><a class="link" href="https://www.scss.tcd.ie/Khurshid.Ahmad/Teaching/Lectures_on_Fuzzy_Logic/2008_2009_4BA13_Model_Solutions.pdf">2009</a></li>
+                                    <li><a class="link" href="https://www.scss.tcd.ie/Khurshid.Ahmad/Teaching/Lectures_on_Fuzzy_Logic/Archive_2008/2007_2008_4BA13_Model_Solutions.pdf">2008</a></li>
                                 </ul>
                         </div>
                         <div>
@@ -288,7 +298,7 @@
                         </div>`;
                     break;
                 case "CS4051":
-                    subject.innerHTML = 
+                    subject.innerHTML =
                         `<div>
                             <h2 class="subheading">Human Factors Links</h2>
                                 <ul class="subjects">
@@ -311,7 +321,7 @@
                         </div>`;
                     break;
                 case "CS4031":
-                    subject.innerHTML = 
+                    subject.innerHTML =
                         `<div>
                             <h2 class="subheading">Mobile Communications Links</h2>
                                 <ul class="subjects">
@@ -335,7 +345,7 @@
                         </div>`;
                     break;
                 case "CS4012":
-                    subject.innerHTML = 
+                    subject.innerHTML =
                         `<div>
                             <h2 class="subheading">Topics in Functional Programming Links</h2>
                                 <ul class="subjects">
@@ -357,17 +367,17 @@
                 default: subject.innerHTML = ""; break;
             }
         };
-        document.getElementById("CS4051").addEventListener("click",function(){moduleClicked("CS4051");}); 
-        document.getElementById("CS4001").addEventListener("click",function(){moduleClicked("CS4001");}); 
-        document.getElementById("CS4004").addEventListener("click",function(){moduleClicked("CS4004");}); 
-        document.getElementById("CS4012").addEventListener("click",function(){moduleClicked("CS4012");}); 
-        document.getElementById("CS4021").addEventListener("click",function(){moduleClicked("CS4021");}); 
-        document.getElementById("CS4031").addEventListener("click",function(){moduleClicked("CS4031");}); 
-        document.getElementById("CS4032").addEventListener("click",function(){moduleClicked("CS4032");}); 
-        document.getElementById("CS4052").addEventListener("click",function(){moduleClicked("CS4052");}); 
-        document.getElementById("CS4053").addEventListener("click",function(){moduleClicked("CS4053");}); 
-        document.getElementById("CS4061").addEventListener("click",function(){moduleClicked("CS4061");}); 
-        document.getElementById("CS4071").addEventListener("click",function(){moduleClicked("CS4071");}); 
-        document.getElementById("CS4LL5").addEventListener("click",function(){moduleClicked("CS4LL5");}); 
+        document.getElementById("CS4051").addEventListener("click",function(){moduleClicked("CS4051");});
+        document.getElementById("CS4001").addEventListener("click",function(){moduleClicked("CS4001");});
+        document.getElementById("CS4004").addEventListener("click",function(){moduleClicked("CS4004");});
+        document.getElementById("CS4012").addEventListener("click",function(){moduleClicked("CS4012");});
+        document.getElementById("CS4021").addEventListener("click",function(){moduleClicked("CS4021");});
+        document.getElementById("CS4031").addEventListener("click",function(){moduleClicked("CS4031");});
+        document.getElementById("CS4032").addEventListener("click",function(){moduleClicked("CS4032");});
+        document.getElementById("CS4052").addEventListener("click",function(){moduleClicked("CS4052");});
+        document.getElementById("CS4053").addEventListener("click",function(){moduleClicked("CS4053");});
+        document.getElementById("CS4061").addEventListener("click",function(){moduleClicked("CS4061");});
+        document.getElementById("CS4071").addEventListener("click",function(){moduleClicked("CS4071");});
+        document.getElementById("CS4LL5").addEventListener("click",function(){moduleClicked("CS4LL5");});
     </script>
 </body>
