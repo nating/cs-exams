@@ -20,7 +20,7 @@
 <meta name="msapplication-TileImage" content="favicon.ico/ms-icon-144x144.png">
 <meta name="theme-color" content="#ffffff">
 <meta name="description" content="4th year links." >
-<meta name="keywords" content="Computer Science, Trinity College Dublin, Examination, Exam papers, Past papers, Fourth Year, Advanced Computational Linguistics, Advanced Computer Architecture, Artificial Intelligence IIa, Compiler Design II, Computer Graphics, Computer Vision, Distributed Systems, Formal Verification, Fuzzy Logic, Human Factors, Mobile Communications, Topics in Functional Programming">
+<meta name="keywords" content="Computer Science, Trinity College Dublin, Examination, Exam papers, Past papers, Fourth Year, Advanced Computational Linguistics, Advanced Computer Architecture, Artificial Intelligence IIa, Compiler Design II, Computer Graphics, Computer Vision, Distributed Systems, Formal Verification, Fuzzy Logic, Human Factors, Next Generation Networks, Topics in Functional Programming">
 </head>
 <body>
     <div class="background-scroll">
@@ -45,7 +45,10 @@
                 <li><a id="CS4004">Formal Verification</a></li>
                 <li><a id="CS4001">Fuzzy Logic</a></li>
                 <li><a id="CS4051">Human Factors</a></li>
-                <li><a id="CS4031">Mobile Communications</a></li>
+                <li><a id="CS4400">Internet Applications</a></li>
+                <li><a id="CS4404">Machine Learning</a></li>
+                <li><a id="EE4C16">Machine Learning with Applications in Media Processing</a></li>
+                <li><a id="CS4031">Next Generation Networks</a></li>
                 <li><a id="CS4012">Topics in Functional Programming</a></li>
             </ul>
             <div id="subject">
@@ -320,16 +323,46 @@
                                 </ul>
                         </div>`;
                     break;
+                case "CS4404":
+                    subject.innerHTML =
+                        `<div>
+                            <h2 class="subheading">Machine Learning Links</h2>
+                                <ul class="subjects">
+                                    <li><a class="link" href="https://mymodule.tcd.ie/">Blackboard</a></li>
+                                </ul>
+                        </div>`;
+                    break;
+                case "EE4C16":
+                    subject.innerHTML =
+                        `<div>
+                            <h2 class="subheading">Machine Learning with Applications in Media Processing Links</h2>
+                                <ul class="subjects">
+                                    <li><a class="link" href="https://mymodule.tcd.ie/">Blackboard</a></li>
+                                    <li><a class="link" href="https://github.com/frcs/EE4C16">GitHub</a></li>
+                                    <li><a class="link" href="http://turing.mee.tcd.ie/">Turing Dashboard ('Must be' within Trinity to access)</a></li>
+                                </ul>
+                        </div>`;
+                    break;
+                case "CS4400":
+                    subject.innerHTML =
+                        `<div>
+                            <h2 class="subheading">Internet Applications Links</h2>
+                                <ul class="subjects">
+                                    <li><a class="link" href="https://mymodule.tcd.ie/">Blackboard</a></li>
+                                    <li><a class="link" href="https://www.scss.tcd.ie/~ebarrett/teaching/CS4400/">Module Site</a></li>
+                                </ul>
+                        </div>`;
+                    break;
                 case "CS4031":
                     subject.innerHTML =
                         `<div>
-                            <h2 class="subheading">Mobile Communications Links</h2>
+                            <h2 class="subheading">Next Generation Networks Links</h2>
                                 <ul class="subjects">
                                     <li><a class="link" href="https://mymodule.tcd.ie/">Blackboard</a></li>
                                 </ul>
                         </div>
                         <div>
-                            <h2 class="subheading">Mobile Communications Questions by year</h2>
+                            <h2 class="subheading">Next Generation Networks Questions by year</h2>
                                 <ul class="years">
                                     <li><a href="https://www.tcd.ie/academicregistry/exams/assets/local/past-papers2016/CS/CS4031-1.PDF">2016</a></li>
                                     <li><a href="https://www.tcd.ie/academicregistry/exams/assets/local/past-papers2015/Annuals%20Dec%2014/CS4031-1.pdf">2015</a></li>
@@ -378,6 +411,9 @@
         document.getElementById("CS4053").addEventListener("click",function(){moduleClicked("CS4053");});
         document.getElementById("CS4061").addEventListener("click",function(){moduleClicked("CS4061");});
         document.getElementById("CS4071").addEventListener("click",function(){moduleClicked("CS4071");});
+        document.getElementById("CS4400").addEventListener("click",function(){moduleClicked("CS4400");});
+        document.getElementById("CS4404").addEventListener("click",function(){moduleClicked("CS4404");});
         document.getElementById("CS4LL5").addEventListener("click",function(){moduleClicked("CS4LL5");});
+        document.getElementById("EE4C16").addEventListener("click",function(){moduleClicked("EE4C16");});
     </script>
 </body>
