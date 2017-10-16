@@ -49,6 +49,7 @@
                 <li><a id="CS4404">Machine Learning</a></li>
                 <li><a id="EE4C16">Machine Learning with Applications in Media Processing</a></li>
                 <li><a id="CS4031">Next Generation Networks</a></li>
+                <li><a id="CS4081">Entrepreneurship &amp; High Tech Venture Creation</a></li>
                 <li><a id="CS4012">Topics in Functional Programming</a></li>
             </ul>
             <div id="subject">
@@ -377,6 +378,16 @@
                                 </ul>
                         </div>`;
                     break;
+                case "CS4081":
+                    subject.innerHTML =
+                        `<div>
+                            <h2 class="subheading">Entrepreneurship & High Tech Venture Creation Links</h2>
+                                <ul class="subjects">
+                                    <li><a class="link" href="https://mymodule.tcd.ie/">Blackboard</a></li>
+                                    <li><a class="link" href="https://www.scss.tcd.ie/~omahony/cs4081/">Module Site</a></li>
+                                </ul>
+                        </div>`;
+                    break;
                 case "CS4012":
                     subject.innerHTML =
                         `<div>
@@ -411,6 +422,7 @@
         document.getElementById("CS4053").addEventListener("click",function(){moduleClicked("CS4053");});
         document.getElementById("CS4061").addEventListener("click",function(){moduleClicked("CS4061");});
         document.getElementById("CS4071").addEventListener("click",function(){moduleClicked("CS4071");});
+        document.getElementById("CS4081").addEventListener("click",function(){moduleClicked("CS4081");});
         document.getElementById("CS4400").addEventListener("click",function(){moduleClicked("CS4400");});
         document.getElementById("CS4404").addEventListener("click",function(){moduleClicked("CS4404");});
         document.getElementById("CS4LL5").addEventListener("click",function(){moduleClicked("CS4LL5");});
