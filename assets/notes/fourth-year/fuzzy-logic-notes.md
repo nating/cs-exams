@@ -87,9 +87,11 @@ The **Support** of a fuzzy set *A*⊆*X* is the crisp subset of *X* whose elemen
 
 The **Core** of a fuzzy set *A*⊆*X* is the crisp subset of *X* whose elements all have membership grades of 1 in *A*.
 
+The **Universe of Discourse** is the range of all possible values for an input to a fuzzy system.
 
+The **Crossover Point** of a fuzzy set is the element at which its membership function is 0.5.
 
-
+A **Fuzzy Singleton** is a fuzzy set whose support is a single point in U with a membership function of one.
 
 ### Fuzzy Set Operations
 
@@ -115,13 +117,31 @@ The **Cross Product** (or *Cartesian Product*) of *A*⊆*X* and *B*⊆*Y* is den
 
 Cross products facilitate the mapping of fuzzy subsets that belong to disparate quantities or observations.
 
+A **Fuzzy Patch** is defined by a fuzzy rule: a patch is a mapping of two membership functions.
 
+A rule in a fuzzy controller's ruleset generates the product of the input & output fuzzy sets.
 
+**Primary Membership Terms**, are those such as *fat*, *weird* & *nice* (𝝻<sub>*fat*</sub>,𝝻<sub>*weird*</sub> & 𝝻<sub>*nice*</sub>), whereas terms such as *very fat*, *more or less weird* & *not nice* ((𝝻<sub>*fat*</sub>)<sup>2</sup>,(𝝻<sub>*weird*</sub>))<sup>1/2</sup> & (1-𝝻<sub>*nice*</sub>)) are **Non-Primary Membership Functions** as they can be made up from other terms.
 
+The **Base Variable** of a fuzzy set e.g. *Young*, is the parameter type that the membership function is applied to e.g. *Age*.
 
+## Knowledge Representation & Reasoning
 
+**Fuzzification** is the mapping of information onto the term-set of a linguistic variable.
 
+**Inference** is the invoking of rules in a knowledge base systematically to determine which rules are fired and to what degree.
 
+**Composition** is an averaging procedure used to compute the effectiveness of each rule.
+
+**Defuzzification** is the process of converting fuzzy values onto crisp numbers.
+
+A **Knowledge Based** expert system is a computer program which, with its associated data, embodies organised knowledge concerning some specific area of human activity.
+
+A **Production System** is a knowledge representation based on condition-action pairs, called production rules or just productions of the form "If this condition occurs, then do this action".
+
+A **Fuzzy Knowledge-Based System** is a knowledge-based system that performs approximate reasoning.
+
+A fuzzy knowledge base comprises vague facts and vague rules, such as *X* is 𝝻<sub>*x*</sub> or IF *X* is 𝝻<sub>*x*</sub> THEN *Y* is 𝝻<sub>*y*</sub>).
 
 
 
