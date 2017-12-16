@@ -3,15 +3,6 @@
 
 # CS4051 Human Factors
 
-## Notes (TODO lol)
-
-* Topic x
-* Topic x
-* Topic x
-* Topic x
-* Topic x
-* Topic x
-
 ## Passages
 
 Each exam has three questions based on a passage. These are links to each of the passages (from Gavin Doherty's exams) from previous years.
@@ -30,3 +21,5 @@ Each exam has three questions based on a passage. These are links to each of the
 * [All questions from past papers in one document](https://github.com/nating/trinity-cs-website/blob/master/assets/notes/fourth-year/human-factors/human-factors-questions.md)
 * [The above document with questions differing only by wording combined](https://github.com/nating/trinity-cs-website/blob/master/assets/notes/fourth-year/human-factors/removed-duplicates-human-factors-questions.md)
 * Some attempts at answering the above questions (TODO)
+
+## Notes (TODO lol)
