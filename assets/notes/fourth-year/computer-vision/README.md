@@ -11,5 +11,10 @@
 * Topic x
 
 ## Resources
-* All questions from past papers in one document (TODO)
-* Solutions to the above document (TODO)
+* Computer Vision Techniques (TODO)
+  * Quick high level description
+  * More in depth description
+  * What it is used for
+  * Pros & Cons
+* Questions attempts (TODO)
+* Computer Vision Technique Comparisons (TODO)
