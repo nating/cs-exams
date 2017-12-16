@@ -3,12 +3,14 @@
 
 ## Notes
 
-* Topic x
-* Topic x
-* Topic x
-* Topic x
-* Topic x
-* Topic x
+Parallelism
+Monads
+Embedded Domain Specific Languages
+Monad Transformers
+Concurrency
+Implementing Type Inference
+Advanced Type Systems
+GUIs in Threepenny, & Arrows
 
 ## Resources
 * All questions from past papers in one document (TODO)
