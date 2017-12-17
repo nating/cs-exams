@@ -1,5 +1,5 @@
 
-## Introduction to Fuzzy Logic & Control Systems
+## Introduction to Fuzzy Logic & Fuzzy Control Systems
 
 **Soft computing** is an umbrella term for disciplines such as:
 * Fuzzy logic and fuzzy control,
