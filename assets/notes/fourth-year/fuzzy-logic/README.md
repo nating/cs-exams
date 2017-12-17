@@ -11,8 +11,6 @@
 * Neuro-Fuzzy Models
 
 ## Resources
-* All questions from past papers in one document (TODO)
-* Solutions to the above document (TODO)
 * [All of my notes in one document (in case you want to `cmd+f` for a term x)](https://github.com/nating/trinity-cs-website/blob/master/assets/notes/fourth-year/fuzzy-logic/notes/all-together.md)
 
 ## Solutions
@@ -20,15 +18,21 @@
 These should be called "question attempts", but anything I am unsure of is clearly noted.
 
 Year|Question 1|Question 2|Question 3|Question 4|Question 5
----|---|---|---|---
-2017||||
-2016||||
-2015||||
-2014||||
-2013||||
-2012||||
-2011||||
-2010||||
-2009||||
-2008||||
-2007||||
+---|---|---|---|---|---
+2017|||||
+2016|||||
+2015|||||
+2014|||||
+2013|||||
+2012|||||
+2011|||||
+2010|||||
+2009|||||
+2008|[😛][20081]||[💃][20083]|[😮][20084]|
+2007|||||
+
+[20081]: https://github.com/nating/trinity-cs-website/blob/master/assets/notes/fourth-year/fuzzy-logic/solutions/2008.md#2008-q1
+[20082]: https://github.com/nating/trinity-cs-website/blob/master/assets/notes/fourth-year/fuzzy-logic/solutions/2008.md#2008-q2
+[20083]: https://github.com/nating/trinity-cs-website/blob/master/assets/notes/fourth-year/fuzzy-logic/solutions/2008.md#2008-q3
+[20084]: https://github.com/nating/trinity-cs-website/blob/master/assets/notes/fourth-year/fuzzy-logic/solutions/2008.md#2008-q4
+[20085]: https://github.com/nating/trinity-cs-website/blob/master/assets/notes/fourth-year/fuzzy-logic/solutions/2008.md#2008-q5
