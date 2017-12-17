@@ -122,3 +122,6 @@ h1 a, h1 a:hover{
     text-decoration:none;
     color:#FFFFFF;
 }
+li.defunct {
+	background-color:#888888;
+}
