@@ -5,10 +5,10 @@
 
 * [Introduction to Fuzzy Logic and Fuzzy Control Systems](https://github.com/nating/trinity-cs-website/blob/master/assets/notes/fourth-year/fuzzy-logic/notes/introduction-to-fuzzy-logic-and-fuzzy-control-systems.md)
 * [Properties of Fuzzy Sets and Relationships amongst the sets](https://github.com/nating/trinity-cs-website/blob/master/assets/notes/fourth-year/fuzzy-logic/notes/properties-of-fuzzy-sets-and-relationships-amongst-the-sets.md)
-* [Knowledge Representation and Reasoning](https://github.com/nating/trinity-cs-website/blob/master/assets/notes/fourth-year/fuzzy-logic/notes/knowledge-representation-and-reasoning.md)
+* [Knowledge Representation and Reasoning](https://github.com/nating/trinity-cs-website/blob/master/assets/notes/fourth-year/fuzzy-logic/notes/knowledge-representation-and-reasoning.md) (Doing)
 * Fuzzy Control Systems
 * Fuzzy Control Systems: Mamdani and Takagi-Sugeno Systems
-* Neuro-Fuzzy Models
+* [Neuro-Fuzzy Models](https://github.com/nating/trinity-cs-website/blob/master/assets/notes/fourth-year/fuzzy-logic/notes/neuro-fuzzy-models.md) (Doing)
 
 ## Resources
 * [All of my notes in one document (in case you want to `cmd+f` for a term x)](https://github.com/nating/trinity-cs-website/blob/master/assets/notes/fourth-year/fuzzy-logic/notes/all-together.md)
@@ -28,7 +28,7 @@ Year|Question 1|Question 2|Question 3|Question 4|Question 5
 2011|||||
 2010|||||
 2009|||||
-2008|[😛][20081]||[💃][20083]|[😮][20084]|
+2008|[😛][20081]||[💃][20083]|[😮][20084]|[🍦][20085]
 2007|||||
 
 [20081]: https://github.com/nating/trinity-cs-website/blob/master/assets/notes/fourth-year/fuzzy-logic/solutions/2008.md#2008-q1
