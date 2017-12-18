@@ -22,8 +22,8 @@ Year|Question 1|Question 2|Question 3|Question 4|Question 5
 2017|||||
 2016|||||
 2015|||||
-2014|||||
-2013|||||
+2014|[😛][20081]||||
+2013|||||[🍦][20085]
 2012||[💃][20122]||[😮][20124]|
 2011|||||[🍦][20115]
 2010|[😛][20101]|||[😮][20104]|
@@ -31,7 +31,7 @@ Year|Question 1|Question 2|Question 3|Question 4|Question 5
 2008|[😛][20081]||[💃][20083]|[😮][20084]|[🍦][20085]
 2007|||||
 
-*Questions represented by the same emoji are more or less the same question that came up in different years.*
+*Questions represented by the same emoji are the same question that came up in different years.*
 
 [20081]: https://github.com/nating/trinity-cs-website/blob/master/assets/notes/fourth-year/fuzzy-logic/solutions/2008.md#2008-q1
 [20082]: https://github.com/nating/trinity-cs-website/blob/master/assets/notes/fourth-year/fuzzy-logic/solutions/2008.md#2008-q2
@@ -62,3 +62,15 @@ Year|Question 1|Question 2|Question 3|Question 4|Question 5
 [20123]: https://github.com/nating/trinity-cs-website/blob/master/assets/notes/fourth-year/fuzzy-logic/solutions/2012.md#2012-q3
 [20124]: https://github.com/nating/trinity-cs-website/blob/master/assets/notes/fourth-year/fuzzy-logic/solutions/2012.md#2012-q4
 [20125]: https://github.com/nating/trinity-cs-website/blob/master/assets/notes/fourth-year/fuzzy-logic/solutions/2012.md#2012-q5
+
+[20131]: https://github.com/nating/trinity-cs-website/blob/master/assets/notes/fourth-year/fuzzy-logic/solutions/2013.md#2013-q1
+[20132]: https://github.com/nating/trinity-cs-website/blob/master/assets/notes/fourth-year/fuzzy-logic/solutions/2013.md#2013-q2
+[20133]: https://github.com/nating/trinity-cs-website/blob/master/assets/notes/fourth-year/fuzzy-logic/solutions/2013.md#2013-q3
+[20134]: https://github.com/nating/trinity-cs-website/blob/master/assets/notes/fourth-year/fuzzy-logic/solutions/2013.md#2013-q4
+[20135]: https://github.com/nating/trinity-cs-website/blob/master/assets/notes/fourth-year/fuzzy-logic/solutions/2013.md#2013-q5
+
+[20141]: https://github.com/nating/trinity-cs-website/blob/master/assets/notes/fourth-year/fuzzy-logic/solutions/2014.md#2014-q1
+[20142]: https://github.com/nating/trinity-cs-website/blob/master/assets/notes/fourth-year/fuzzy-logic/solutions/2014.md#2014-q2
+[20143]: https://github.com/nating/trinity-cs-website/blob/master/assets/notes/fourth-year/fuzzy-logic/solutions/2014.md#2014-q3
+[20144]: https://github.com/nating/trinity-cs-website/blob/master/assets/notes/fourth-year/fuzzy-logic/solutions/2014.md#2014-q4
+[20145]: https://github.com/nating/trinity-cs-website/blob/master/assets/notes/fourth-year/fuzzy-logic/solutions/2014.md#2014-q5
