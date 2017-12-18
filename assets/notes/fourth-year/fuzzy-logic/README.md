@@ -11,7 +11,7 @@
 * [Neuro-Fuzzy Models](https://github.com/nating/trinity-cs-website/blob/master/assets/notes/fourth-year/fuzzy-logic/notes/neuro-fuzzy-models.md) (Doing)
 
 ## Resources
-* [All of my notes in one document (in case you want to `cmd+f` for a term x)](https://github.com/nating/trinity-cs-website/blob/master/assets/notes/fourth-year/fuzzy-logic/notes/all-together.md)
+* [All of my notes in one document (in case you want to `cmd+f` for a term) x](https://github.com/nating/trinity-cs-website/blob/master/assets/notes/fourth-year/fuzzy-logic/notes/all-together.md)
 
 ## Model Answers
 
@@ -22,8 +22,8 @@ Year|Question 1|Question 2|Question 3|Question 4|Question 5
 2017|||||
 2016|||||
 2015|||||
-2014|[😛][20081]||||
-2013|||||[🍦][20085]
+2014|[😛][20141]||||
+2013|||||[🍦][20135]
 2012||[💃][20122]||[😮][20124]|
 2011|||||[🍦][20115]
 2010|[😛][20101]|||[😮][20104]|
