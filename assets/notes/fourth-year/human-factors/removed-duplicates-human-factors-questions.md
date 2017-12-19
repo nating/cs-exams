@@ -5,7 +5,7 @@ Here are all the questions that have been asked since 2008 (The first year of th
 
 The exam paper was written by Gavin Doherty every year except 2009. The questions from that paper have been omitted from this document.
 
-The Human Factors exam papers are **extremely** similar each year. I have combined questions that differ only in a sentence or word, when compiling this list. If that doesn't suit you, you can see them all unaltered [here](https://github.com/nating/trinity-cs-website/blob/master/assets/notes/fourth-year/human-factors/human-factors-questions.md).
+The Human Factors exam papers are **extremely** similar each year. I have combined questions that differ only in a sentence or word, when compiling this list. If that doesn't suit you, you can see them all unaltered [here](https://github.com/nating/cs-exams/blob/master/assets/notes/fourth-year/human-factors/human-factors-questions.md).
 
 Questions are ordered by their frequency.
 

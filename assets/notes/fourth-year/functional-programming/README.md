@@ -14,6 +14,6 @@
 9. GUIs in Threepenny, & Arrows
 
 ## Resources
-* [Notes taken from 'Learn You a Haskell'](https://github.com/nating/trinity-cs-website/blob/master/assets/notes/fourth-year/functional-programming/learn-you-a-haskell-notes/README.md)
+* [Notes taken from 'Learn You a Haskell'](https://github.com/nating/cs-exams/blob/master/assets/notes/fourth-year/functional-programming/learn-you-a-haskell-notes/README.md)
 * All questions from past papers in one document (TODO)
 * Solutions to the above document (TODO)

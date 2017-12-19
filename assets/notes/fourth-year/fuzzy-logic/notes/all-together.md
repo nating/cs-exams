@@ -1,5 +1,5 @@
 
-*This document is a compilation of a series of notes on fuzzy logic that can be found [here](https://github.com/nating/trinity-cs-website/blob/master/assets/notes/fourth-year/fuzzy-logic/)*
+*This document is a compilation of a series of notes on fuzzy logic that can be found [here](https://github.com/nating/cs-exams/blob/master/assets/notes/fourth-year/fuzzy-logic/)*
 
 # Fuzzy Logic Notes
 
