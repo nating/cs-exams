@@ -9,7 +9,7 @@ CS4051
 ## Resources
 
 * [Blackboard](https://mymodule.tcd.ie/)
-* [Geoff's other resources](https://github.com/nating/trinity-cs-website/tree/master/assets/notes/fourth-year/human-factors)
+* [Geoff's other resources](https://github.com/nating/cs-exams/tree/master/assets/notes/fourth-year/human-factors)
 
 ## Questions by Year
 

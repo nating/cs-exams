@@ -9,7 +9,7 @@ CS4001
 ## Resources
 
 -   [Blackboard](https://mymodule.tcd.ie/)
--   [Geoff's Notes](https://github.com/nating/trinity-cs-website/tree/master/assets/notes/fourth-year/fuzzy-logic)
+-   [Geoff's Notes](https://github.com/nating/cs-exams/tree/master/assets/notes/fourth-year/fuzzy-logic)
 -   [Scarlett's Notes](https://gitlab.scss.tcd.ie/gourleys/FourthYear/tree/master/Fuzzy)
 -   [Cathal Ormond's Notes](https://www.maths.tcd.ie/~ormondca/notes/Fuzzy%20Logic%20Notes.pdf)
 

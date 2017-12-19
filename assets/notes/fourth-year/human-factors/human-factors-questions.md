@@ -9,7 +9,7 @@ The Human Factors exam papers are **extremely** similar each year.
 
 **YOU SHOULD READ THE FOLLOWING PARAGRAPH BEFORE CONTINUING**
 
-Questions that differ by as little as **one word** have been separated, even though they are pretty much the **exact same**. There is also [a different version of this document](https://github.com/nating/trinity-cs-website/blob/master/assets/notes/fourth-year/human-factors/removed-duplicates-human-factors-questions.md) that has combined every version of each question to include every part of it that was ever included, which is probably better use than this one. But here are the questions in their naked unaltered form:
+Questions that differ by as little as **one word** have been separated, even though they are pretty much the **exact same**. There is also [a different version of this document](https://github.com/nating/cs-exams/blob/master/assets/notes/fourth-year/human-factors/removed-duplicates-human-factors-questions.md) that has combined every version of each question to include every part of it that was ever included, which is probably better use than this one. But here are the questions in their naked unaltered form:
 
 *The exam is made up of three questions each worth 50 marks. Candidates answer Questions 1 and ONE other question.*
 

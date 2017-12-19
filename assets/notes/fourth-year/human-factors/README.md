@@ -18,8 +18,8 @@ Each exam has three questions based on a passage. These are links to each of the
 * [2008](https://www.tcd.ie/Local/Exam_Papers/2008/XC/XCS4BAC21.pdf#page=2)
 
 ## Resources
-* [All questions from past papers in one document](https://github.com/nating/trinity-cs-website/blob/master/assets/notes/fourth-year/human-factors/human-factors-questions.md)
-* [The above document with questions differing only by wording combined](https://github.com/nating/trinity-cs-website/blob/master/assets/notes/fourth-year/human-factors/removed-duplicates-human-factors-questions.md)
+* [All questions from past papers in one document](https://github.com/nating/cs-exams/blob/master/assets/notes/fourth-year/human-factors/human-factors-questions.md)
+* [The above document with questions differing only by wording combined](https://github.com/nating/cs-exams/blob/master/assets/notes/fourth-year/human-factors/removed-duplicates-human-factors-questions.md)
 * Some attempts at answering the above questions (TODO)
 
 ## Notes (TODO lol)
