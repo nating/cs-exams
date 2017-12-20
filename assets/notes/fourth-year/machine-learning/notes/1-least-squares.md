@@ -23,7 +23,6 @@ In practice, you have *n* observations for which you have extracted *p* features
 
 The model is a linear combination of all the features plus a constant term which can be called *the bias* (w<sub>0</sub>). Each *w* represents a *model parameter*. f(x<sub>1</sub>,x<sub>2</sub>,...,x<sub>p</sub>) = w<sub>1</sub>x<sub>1</sub> + w<sub>2</sub>x<sub>2</sub> +...+ w<sub>p</sub>x<sub>p</sub> + w<sub>0</sub>
 
-
 The model can not explain everything, so an error term, *𝜀*, is introduced:  
 y<sub>1</sub> = w<sub>0</sub>+w<sub>1</sub>x<sub>11</sub>+w<sub>2</sub>x<sub>12</sub>+w<sub>3</sub>x<sub>13</sub>+...+w<sub>p</sub>x<sub>1p</sub>+*𝜀*<sub>1</sub>  
 y<sub>2</sub> = w<sub>0</sub>+w<sub>1</sub>x<sub>21</sub>+w<sub>2</sub>x<sub>22</sub>+w<sub>3</sub>x<sub>23</sub>+...+w<sub>p</sub>x<sub>2p</sub>+*𝜀*<sub>2</sub>  
@@ -39,7 +38,7 @@ To calculate the Loss Function in Linear Regression, the **Mean Squared Error** 
 
 The ideal model has the minimum error, so differentiation is used to calculate the parameters that give the lowest error.
 
-< TODO Some of the maths has been skipped over here in the notes. >
+< TODO: I have skipped over a derivation that begins on page 7 here >
 
 The observations and model create a system of linear equations that can be represented using matrix notations.
 
@@ -50,11 +49,14 @@ The observations and model create a system of linear equations that can be repre
 
 The **Design Matrix** is the matrix of all the observations. Each column contains all the instances for a particular feature.
 
-< TODO take not of the definition of the *Gradient*  "Matrix notation for the partial derivative is called the gradient"-me >
+The derivative of the error with respect to the weights is **Gradient** of the error.
 
-< TODO Add in how to derive the gradient in matrix notations, as it is marked as **important** >
+< TODO: I have skipped over the derivation of the gradient in matrix notations that begins on page 11 >
 
-< TODO Define the normal equation >
+< TODO: Define the normal equation >
+
+The following model is a still a "linear" model in the sense that it *y* is still a linear combination of 1, *x*, *x*<sup>2</sup>,*x*<sup>3</sup>:  
+y<sub>1</sub> = w<sub>0</sub>+w<sub>1</sub>x+w<sub>2</sub>x<sup>2</sup>+w<sub>2</sub>x<sup>3</sup>
 
 **Underfitting** is when a model is too simple. It occurs when the MSE is too high, there are not enough features or the model is too regularised:  
 <img src="https://github.com/nating/EE4C16/blob/master/assets/notes-images/underfitting-example.png" width="400">
