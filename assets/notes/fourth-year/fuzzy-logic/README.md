@@ -3,12 +3,12 @@
 
 ## Notes
 
-* [Introduction to Fuzzy Logic and Fuzzy Control Systems](https://github.com/nating/cs-exams/blob/master/assets/notes/fourth-year/fuzzy-logic/notes/introduction-to-fuzzy-logic-and-fuzzy-control-systems.md)
-* [Properties of Fuzzy Sets and Relationships amongst the sets](https://github.com/nating/cs-exams/blob/master/assets/notes/fourth-year/fuzzy-logic/notes/properties-of-fuzzy-sets-and-relationships-amongst-the-sets.md)
-* [Knowledge Representation and Reasoning](https://github.com/nating/cs-exams/blob/master/assets/notes/fourth-year/fuzzy-logic/notes/knowledge-representation-and-reasoning.md) (Doing)
+* [Introduction to Fuzzy Logic and Fuzzy Control Systems](https://github.com/nating/cs-exams/blob/master/assets/notes/fourth-year/fuzzy-logic/notes/0-introduction-to-fuzzy-logic-and-fuzzy-control-systems.md)
+* [Properties of Fuzzy Sets and Relationships amongst the sets](https://github.com/nating/cs-exams/blob/master/assets/notes/fourth-year/fuzzy-logic/notes/1-properties-of-fuzzy-sets-and-relationships-amongst-the-sets.md)
+* [Knowledge Representation and Reasoning](https://github.com/nating/cs-exams/blob/master/assets/notes/fourth-year/fuzzy-logic/notes/2-knowledge-representation-and-reasoning.md) (Doing)
 * Fuzzy Control Systems
-* Fuzzy Control Systems: Mamdani and Takagi-Sugeno Systems
-* [Neuro-Fuzzy Models](https://github.com/nating/cs-exams/blob/master/assets/notes/fourth-year/fuzzy-logic/notes/neuro-fuzzy-models.md) (Doing)
+* [Fuzzy Control Systems: Mamdani and Takagi-Sugeno Systems](https://github.com/nating/cs-exams/blob/master/assets/notes/fourth-year/fuzzy-logic/notes/5-mamdani-and-takagi-sugeno-systems.md)
+* [Neuro-Fuzzy Models](https://github.com/nating/cs-exams/blob/master/assets/notes/fourth-year/fuzzy-logic/notes/6-neuro-fuzzy-models.md) (Doing)
 
 ## Resources
 * [All of my notes in one document (in case you want to `cmd+f` for a term) x](https://github.com/nating/cs-exams/blob/master/assets/notes/fourth-year/fuzzy-logic/notes/all-together.md)
@@ -25,7 +25,7 @@ Year|Question 1|Question 2|Question 3|Question 4|Question 5
 2014|[😛][20141]||||
 2013|||||[🍦][20135]
 2012||[💃][20122]|⬛|[😮][20124]|
-2011|||||[🍦][20115]
+2011|[🐉][20111]|[🍄][20112]|||[🍦][20115]
 2010|[😛][20101]|||[😮][20104]|
 2009|[🍮][20091]|⬛|||
 2008|[😛][20081]|⬛|[💃][20083]|[😮][20084]|[🍦][20085]
