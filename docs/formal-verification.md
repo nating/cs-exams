@@ -8,7 +8,7 @@ CS4004
 
 ## Resources
 
-* [Blackboard](https://mymodule.tcd.ie/)
+* [Module website](https://www.scss.tcd.ie/Vasileios.Koutavas/teaching/cs4004-4504/)
 
 ## Questions by Year
 
