@@ -20,18 +20,20 @@ These should be called "question attempts", but anything I am unsure of is clear
 Year|Question 1|Question 2|Question 3|Question 4|Question 5
 ---|---|---|---|---|---
 2017|||||
-2016|||||
-2015|||||
+2016|⬛||||
+2015|⬛||||
 2014|[😛][20141]||||
 2013|||||[🍦][20135]
-2012||[💃][20122]||[😮][20124]|
+2012||[💃][20122]|⬛|[😮][20124]|
 2011|||||[🍦][20115]
 2010|[😛][20101]|||[😮][20104]|
-2009|||||
-2008|[😛][20081]||[💃][20083]|[😮][20084]|[🍦][20085]
+2009||⬛|||
+2008|[😛][20081]|⬛|[💃][20083]|[😮][20084]|[🍦][20085]
 2007|||||
 
 *Questions represented by the same emoji are the same question that came up in different years.*
+
+*Questions represented by the ⬛ emoji are the T-Norm & S-Norm questions that I'm not sure will be on the 2018 exam yet.*
 
 [20081]: https://github.com/nating/cs-exams/blob/master/assets/notes/fourth-year/fuzzy-logic/solutions/2008.md#2008-q1
 [20082]: https://github.com/nating/cs-exams/blob/master/assets/notes/fourth-year/fuzzy-logic/solutions/2008.md#2008-q2

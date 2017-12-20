@@ -6,8 +6,6 @@
 
 Logistic Regression does more than linear regression, as it considers the case where variables are binary.
 
-< TODO Define what a general linear model is "A family of classifiers"-Francois >
-
 In a general linear model, we try to find a linear combination of the data *x<sup>T</sup>y* so that the sign of *x<sup>T</sup>y* tells us about the outcome *y*: *y=[x<sup>T</sup>y+𝜀>0]*
 
 The quantity *x<sup>T</sup>y*, which is a scalar value, is called the **Risk Score**.
@@ -37,6 +35,6 @@ The idea of gradient descent is that some starting values of *w* are input. Then
 
 The **Learning Rate** is the size of the step in gradient descent and it is represented by *𝝶*.  
 
-**One-vs-All** is an strategy for training binary classifiers in a problem with more than two classes. For each class *k*, a single binary classifier is trained (*y=1* for *k* and *y=0* for every other class).
+**One-vs-All** is a strategy for training binary classifiers in a problem with more than two classes. For each class *k*, a single binary classifier is trained (*y=1* for *k* and *y=0* for every other class).
 
 **Multinomial Logistic Regression** is an extension of binomial logistic regression to allow for a dependent variable with more than two categories.

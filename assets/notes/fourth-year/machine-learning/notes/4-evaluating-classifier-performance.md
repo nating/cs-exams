@@ -4,11 +4,12 @@
 
 #### Terms for outcomes of Binary classifiers:
 A **True Positive** or **True Negative** is when an outcome of an input is predicted correctly as positive or negative in a binary classifier.  
-A **False Positive** or **False Positive** is when an outcome of an input is predicted incorrectly as positive or negative in a binary classifier.
+A **False Positive** or **False Negative** is when an outcome of an input is predicted incorrectly as positive or negative in a binary classifier.
 
 ---
 
-A **Confusion Matrix** is a table of the number of false positives, false negatives, true positives and true negatives for each class.
+A **Confusion Matrix** is a table of the number of false positives, false negatives, true positives and true negatives for each class.  
+<img src="https://github.com/nating/EE4C16/blob/master/assets/notes-images/confusion-matrix.png" width="400"/>
 
 ---
 
@@ -44,7 +45,6 @@ For a multi-class classifier, a confusion matrix could look like this:
 **Macro Averaging** is a way of calculating combined classifier metrics that averages the performances over the classes:  
 <img src="https://github.com/nating/EE4C16/blob/master/assets/notes-images/macro-averaging-example.png" width="400"/>
 
-
 ---
 
 #### Data Terms in Classifier Performance Measurement
@@ -54,3 +54,9 @@ A **Training Set** is the data used to learn the algorithm.
 A **Validation Set** (or *Dev Set*) is the data used to tune the parameters of the algorithm.
 
 A **Test Set** is the data used to fairly assess the performance of the algorithm.
+
+The training set should be as large as you can afford.
+
+The validation sets of size 1000-10,000 are common.
+
+People used to use 30% of their data for the test set, but now that people have billions of training examples they do not anymore.

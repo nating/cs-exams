@@ -11,6 +11,8 @@
 A vague explanation of SVM is that it seeks to find the hyperplane that maximises the separation between two classes.  
 <img src="https://github.com/nating/EE4C16/blob/master/assets/notes-images/svm-example.png" width="400"/>
 
+"There is a priori no advantage of using linear SVM over logistic regression in terms of performance alone. It all depends on the type of data you have."
+
 The **Kernel Trick** is a solution for introducing functions to transform features into so that they are optimal for linearly separating the classes without having to compute the functions.
 
 The **Radial Basis Function** (RBF) is one of the most commonly used Kernels.
