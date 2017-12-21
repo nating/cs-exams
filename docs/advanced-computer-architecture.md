@@ -8,7 +8,7 @@ CS4021
 
 ## Resources
 
-* [Blackboard](https://mymodule.tcd.ie/)
+* [Module website](https://www.scss.tcd.ie/Jeremy.Jones/CS4021/CS4021.htm)
 
 ## Questions by Year
 
