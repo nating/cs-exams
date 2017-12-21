@@ -8,8 +8,8 @@ These are notes that I made while reading through 'Learn You a Haskell'.
 3. [Types & TypeClasses](https://github.com/nating/cs-exams/blob/master/assets/notes/fourth-year/functional-programming/learn-you-a-haskell-notes/2-types-and-typeclasses.md)
 4. [Syntax in Functions](https://github.com/nating/cs-exams/blob/master/assets/notes/fourth-year/functional-programming/learn-you-a-haskell-notes/3-syntax-in-functions.md)
 5. [Recursion](https://github.com/nating/cs-exams/blob/master/assets/notes/fourth-year/functional-programming/learn-you-a-haskell-notes/4-recursion.md)
-6. [Higher Order Functions]
-7. [Modules]
+6. [Higher Order Functions](https://github.com/nating/cs-exams/blob/master/assets/notes/fourth-year/functional-programming/learn-you-a-haskell-notes/5-higher-order-functions.md)
+7. [Modules](https://github.com/nating/cs-exams/blob/master/assets/notes/fourth-year/functional-programming/learn-you-a-haskell-notes/6-modules.md) (Didn't do much notes for this one. You'll have to read the list of module functions for yourself!)
 8. [Making our own Types and TypeClasses]
 9. [Input & Output]
 10. [Functionally Solving Problems]
