@@ -63,6 +63,7 @@ const siteConfig = {
     'Geoffrey Natin',
   organizationName: 'nating', // or set an env variable ORGANIZATION_NAME
   projectName: 'cs-exams', // or set an env variable PROJECT_NAME
+  cname: 'cs-exams.com',
   GIT_USER: 'nating',
   highlight: {
     // Highlight.js theme to use for syntax highlighting in code blocks
