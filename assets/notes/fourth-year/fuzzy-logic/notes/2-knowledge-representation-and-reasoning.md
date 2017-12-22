@@ -21,11 +21,32 @@ A fuzzy knowledge base comprises vague facts and vague rules, such as <code>*X* 
 
 *Fuzzy* or *vague* rules are linguistic rules that an antecedent/premise and consequent/conclusion. (e.g: `IF WARM THEN FAST`)
 
+---
 
 **MIN** and **PRODUCT** are two inference methods.
 
 **MAX** and **SUM** are two composition techniques.
 
-**CENTROID**, **MAXIMUM** and **Mean Of Maxima** are three defuzzification techniques.
+**Centre of Gravity** (*Centre of Area, Centroid, COA, COG*) and **Mean Of Maxima** (*Maximum*) are two defuzzification techniques.
 
- (TODO more on the last three points)
+There is more computation involved in COG than MOM, but COG is more widely used. COG usually gives higher results.
+
+(TODO describe how to do the last three methods in exam questions as well as possible)
+
+---
+
+So far the notes have discussed **Mamdani** calculus.  
+
+**Mamdani** calculus involves computation of consequent fuzzy variables. This is complicated and is not always possible for real-time systems.
+
+A **Piecewise linear function** is a function that is made up of straight lines when graphed.
+
+A **Non-decreasing monotonic function** is a function where every output value is larger for every larger input value. *(The graph goes up and up and doesn't come back down the y-axis further on the x-axis x)*
+
+For a rule with IF THIS **AND** THAT THEN SOMETHING, the rule fires to the extent: <code>max(𝝻<sub>*THIS*</sub>(x),𝝻<sub>*THAT*</sub>(x))</code>
+
+For a rule with IF THIS **OR** THAT THEN SOMETHING, the rule fires to the extent: <code>min(𝝻<sub>*THIS*</sub>(x),𝝻<sub>*THAT*</sub>(x))</code>
+
+For a rule with IF THIS THEN SOMETHING, the rule fires to the extent: <code>𝝻<sub>*THIS*</sub>(x)</code>
+
+If only one rule fires, then composition is unnecessary.

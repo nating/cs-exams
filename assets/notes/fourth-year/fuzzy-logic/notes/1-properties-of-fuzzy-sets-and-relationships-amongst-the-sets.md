@@ -72,7 +72,20 @@ Things might be easier to comprehend having read that Concentration and Dilation
 
 In most cases, the intersection of a fuzzy subset and its complement is not the null set.
 
-<TODO: Should I put notes on different membership function types here? Or is that trivial information?>
+Non-primary terms can be computed like this:  
+
+* <code>𝝻<sub>*very young*</sub> = (𝝻<sub>*young*</sub>)<sup>2</sup></code>
+* <code>𝝻<sub>*more or less young*</sub> = (𝝻<sub>*young*</sub>)<sup>1/2</sup></code>
+* <code>𝝻<sub>*not very young*</sub> = 1 - (𝝻<sub>*young*</sub>)<sup>2</sup></code>
+
+Membership functions can have different shapes. It is very important to know these for the exam:    
+<img src="./assets/membership-functions.png"/>
+
+In the above image, an example of a symmetric triangular membership function was shown. Not all triangular membership functions are symmetric, and the generic way to calculate triangular membership functions is:  
+<img src="./assets/trimf-1.png"/>
+
+The triangular membership function is also sometimes represented as:  
+<img src="./assets/trimf-2.png"/>
 
 The **Cross Product** (or *Cartesian Product*) of *A*⊆*X* and *B*⊆*Y* is denoted as *T*=*A*x*B*, and is given: 𝝻<sub>*T*</sub>(*x*,*y*)=MIN[𝝻<sub>*A*</sub>(*x*),𝝻<sub>*B*</sub>(*y*)].
 
