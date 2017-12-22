@@ -39,6 +39,11 @@ const siteConfig = {
   url: 'http://cs-exams.com' /* your website url */,
   baseUrl: '/' /* base url for your project */,
   projectName: 'cs-exams',
+  organizationName: 'nating', // or set an env variable ORGANIZATION_NAME
+  projectName: 'cs-exams', // or set an env variable PROJECT_NAME
+  GIT_USER: 'nating',
+  noIndex: false,
+  cname: 'cs-exams.com',
   headerLinks: [
     {doc: 'digital-logic-design', label: 'First Year'},
     {doc: 'computer-systems', label: 'Schols'},
@@ -61,10 +66,6 @@ const siteConfig = {
     'Copyright © ' +
     new Date().getFullYear() +
     'Geoffrey Natin',
-  organizationName: 'nating', // or set an env variable ORGANIZATION_NAME
-  projectName: 'cs-exams', // or set an env variable PROJECT_NAME
-  cname: 'cs-exams.com',
-  GIT_USER: 'nating',
   highlight: {
     // Highlight.js theme to use for syntax highlighting in code blocks
     theme: 'default',

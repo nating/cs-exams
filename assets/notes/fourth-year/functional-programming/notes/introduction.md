@@ -34,4 +34,17 @@ data Tree a = Empty
               | Branch (Tree a) (Tree a)
 ```
 
-...
+When the `IO` action is run, anything could happen.
+
+The `IO String` value is a first-class value in Haskell. It is the ay that it is used that causes the actions.
+
+IO actions are combined using *monad combinators*:  
+```haskell  
+class Monad m where  
+    (>>=)  ::  m a -> (a -> m b) -> m b
+    (>>)   ::  m a -> m b -> m b
+    return ::  a -> m a
+    fail   :: String -> m a
+```
+
+The `>>=` operator means `bind`

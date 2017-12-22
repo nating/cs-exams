@@ -3,4 +3,9 @@
 
 ## Making our own Types and TypeClasses
 
-###
+### Algebraic data types intro
+
+`data` is a keyword to define a type:  
+```haskell  
+data Bool = False | True
+```
