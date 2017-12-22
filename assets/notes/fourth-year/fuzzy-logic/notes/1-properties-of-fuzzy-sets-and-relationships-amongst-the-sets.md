@@ -26,13 +26,13 @@ The membership grade of an element *x* in a fuzzy set *A* is written 𝝻<sub>*A
 
 ### Properties of Fuzzy Sets:
 
-Property|Definition|Explanation
----|---|---
-1. Equality of two fuzzy sets|A fuzzy set *A* is considered equal to a fuzzy set *B*, if and only if: <code>𝝻<sub>*A*</sub>(*x*) = 𝝻<sub>*B*</sub>(*x*)</code>.  |Sets are equal only when their  membership functions are equal.
-2. Inclusion of one fuzzy set into another fuzzy set|Let *X* and *Y* be fuzzy sets defined in the same universal space *U*. *X* is a subset of *Y* if and only if: <code>For every *u* in the set *U* we have *X*(*u*) ≤ *Y*(*u*)</code>.|If every element is always more in Y than X then X is a subset of Y.
-3. Cardinality of a fuzzy set|The **Cardinality** (or 'Sigma Count') of a fuzzy set *A* is given: <code>CARD<sub>*A*</sub>=𝝻<sub>*A*</sub>(*x*<sub>1</sub>)+𝝻<sub>*A*</sub>(*x*<sub>2</sub>)+...+𝝻<sub>*A*</sub>(*x*<sub>n</sub>)</code>.|The cardinality of a fuzzy set is the sum the membership grades of all its elements.
-4. An empty fuzzy set|A fuzzy set *A* is empty if and only if <code>𝝻<sub>*A*</sub>(*x*)=0</code> for all *x* ∊ *X*.|A fuzzy set is empty if the membership grade of every element in the set is zero.
-5. Alpha-cuts|An **Alpha-cut** (or 'A-level set') of a fuzzy set *A*⊂*X* is an ordinary set *A*<sub>𝜶</sub>⊂*X* such that <code>*A*<sub>𝜶</sub>={*x*∊*X*;𝝻<sub>*A*</sub>(*x*)≥𝜶}</code>.|The 'Alpha level cut' of a fuzzy set is the crisp set of elements in the set with membership grades above a value '𝜶'.
+|Property|Definition|Explanation
+|---|---|---
+|1) Equality of two fuzzy sets|A fuzzy set *A* is considered equal to a fuzzy set *B*, if and only if: <code>𝝻<sub>*A*</sub>(*x*) = 𝝻<sub>*B*</sub>(*x*)</code>.  |Sets are equal only when their  membership functions are equal.
+|2) Inclusion of one fuzzy set into another fuzzy set|Let *X* and *Y* be fuzzy sets defined in the same universal space *U*. *X* is a subset of *Y* if and only if: <code>For every *u* in the set *U* we have *X*(*u*) ≤ *Y*(*u*)</code>.|If every element is always more in Y than X then X is a subset of Y.
+|3) Cardinality of a fuzzy set|The **Cardinality** (or 'Sigma Count') of a fuzzy set *A* is given: <code>CARD<sub>*A*</sub>=𝝻<sub>*A*</sub>(*x*<sub>1</sub>)+𝝻<sub>*A*</sub>(*x*<sub>2</sub>)+...+𝝻<sub>*A*</sub>(*x*<sub>n</sub>)</code>.|The cardinality of a fuzzy set is the sum the membership grades of all its elements.
+|4) An empty fuzzy set|A fuzzy set *A* is empty if and only if <code>𝝻<sub>*A*</sub>(*x*)=0</code> for all *x* ∊ *X*.|A fuzzy set is empty if the membership grade of every element in the set is zero.
+|5) Alpha-cuts|An **Alpha-cut** (or 'A-level set') of a fuzzy set *A*⊂*X* is an ordinary set *A*<sub>𝜶</sub>⊂*X* such that <code>*A*<sub>𝜶</sub>={*x*∊*X*;𝝻<sub>*A*</sub>(*x*)≥𝜶}</code>.|The 'Alpha level cut' of a fuzzy set is the crisp set of elements in the set with membership grades above a value '𝜶'.
 
 A **Normal** fuzzy set *A* is a fuzzy set where there exists at least one element *x*∊*A* such that 𝝻<sub>*A*</sub>(*x*)=1.
 
