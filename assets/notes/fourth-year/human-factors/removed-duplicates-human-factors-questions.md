@@ -24,7 +24,7 @@ Explain how your analysis would effect the design of the system, giving concrete
 
 ## Q2 & Q3
 
-*The questions in Q2 and Q3 come up in over the years, so they have been included here together.*
+*The questions in Q2 and Q3 come up in either over the years, so they have been included here together.*
 
 **(2017,2015,2014,2013,2011)**  
 Which techniques for improving usability would be most important to the above system? Justify your choices and describe how you would apply them to the development of the above system. [25 Marks]
