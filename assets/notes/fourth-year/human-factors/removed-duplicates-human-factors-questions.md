@@ -16,15 +16,12 @@ Questions are ordered by their frequency.
 **1a) (2017,2016,2015,2014,2013,2012,2011,2010,2008)**  
 Identify the main tasks in the above application and present an analysis of these tasks. Your analysis should include a hierarchical task decomposition, but should use the tasks identified as the starting point for a broader analysis that goes beyond that. [35 Marks]
 
-**1b) (2017,2016,2015,2014,2013,2012,2011)**  
+**1b) (2017,2016,2015,2014,2013,2012,2011,2010)**  
 Explain how your analysis would effect the design of the system, giving concrete examples of the design decisions which would be influenced by the analysis. You may use a small number of user interface sketches to illustrate your answer as appropriate. [15 Marks]
-
-**1b) (2010)**  
-Explain how your analysis would effect the design of the system, giving concrete examples of the design decisions which would be influenced by the analysis. [15 Marks]
 
 ## Q2 & Q3
 
-*The questions in Q2 and Q3 come up in over the years, so they have been included here together.*
+*The questions in Q2 and Q3 come up in either over the years, so they have been included here together.*
 
 **(2017,2015,2014,2013,2011)**  
 Which techniques for improving usability would be most important to the above system? Justify your choices and describe how you would apply them to the development of the above system. [25 Marks]
