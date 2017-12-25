@@ -16,7 +16,7 @@ If the language in some of the notes does not make sense, it means I didn't re-w
 7. [Usability Testing](https://github.com/nating/cs-exams/blob/master/assets/notes/fourth-year/human-factors/notes/7-usability-testing.md)
 8. [Human Error](https://github.com/nating/cs-exams/blob/master/assets/notes/fourth-year/human-factors/notes/8-human-error.md)
 9. [Cooperative Work](https://github.com/nating/cs-exams/blob/master/assets/notes/fourth-year/human-factors/notes/9-cooperative-work.md)
-10. [User Interface Architecture](https://github.com/nating/cs-exams/blob/master/assets/notes/fourth-year/human-factors/notes/10-user-interface-archiecture.md)
+10. [User Interface Architecture](https://github.com/nating/cs-exams/blob/master/assets/notes/fourth-year/human-factors/notes/10-user-interface-architecture.md)
 
 
 Click [here](https://github.com/nating/cs-exams/blob/master/assets/notes/fourth-year/human-factors/notes/human-factors-notes.md) to see all the notes in one document.
