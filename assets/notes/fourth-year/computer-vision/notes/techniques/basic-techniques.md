@@ -1,15 +1,6 @@
 
 ## Basic Techniques
 
-|In depth|Quick High level description|Comparisons|Pros & Cons
----|---|---|---|---
-Sampling||||
-Quantisation||||
-Inversion||||
-Smoothing||||
-Back Projection||||
-Sharpening||||
-
 ### Sampling
 
 *"A sample is a small part or quantity intended to show what the whole is like"*
@@ -152,14 +143,3 @@ To sharpen an image, a fraction of the second derivative of the image is subtrac
 ### Pros & Cons
 
 TODO: I think sharpening images is of no value in computer vision and that it is only used to represent images to humans in a different way.
-
-
-
-
-
-
-
-
-
-
-/
