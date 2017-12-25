@@ -47,12 +47,12 @@ Notes on Miscellaneous topics & Techniques in Computer Vision to help prepare fo
 ## Techniques
 
 **Basic Techniques**
-* [Sampling](https://github.com/nating/cs-exams/tree/master/assets/notes/fourth-year/computer-vision/notes/techniques/basic-techniques.md#Sampling)
-* [Quantisation](https://github.com/nating/cs-exams/tree/master/assets/notes/fourth-year/computer-vision/notes/techniques/basic-techniques.md#Quantisation)
-* [Inversion](https://github.com/nating/cs-exams/tree/master/assets/notes/fourth-year/computer-vision/notes/techniques/basic-techniques.md#Inversion)
-* [Smoothing (TODO: has subsets that might need to be brought up to this level)](https://github.com/nating/cs-exams/tree/master/assets/notes/fourth-year/computer-vision/notes/techniques/basic-techniques.md#Smoothing)
-* [Back Projection](https://github.com/nating/cs-exams/tree/master/assets/notes/fourth-year/computer-vision/notes/techniques/basic-techniques.md#Back-Projection)
-* [Sharpening](https://github.com/nating/cs-exams/tree/master/assets/notes/fourth-year/computer-vision/notes/techniques/basic-techniques.md#Sharpening)
+* [Sampling](https://github.com/nating/cs-exams/tree/master/assets/notes/fourth-year/computer-vision/notes/techniques/basic-techniques.md#sampling)
+* [Quantisation](https://github.com/nating/cs-exams/tree/master/assets/notes/fourth-year/computer-vision/notes/techniques/basic-techniques.md#quantisation)
+* [Inversion](https://github.com/nating/cs-exams/tree/master/assets/notes/fourth-year/computer-vision/notes/techniques/basic-techniques.md#inversion)
+* [Smoothing](https://github.com/nating/cs-exams/tree/master/assets/notes/fourth-year/computer-vision/notes/techniques/basic-techniques.md#smoothing)
+* [Back Projection](https://github.com/nating/cs-exams/tree/master/assets/notes/fourth-year/computer-vision/notes/techniques/basic-techniques.md#back-projection)
+* [Sharpening](https://github.com/nating/cs-exams/tree/master/assets/notes/fourth-year/computer-vision/notes/techniques/basic-techniques.md#sharpening)
 
 **Binary image techniques**
 
