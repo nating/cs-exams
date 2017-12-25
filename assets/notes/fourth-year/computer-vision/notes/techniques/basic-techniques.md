@@ -1,25 +1,31 @@
 
-## Basic Techniques
+# Basic Techniques
+* [Sampling](https://github.com/nating/cs-exams/tree/master/assets/notes/fourth-year/computer-vision/notes/techniques/basic-techniques.md#sampling)
+* [Quantisation](https://github.com/nating/cs-exams/tree/master/assets/notes/fourth-year/computer-vision/notes/techniques/basic-techniques.md#quantisation)
+* [Inversion](https://github.com/nating/cs-exams/tree/master/assets/notes/fourth-year/computer-vision/notes/techniques/basic-techniques.md#inversion)
+* [Smoothing](https://github.com/nating/cs-exams/tree/master/assets/notes/fourth-year/computer-vision/notes/techniques/basic-techniques.md#smoothing)
+* [Back Projection](https://github.com/nating/cs-exams/tree/master/assets/notes/fourth-year/computer-vision/notes/techniques/basic-techniques.md#back-projection)
+* [Sharpening](https://github.com/nating/cs-exams/tree/master/assets/notes/fourth-year/computer-vision/notes/techniques/basic-techniques.md#sharpening)
 
-### Sampling
+## Sampling
 
 *"A sample is a small part or quantity intended to show what the whole is like"*
 
-#### High Level
+### High Level
 
 Light from the real world is continuous, so digital images are made be 'Sampling' the continuous data. An image's sampling refers to the number of pixels in it.
 
-#### Low Level
+### Low Level
 
 TODO: Difficult to find how the process of changing the number of pixels in the image actually works.
 
-#### Pros & Cons
+### Pros & Cons
 
-**Pros**:  
+#### Pros
 * Changing an image's sampling so that there are less pixels speeds up computation so for a vision program to be most efficient, there should be only as much pixels as is necessary.
 * Changing an image's sampling so that there are less pixels also means that the image takes up less space in memory.
 
-**Cons**:  
+#### Cons  
 * Sampling an image loses detail, so an image must be sampled enough to have the detail necessary for processing the image.
 
 ## Quantisation
@@ -32,16 +38,16 @@ Brightness in the real world is continuous, but to have digital images, pixels n
 
 ### Pros & Cons
 
-**Pros**:  
+#### Pros  
 * Changing the quantisation of an image so pixels are represented by less bits speeds up computation.
 * Changing the quantisation of an image so pixels are represented by less bits also means that the image takes up less space in memory.
 
-**Cons**:  
+#### Cons  
 * Decreasing the amount of possible values for a pixel means that information is lost. There are more than e.g. 8 values that brightness can take on in the real world, so the quantisation of the images being dealt with has to be high enough for the specific vision problem on hand.
 
-### Inversion
+## Inversion
 
-#### High & Low level Description
+### High & Low level Description
 
 Inverting an image means to set all of its pixel values to the opposite of their current value. If a pixel can take on values from 0 to 255 and its current value is *x*, then to invert the pixel it is set to (255-*x*).
 
@@ -49,17 +55,17 @@ Inverting an image means to set all of its pixel values to the opposite of their
 
 When an image is inverted, no information is lost. It is only a new representation of the image. Sometimes images are inverted in OpenCV if for instance there is a function that gets all the white objects in a binary image, but you want all of the black objects in your binary image. By inverting the image, you can make use of the function.
 
-### Smoothing
+## Smoothing
 
-#### High Level Description
+### High Level Description
 
 Smoothing reduces noise in an image. Smoothing works by setting pixel values in an image to be the average of the nearby pixel values.
 
-#### Low Level Description
+### Low Level Description
 
 There are several different ways of smoothing images. **Linear Smoothing** involves doing the same sum on every pixel in the image to calculate its new value. **Non-Linear Smoothing** involves doing a test on the pixels in each location in the image to see what pixels should be taken into account for the averaging process.
 
-#### Image Averaging
+### Image Averaging
 
 Image averaging is done when there are multiple noisy versions of the same image. If the noise is [additive]() (TODO: link additive noise here when done) then setting each pixel value in the output image to the average of the corresponding pixels in each of the noisy versions is likely to be get a more accurate output image than any of the input images.
 
@@ -67,13 +73,13 @@ The values of the pixel in all the versions of the image are added together and 
 
 Image Averaging is not appropriate for salt & pepper noise because the noise will be smoothed into the image.
 
-#### Local Averaging
+### Local Averaging
 
 In local averaging, each pixel's value is set to the average pixel value of itself & its neighbours. Its own & neighbours' pixel values are added together and divided by the number of pixels taken into consideration.
 
 Local Averaging is not appropriate for salt & pepper noise because the noise will be smoothed into the image.
 
-#### Gaussian Smoothing
+### Gaussian Smoothing
 
 Gaussian Smoothing is the same as local averaging, except that weights are given to the pixels so that closer pixels have more of an impact on the final value for the final value than the pixels further away.
 
@@ -81,14 +87,14 @@ The weights are usually put in a matrix called the 'convolution mask', and this 
 
 Gaussian Smoothing is not appropriate for salt & pepper noise because the noise will be smoothed into the image.
 
-#### Rotating Mask
+### Rotating Mask
 
 In rotating mask averaging, one of nine possible masks is used for the averaging. The masks are different shapes that all include the pixel of interest. Each mask is applied to check which one when fitted on the pixel of interest has the most similar pixels throughout. The mask that is chosen is the mask who's average 'pixel value distance from the average' is smallest. The average of the chosen mask is set to the the value for the pixel of interest. The masks are best understood with the image below:  
 <img src="./assets/rotating-mask.png"/>
 
 Different shapes and sizes can be used in different rotating mask **filters**. Rotating mask filtering is better for salt & pepper noise than Linear Averaging or Gaussian Smoothing.
 
-#### Median Filtering
+### Median Filtering
 
 Median filtering is another smoothing operation that involves a mask. The median value (the middle value when all values are put in order) of the pixels in the mask, when it is centred on the pixel of interest, is given to the pixel of interest.
 
@@ -96,7 +102,7 @@ Median Filtering is good at removing noise because at the end of the day, only t
 
 Median Filtering can be expensive process in terms of computation, but done right it can be O(n). This is called the Perreault approach and involves keeping values in the mask as it moves. When the mask moves from one pixel of interest to the next, most of the values in the mask will not have changed (In the direction it is moving, no pixel values change apart from the two on either edge).
 
-#### Bilateral Filter
+### Bilateral Filter
 
 A Bilateral filter is the same as Gaussian Smoothing, except the weights depend not only on the euclidean distance of pixels to the pixel of interest, but on the differences in color / brightness etc.
 
@@ -130,13 +136,13 @@ For each pixel in the target image, check which bin it would go in and the value
 * The choice of color space can make a big impact on how well the back projection works.
 * The choice of the amount of bins in the histogram can make a big impact on how well the back projection works.
 
-### Sharpening
+## Sharpening
 
-#### High level Description
+### High level Description
 
 Sharpening an image involves taking the edge pixels in the image and making them more extreme. An edge is a rapid change in brightness from one pixel to the next. The brighter pixel is made brighter and the darker pixel is made darker to make the edge stand out more and the image look 'sharper'.
 
-#### Low Level Description
+### Low Level Description
 
 To sharpen an image, a fraction of the second derivative of the image is subtracted from the original image. The second derivative of the image is found using the [Laplacian filter]() (TODO: Add link to the laplacian filter here), then each value from the laplacian is multiplied by some factor (less than one) and subtracted from the corresponding pixel value in the original image.
 

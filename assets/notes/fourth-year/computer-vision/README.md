@@ -55,15 +55,12 @@ Notes on Miscellaneous topics & Techniques in Computer Vision to help prepare fo
 * [Sharpening](https://github.com/nating/cs-exams/tree/master/assets/notes/fourth-year/computer-vision/notes/techniques/basic-techniques.md#sharpening)
 
 **Binary image techniques**
-
-|In depth|Quick High level description|Comparisons|Pros & Cons
----|---|---|---|---
-Binary Thresholding||||
-Dilation||||
-Erosion||||
-Opening||||
-Closing||||
-Connected Components Analysis||||
+* [Thresholding](https://github.com/nating/cs-exams/tree/master/assets/notes/fourth-year/computer-vision/notes/techniques/binary-image-techniques.md#thresholding)
+* [Dilation](https://github.com/nating/cs-exams/tree/master/assets/notes/fourth-year/computer-vision/notes/techniques/binary-image-techniques.md#dilation)
+* [Erosion](https://github.com/nating/cs-exams/tree/master/assets/notes/fourth-year/computer-vision/notes/techniques/binary-image-techniques.md#erosion)
+* [Opening](https://github.com/nating/cs-exams/tree/master/assets/notes/fourth-year/computer-vision/notes/techniques/binary-image-techniques.md#opening)
+* [Closing](https://github.com/nating/cs-exams/tree/master/assets/notes/fourth-year/computer-vision/notes/techniques/binary-image-techniques.md#closing)
+* [Connected Components Analysis](https://github.com/nating/cs-exams/tree/master/assets/notes/fourth-year/computer-vision/notes/techniques/binary-image-techniques.md#connected-components-analysis)
 
 **Clustering**
 
