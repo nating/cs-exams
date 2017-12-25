@@ -1,6 +1,8 @@
 
 # CS4053 Computer Vision
 
+Notes on Miscellaneous topics & Techniques in Computer Vision to help prepare for the CS4053 exam.
+
 ## Miscellaneous Topics
 
 #### Types of image
@@ -45,15 +47,12 @@
 ## Techniques
 
 **Basic Techniques**
-
-|In depth|Quick High level description|Comparisons|Pros & Cons
----|---|---|---|---
-Sampling||||
-Quantisation||||
-Inversion||||
-Smoothing (TODO: has subsets that might need to be brought up to this level)||||
-Back Projection||||
-Sharpening||||
+* [Sampling](https://github.com/nating/cs-exams/tree/master/assets/notes/fourth-year/computer-vision/notes/techniques/basic-techniques.md#Sampling)
+* [Quantisation](https://github.com/nating/cs-exams/tree/master/assets/notes/fourth-year/computer-vision/notes/techniques/basic-techniques.md#Quantisation)
+* [Inversion](https://github.com/nating/cs-exams/tree/master/assets/notes/fourth-year/computer-vision/notes/techniques/basic-techniques.md#Inversion)
+* [Smoothing (TODO: has subsets that might need to be brought up to this level)](https://github.com/nating/cs-exams/tree/master/assets/notes/fourth-year/computer-vision/notes/techniques/basic-techniques.md#Smoothing)
+* [Back Projection](https://github.com/nating/cs-exams/tree/master/assets/notes/fourth-year/computer-vision/notes/techniques/basic-techniques.md#Back-Projection)
+* [Sharpening](https://github.com/nating/cs-exams/tree/master/assets/notes/fourth-year/computer-vision/notes/techniques/basic-techniques.md#Sharpening)
 
 **Binary image techniques**
 
