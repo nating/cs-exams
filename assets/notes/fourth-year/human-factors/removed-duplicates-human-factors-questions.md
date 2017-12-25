@@ -38,8 +38,8 @@ Explain the advantages of the MVC User Interface Architecture (and what it is), 
 **(2017,2015,2014)**  
 Consider opportunities for error when using the above system, and describe how they might be detected, tolerated or recovered from. Your consideration of error can be broad, and include failure to achieve goals relevant to the system. Make use of the SRK framework where it is helpful to your analysis and include user-interface sketches to illustrate your answer where appropriate. [25 Marks]
 
-**(2016,2013,2011)**  
-Consider opportunities for human error when using the above system, and describe how they might be detected, tolerated or recovered from. Make use of the SRK framework where it is helpful to your analysis and include user-interface sketches to illustrate your answer where appropriate. [25 Marks]
+**(2016,2013,2011)** (This question is the same as above apart from the keyword 'human')  
+Consider opportunities for **human** error when using the above system, and describe how they might be detected, tolerated or recovered from. Make use of the SRK framework where it is helpful to your analysis and include user-interface sketches to illustrate your answer where appropriate. [25 Marks]
 
 **(2012,2010)**  
 Explain how and when you would involve users in the design and evaluation of the above system. Detail how each of the activities you propose would result in a better quality system. [25 Marks]
