@@ -1,5 +1,5 @@
 
-*This document contains brief notes on CS4051 Human Factors*
+*This document contains notes on CS4051 Human Factors*
 
 # CS4051 Human Factors
 
