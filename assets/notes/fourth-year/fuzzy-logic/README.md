@@ -20,7 +20,7 @@ These should be called "question attempts", but anything I am unsure of is clear
 Year|Question 1|Question 2|Question 3|Question 4|Question 5
 ---|---|---|---|---|---
 2017|||||
-2016|⬛|||[🐉][20164]|
+2016|⬛|...||[🐉][20164]|
 2015|⬛||||
 2014|[😛][20141]|...|||
 2013|[🐵][20131]||||[🍦][20135]
@@ -29,7 +29,7 @@ Year|Question 1|Question 2|Question 3|Question 4|Question 5
 2010|[😛][20101]|||[😮][20104]|
 2009|[👫][20091]|⬛|...|...|
 2008|[😛][20081]|⬛|[💃][20083]|[😮][20084]|[🍦][20085]
-2007|||||
+2007|||...||
 
 *Questions represented by the same emoji are the same question that came up in different years.*
 
