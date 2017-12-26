@@ -26,16 +26,6 @@ Notes on Miscellaneous topics & Techniques in Computer Vision to help prepare fo
 * Equalisation
 * Comparison
 
-#### Thresholding
-* Problems
-* Bimodal Histogram Analysis
-* Optimal Thresholding
-* Otsu Thresholding
-* Adaptive Thresholding
-* Band Thresholding
-* Semi-Thresholding
-* Multi-Spectral Thresholding
-
 #### Other Key-Words
 * Interpolation
 * Distortion
@@ -63,11 +53,9 @@ Notes on Miscellaneous topics & Techniques in Computer Vision to help prepare fo
 * [Connected Components Analysis](https://github.com/nating/cs-exams/tree/master/assets/notes/fourth-year/computer-vision/notes/techniques/binary-image-techniques.md#connected-components-analysis)
 
 **Clustering**
-
-|In depth|Quick High level description|Comparisons|Pros & Cons
----|---|---|---|---
-K-Means Clustering||||
-Contour Segmentation||||
+* K-Means Clustering
+* Watershed Segmentation
+* Mean Shift Segmentation
 
 **Transformations**
 

@@ -106,7 +106,7 @@ Opening is an Erosion followed by a Dilation.
 #### Cons
 * ? (**Note to the reader:** edit if you know some!)
 
-## Closing
+## Closingq
 
 Closing is a Dilation followed by an Erosion.
 
