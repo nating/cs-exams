@@ -3,6 +3,8 @@
 
 Notes on Miscellaneous topics & Techniques in Computer Vision to help prepare for the CS4053 exam.
 
+* [List of questions](https://github.com/nating/cs-exams/tree/master/assets/notes/fourth-year/computer-vision/questions.md)
+
 ## Miscellaneous Topics
 
 #### Types of image
