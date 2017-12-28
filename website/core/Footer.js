@@ -26,45 +26,35 @@ class Footer extends React.Component {
             <a
               href={
                 this.props.config.baseUrl +
-                'docs/' +
-                this.props.language +
-                '/digital-logic-design.html'
+                'docs/digital-logic-design.html'
               }>
               First Year
             </a>
             <a
               href={
                 this.props.config.baseUrl +
-                'docs/' +
-                this.props.language +
-                '/computer-systems.html'
+                'docs/computer-systems.html'
               }>
               Schols
             </a>
             <a
               href={
                 this.props.config.baseUrl +
-                'docs/' +
-                this.props.language +
-                '/algorithms-and-data-structures.html'
+                'docs/algorithms-and-data-structures.html'
               }>
               Second Year
             </a>
             <a
               href={
                 this.props.config.baseUrl +
-                'docs/' +
-                this.props.language +
-                '/advanced-telecommunications.html'
+                'docs/advanced-telecommunications.html'
               }>
               Third Year
             </a>
             <a
               href={
                 this.props.config.baseUrl +
-                'docs/' +
-                this.props.language +
-                '/human-factors.html'
+                'docs/human-factors.html'
               }>
               Fourth Year
             </a>
