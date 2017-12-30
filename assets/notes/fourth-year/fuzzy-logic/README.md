@@ -35,6 +35,8 @@ Year| Question 1|Question 2|Question 3|Question 4|Question 5
 
 *Questions represented by the ⬛ emoji are the T-Norm & S-Norm questions that I'm not sure will be on the 2018 exam yet.*
 
+*Questions represented by the "..." are ones that I have done some of but don't understand how to do totally yet. If you can help me understand them, I'd be really appreciative Thanks!*
+
 [20071]: https://github.com/nating/cs-exams/blob/master/assets/notes/fourth-year/fuzzy-logic/solutions/2007.md#2007-q1
 [20072]: https://github.com/nating/cs-exams/blob/master/assets/notes/fourth-year/fuzzy-logic/solutions/2007.md#2007-q2
 [20073]: https://github.com/nating/cs-exams/blob/master/assets/notes/fourth-year/fuzzy-logic/solutions/2007.md#2007-q3
