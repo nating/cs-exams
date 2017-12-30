@@ -19,7 +19,7 @@ These should be called "question attempts", but anything I am unsure of is clear
 
 Year| Question 1|Question 2|Question 3|Question 4|Question 5
 ----|-----------|----------|----------|----------|----------
-2017|           |          |          |           |
+2017|[🐳][20171]|          |          |           |
 2016|         ⬛|[💰][20162]|          |[🐉][20164]|
 2015|         ⬛|        ...|          |       ...|
 2014|[🐳][20141]|[🏀][20142]|        ...|[⚡][20144]|
@@ -96,3 +96,9 @@ Year| Question 1|Question 2|Question 3|Question 4|Question 5
 [20163]: https://github.com/nating/cs-exams/blob/master/assets/notes/fourth-year/fuzzy-logic/solutions/2016.md#2016-q3
 [20164]: https://github.com/nating/cs-exams/blob/master/assets/notes/fourth-year/fuzzy-logic/solutions/2016.md#2016-q4
 [20165]: https://github.com/nating/cs-exams/blob/master/assets/notes/fourth-year/fuzzy-logic/solutions/2016.md#2016-q5
+
+[20171]: https://github.com/nating/cs-exams/blob/master/assets/notes/fourth-year/fuzzy-logic/solutions/2017.md#2017-q1
+[20172]: https://github.com/nating/cs-exams/blob/master/assets/notes/fourth-year/fuzzy-logic/solutions/2017.md#2017-q2
+[20173]: https://github.com/nating/cs-exams/blob/master/assets/notes/fourth-year/fuzzy-logic/solutions/2017.md#2017-q3
+[20174]: https://github.com/nating/cs-exams/blob/master/assets/notes/fourth-year/fuzzy-logic/solutions/2017.md#2017-q4
+[20175]: https://github.com/nating/cs-exams/blob/master/assets/notes/fourth-year/fuzzy-logic/solutions/2017.md#2017-q5
