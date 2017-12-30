@@ -23,3 +23,9 @@ Concurrency doesn't necessarily mean tasks are running at the exact same time. (
 If you do not order your parameters properly when calling `par`, it may be disastrous (causing the program to slow down a lot). But you can specify what needs to be evaluated first by using `pseq`.
 
 A type constructor is a Constructor with a type parameter: `Maybe a = Nothing | Just a` as opposed to `Maybe Int = Nothing | Just Int`.
+
+
+The three Monad Identities:
+* Left identity: `return a >>= f = f a`
+* Right identity: `m >>= return = m`
+* Associativity: `(m >>= f) >>= g = m >>= (\x -> f x >>= g)`

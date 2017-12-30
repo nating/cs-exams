@@ -24,7 +24,7 @@ TODO: Add links to each of these question summaries to their actual question cou
 3. Smoothing & equalisation for both RGB & HLS and find best colors to represent part of an image, then compare & contrast two ways of locating faces in an image.
 
 ### 2013
-1. Copmoare & contrast template matching, statistical pattern recognition & robust object recognition, then locate fire extinguishers in images and identify their type (from their labels' text).
+1. Compare & contrast template matching, statistical pattern recognition & robust object recognition, then locate fire extinguishers in images and identify their type (from their labels' text).
 2. Locate paintings in a gallery, then recognise them given images of the original paintings.
 3. Describe 4 specific smoothing techniques and recommend one for different scenarios, then locate moving objects in a video feed inside a windy forest.
 

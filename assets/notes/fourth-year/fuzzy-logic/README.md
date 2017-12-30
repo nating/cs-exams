@@ -20,7 +20,7 @@ These should be called "question attempts", but anything I am unsure of is clear
 Year| Question 1|Question 2|Question 3|Question 4|Question 5
 ----|-----------|----------|----------|----------|----------
 2017|           |          |          |           |
-2016|         ⬛|        ...|          |[🐉][20164]|
+2016|         ⬛|[💰][20162]|          |[🐉][20164]|
 2015|         ⬛|        ...|          |       ...|
 2014|[😛][20141]|[🏀][20142]|        ...|[⚡][20144]|
 2013|[🐵][20131]|           |          |           |[🍦][20135]
@@ -29,11 +29,17 @@ Year| Question 1|Question 2|Question 3|Question 4|Question 5
 2010|[😛][20101]|[🏀][20102]|           |[😮][20104]|
 2009|[👫][20091]|         ⬛|        ...|       ...|
 2008|[😛][20081]|         ⬛|[💃][20083]|[😮][20084]|[🍦][20085]
-2007|           |          |        ...|          |
+2007|           |          |[💰][20073]|          |
 
 *Questions represented by the same emoji are the same question that came up in different years.*
 
 *Questions represented by the ⬛ emoji are the T-Norm & S-Norm questions that I'm not sure will be on the 2018 exam yet.*
+
+[20071]: https://github.com/nating/cs-exams/blob/master/assets/notes/fourth-year/fuzzy-logic/solutions/2007.md#2007-q1
+[20072]: https://github.com/nating/cs-exams/blob/master/assets/notes/fourth-year/fuzzy-logic/solutions/2007.md#2007-q2
+[20073]: https://github.com/nating/cs-exams/blob/master/assets/notes/fourth-year/fuzzy-logic/solutions/2007.md#2007-q3
+[20074]: https://github.com/nating/cs-exams/blob/master/assets/notes/fourth-year/fuzzy-logic/solutions/2007.md#2007-q4
+[20075]: https://github.com/nating/cs-exams/blob/master/assets/notes/fourth-year/fuzzy-logic/solutions/2007.md#2007-q5
 
 [20081]: https://github.com/nating/cs-exams/blob/master/assets/notes/fourth-year/fuzzy-logic/solutions/2008.md#2008-q1
 [20082]: https://github.com/nating/cs-exams/blob/master/assets/notes/fourth-year/fuzzy-logic/solutions/2008.md#2008-q2
