@@ -19,7 +19,7 @@ These should be called "question attempts", but anything I am unsure of is clear
 
 Year| Question 1|Question 2|Question 3|Question 4|Question 5
 ----|-----------|----------|----------|----------|----------
-2017|[🐳][20171]|          |          |           |
+2017|[🐳][20171]|[🆚][20172]|          |           |
 2016|         ⬛|[💰][20162]|          |[🐉][20164]|
 2015|         ⬛|        ...|          |       ...|
 2014|[🐳][20141]|[🏀][20142]|        ...|[⚡][20144]|

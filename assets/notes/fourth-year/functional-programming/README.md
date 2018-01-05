@@ -25,6 +25,8 @@
 * GADTs
 * Dependant Types
 * Existential Types
+* Data Kinds
+* Type Families
 
 **Ts:**  
 * StateT
