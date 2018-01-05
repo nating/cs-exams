@@ -18,12 +18,18 @@ There are two types of fuzzy controller: **Mamdani Controllers** and **Takagi-Su
 **Feedback** mode is where the fuzzy controller is used for controlling.  
 **Feedforward** mode is where the fuzzy controller is used for predicting.
 
+All inputs to, and outputs from, a fuzzy controller are in the form of linguistic variables.
 
+**Regulation** is the process of keeping the output close to a set reference point.
 
+**Coarse** is a synonym of rough.
 
+A clever way of representing a rule base where the linguistic variables have large term sets is to put them in a table. Consider SPEED x SIZE -> THREAT:  
 
+|      |SLOW|AVERAGE|FAST|
+|------|---|---|---|
+|SMALL |FRIENDLY|FRIENDLY|ALRIGHT|
+|MEDIUM|FRIENDLY|ALRIGHT|ALRIGHT|
+|LARGE |ALRIGHT|DANGEROUS|DANGEROUS|
 
-
-
-
-/
+As the term sets get bigger, it makes sense to put them in a table like above with single letters representing the words and some of the entries blank.
