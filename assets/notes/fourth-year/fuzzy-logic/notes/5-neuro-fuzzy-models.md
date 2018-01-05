@@ -112,7 +112,7 @@ The **XOR Problem** is that the simple perceptron can not learn a linear decisio
 
 The **XOR Solution** involves using two perceptrons, where the output of the first is the input of the second. If the first perceptron sees both inputs as '1' it sends an inhibitory signal to the second perceptron to output '0'. The second perceptron outputs '1' if either of the inputs are '1'.
 
-The weight adjusting from the *"perceptron learning algorithm"* can adjust weights between inputs and outputs, but not *between* perceptrons. This means that for the multilayer perceptron designed for solving the XOR problem, the back-propogation algorithm needs ot be used.
+The weight adjusting from the *"perceptron learning algorithm"* can adjust weights between inputs and outputs, but not *between* perceptrons. This means that for the multilayer perceptron designed for solving the XOR problem, the back-propogation algorithm needs to be used.
 
 (TODO: got to about page 90 before getting bored)
 

@@ -6,9 +6,9 @@
 * [Introduction to Fuzzy Logic and Fuzzy Control Systems](https://github.com/nating/cs-exams/blob/master/assets/notes/fourth-year/fuzzy-logic/notes/0-introduction-to-fuzzy-logic-and-fuzzy-control-systems.md)
 * [Properties of Fuzzy Sets and Relationships amongst the sets](https://github.com/nating/cs-exams/blob/master/assets/notes/fourth-year/fuzzy-logic/notes/1-properties-of-fuzzy-sets-and-relationships-amongst-the-sets.md)
 * [Knowledge Representation and Reasoning](https://github.com/nating/cs-exams/blob/master/assets/notes/fourth-year/fuzzy-logic/notes/2-knowledge-representation-and-reasoning.md)
-* [Fuzzy Control Systems](https://github.com/nating/cs-exams/blob/master/assets/notes/fourth-year/fuzzy-logic/notes/3-fuzzy-control-systems.md) (Doing)
-* [Fuzzy Control Systems: Mamdani and Takagi-Sugeno Systems](https://github.com/nating/cs-exams/blob/master/assets/notes/fourth-year/fuzzy-logic/notes/5-mamdani-and-takagi-sugeno-systems.md) (TODO)
-* [Neuro-Fuzzy Models](https://github.com/nating/cs-exams/blob/master/assets/notes/fourth-year/fuzzy-logic/notes/6-neuro-fuzzy-models.md) (Doing)
+* [Fuzzy Control Systems](https://github.com/nating/cs-exams/blob/master/assets/notes/fourth-year/fuzzy-logic/notes/3-fuzzy-control-systems.md)
+* [Fuzzy Control Systems: Mamdani and Takagi-Sugeno Systems](https://github.com/nating/cs-exams/blob/master/assets/notes/fourth-year/fuzzy-logic/notes/4-mamdani-and-takagi-sugeno-systems.md)
+* [Neuro-Fuzzy Models](https://github.com/nating/cs-exams/blob/master/assets/notes/fourth-year/fuzzy-logic/notes/5-neuro-fuzzy-models.md) (Doing)
 
 ## Resources
 * [All of my notes in one document (in case you want to `cmd+f` for a term) x](https://github.com/nating/cs-exams/blob/master/assets/notes/fourth-year/fuzzy-logic/notes/all-together.md)
@@ -22,7 +22,7 @@ These should be called "question attempts", but anything I am unsure of is clear
 Year| Question 1|Question 2|Question 3|Question 4|Question 5
 ----|-----------|----------|----------|----------|----------
 2017|[🐳][20171]|[🆚][20172]|          |           |
-2016|         ⬛|[💰][20162]|...       |[🐉][20164]|
+2016|         ⬛|[💰][20162]|...       |[🐉][20164]|[🔄][20165]
 2015|         ⬛|        ...|          |       ...|
 2014|[🐳][20141]|[🏀][20142]|        ...|[⚡][20144]|
 2013|[🐵][20131]|           |          |           |[🔄][20135]
