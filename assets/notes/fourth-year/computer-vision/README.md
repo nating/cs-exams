@@ -55,9 +55,9 @@ Notes on Miscellaneous topics & Techniques in Computer Vision to help prepare fo
 * [Connected Components Analysis](https://github.com/nating/cs-exams/tree/master/assets/notes/fourth-year/computer-vision/notes/techniques/binary-image-techniques.md#connected-components-analysis)
 
 **Clustering**
-* K-Means Clustering
-* Watershed Segmentation
-* Mean Shift Segmentation
+* [K-Means Clustering](https://github.com/nating/cs-exams/tree/master/assets/notes/fourth-year/computer-vision/notes/techniques/clustering.md#k-means)
+* [Watershed Segmentation](https://github.com/nating/cs-exams/tree/master/assets/notes/fourth-year/computer-vision/notes/techniques/clustering.md#watershed-segmentation)
+* [Mean-Shift Segmentation](https://github.com/nating/cs-exams/tree/master/assets/notes/fourth-year/computer-vision/notes/techniques/clustering.md#mean-shift-segmentation)
 
 **Transformations**
 
