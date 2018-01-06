@@ -56,7 +56,7 @@ Human Factors include:
 Environmental Factors include:  
 * Lighting
 * Noise
-* Time Pressure (? *"wtf"* - me)
+* Time Constraints
 
 Disadvantages of automation may include:  
 * Increased probability of system error
@@ -264,7 +264,8 @@ In **Task Analysis**, you must ask yourself: *"What are people trying to achieve
 
 **HTA** stands for Hierarchical Task Analysis, and focuses on physical and observable actions not related to software *"or an interaction device"*(?).
 
-TODO: Explain how to draw the perfect HTA.
+Here's a good example of how to do a HTA:  
+<img src="https://blogs.city.ac.uk/dimitrakopoulo-inm452-2016/files/2017/01/HTA-Mrs.-Owen-29hifve.png"/>
 
 To **Afford** is to provide or supply an opportunity or facility. (A handle affords grasping etc.)
 
