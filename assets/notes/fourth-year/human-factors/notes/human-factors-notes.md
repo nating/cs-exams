@@ -56,7 +56,7 @@ Human Factors include:
 Environmental Factors include:  
 * Lighting
 * Noise
-* Time Pressure (? *"wtf"* - me)
+* Time Constraints
 
 Disadvantages of automation may include:  
 * Increased probability of system error
