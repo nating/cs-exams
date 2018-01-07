@@ -17,26 +17,26 @@ Takagi & Sugeno recognise two important points:
 * The membership functions for the consequents have to be computed during inference, composition & defuzzification for every rule.
 * It is difficult to find the membership functions for linguistic variables in the consequents because their relationship with the input is non-linear.
 
-A Mamdani Controller's rule base will look like this:
-IF TEMP is COLD THEN SPEED is MINIMAL
-IF TEMP is COOL THEN SPEED is SLOW
-IF TEMP is PLEASANT THEN SPEED is MEDIUM
-IF TEMP is WARM THEN SPEED is FAST
-IF TEMP is HOT THEN SPEED is BLAST
+A Mamdani Controller's rule base will look like this:  
+IF TEMP is COLD THEN SPEED is MINIMAL  
+IF TEMP is COOL THEN SPEED is SLOW  
+IF TEMP is PLEASANT THEN SPEED is MEDIUM  
+IF TEMP is WARM THEN SPEED is FAST  
+IF TEMP is HOT THEN SPEED is BLAST  
 
-A **Zero-Order** TSK Controller's rule base will look like this:
-IF TEMP is COLD THEN SPEED = k<sub>1</sub>
-IF TEMP is COOL THEN SPEED = k<sub>2</sub>
-IF TEMP is PLEASANT THEN SPEED = k<sub>3</sub>
-IF TEMP is WARM THEN SPEED = k<sub>4</sub>
-IF TEMP is HOT THEN SPEED = k<sub>5</sub>
+A **Zero-Order** TSK Controller's rule base will look like this:  
+IF TEMP is COLD THEN SPEED = k<sub>1</sub>  
+IF TEMP is COOL THEN SPEED = k<sub>2</sub>  
+IF TEMP is PLEASANT THEN SPEED = k<sub>3</sub>  
+IF TEMP is WARM THEN SPEED = k<sub>4</sub>  
+IF TEMP is HOT THEN SPEED = k<sub>5</sub>  
 
-A **First-Order** TSK Controller's rule base will look like this:
-IF TEMP is COLD THEN SPEED = j<sub>1</sub> + k<sub>1</sub> * T
-IF TEMP is COOL THEN SPEED = j<sub>2</sub> + k<sub>2</sub> * T
-IF TEMP is PLEASANT THEN SPEED = k<sub>3</sub>
-IF TEMP is WARM THEN SPEED = j<sub>4</sub> + k<sub>4</sub> * T
-IF TEMP is HOT THEN SPEED = k<sub>5</sub>
+A **First-Order** TSK Controller's rule base will look like this:  
+IF TEMP is COLD THEN SPEED = j<sub>1</sub> + k<sub>1</sub> * T  
+IF TEMP is COOL THEN SPEED = j<sub>2</sub> + k<sub>2</sub> * T  
+IF TEMP is PLEASANT THEN SPEED = k<sub>3</sub>  
+IF TEMP is WARM THEN SPEED = j<sub>4</sub> + k<sub>4</sub> * T  
+IF TEMP is HOT THEN SPEED = k<sub>5</sub>  
 
 For a **SISO** (Single Input, Single Output) system, the rule base looks like:  
 **Mamdani**: <code>IF X is <sub>X</sub>(X) THEN Y is <sub>𝝭</xub>(Y)</code>  
