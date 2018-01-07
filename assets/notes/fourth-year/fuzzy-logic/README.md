@@ -25,8 +25,8 @@ Year| Question 1|Question 2|Question 3|Question 4|Question 5
 2016|[...⬛][20161]|[💰][20162]|[💠][20163]|[🐉][20164]|[🔄][20165]
 2015|[...⬛][20151]|[🔟][20152]|[💠][20153]|[⚡][20154]|
 2014|[🐳][20141]|[🏀][20142]|[...][20143]|[⚡][20144]|
-2013|[🐵][20131]|           |          |           |[🔄][20135]
-2012|[🐵][20121]|[👮][20122]|          |[🚗][20124]|⬛
+2013|[🐵][20131]|[.⚠️.][20132]|          |           |[🔄][20135]
+2012|[🐵][20121]|[👮][20122]|[.⚠️.][20143]|[🚗][20124]|⬛
 2011|[🐉][20111]|[📈][20112]|           |           |[🔄][20115]
 2010|[🐳][20101]|[🏀][20102]|           |[🚗][20104]|
 2009|[👫][20091]|         ⬛|[...][20093]|[...][20094]|
@@ -35,9 +35,11 @@ Year| Question 1|Question 2|Question 3|Question 4|Question 5
 
 *Questions represented by the same emoji are the same question that came up in different years.*
 
-*Questions represented by the ⬛ emoji are the T-Norm & S-Norm questions that I'm not sure will be on the 2018 exam yet.*
-
-*Questions represented by the "..." are ones that I have done some of but don't understand how to do totally yet. If you can help me understand them, I'd be really appreciative Thanks!*
+|Key|Meaning|
+|-----|-------|
+|...|Questions that I have done some of but don't understand how to do totally yet. If you can help me understand them, I'd be really appreciative Thanks!|
+|⬛|The T-Norm & S-Norm questions that I'm not sure will be on the 2018 exam yet.|
+|.⚠️.|Questions that I have done some of but there is an error with so I have not completed yet.|
 
 [20071]: https://github.com/nating/cs-exams/blob/master/assets/notes/fourth-year/fuzzy-logic/solutions/2007.md#2007-q1
 [20072]: https://github.com/nating/cs-exams/blob/master/assets/notes/fourth-year/fuzzy-logic/solutions/2007.md#2007-q2
