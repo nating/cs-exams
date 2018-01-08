@@ -22,15 +22,15 @@ These should be called "question attempts", but anything I am unsure of is clear
 Year| Question 1|Question 2|Question 3|Question 4|Question 5
 ----|-----------|----------|----------|----------|----------
 [2017]|[🐳][20171]|[🆚][20172]|[...💠][20173]|[🏎][20174]|
-[2016]|[...⬛][20161]|[💰][20162]|[💠][20163]|[🐉][20164]|[🔄][20165]
-[2015]|[...⬛][20151]|[🔟][20152]|[💠][20153]|[⚡][20154]|
+[2016]|[⬛][20161]|[💰][20162]|[💠][20163]|[🐉][20164]|[🔄][20165]
+[2015]|[⬛][20151]|[🔟][20152]|[💠][20153]|[⚡][20154]|
 [2014]|[🐳][20141]|[🏀][20142]|[...][20143]|[⚡][20144]|
 [2013]|[🐵][20131]|[.⚠️.][20132]|          |[🏎][20134]|[🔄][20135]
-[2012]|[🐵][20121]|[👮][20122]|[.⚠️.][20143]|[🚗][20124]|⬛
+[2012]|[🐵][20121]|[👮][20122]|[.⚠️.][20143]|[🚗][20124]|
 [2011]|[🐉][20111]|[📈][20112]|           |[🏎][20114]|[🔄][20115]
 [2010]|[🐳][20101]|[🏀][20102]|[💰][20103]|[🚗][20104]|
-[2009]|[👫][20091]|         ⬛|[...][20093]|[...][20094]|
-[2008]|[🐳][20081]|         ⬛|[👮][20083]|[🚗][20084]|[🔄][20085]
+[2009]|[👫][20091]|         |[...][20093]|[...][20094]|
+[2008]|[🐳][20081]|         |[👮][20083]|[🚗][20084]|[🔄][20085]
 [2007]|           |          |[💰][20073]|[🏎][20074]|
 
 *Questions represented by the same emoji are the same question that came up in different years.*
@@ -38,7 +38,6 @@ Year| Question 1|Question 2|Question 3|Question 4|Question 5
 |Key|Meaning|
 |-----|-------|
 |...|Questions that I have done some of but don't understand how to do totally yet. If you can help me understand them, I'd be really appreciative Thanks!|
-|⬛|The T-Norm & S-Norm questions that I'm not sure will be on the 2018 exam yet.|
 |.⚠️.|Questions that I have done some of but there is an error with so I have not completed yet.|
 
 [2017]: https://www.tcd.ie/academicregistry/exams/assets/local/past-papers2017/CS/CS4001-1.PDF
