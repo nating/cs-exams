@@ -39,11 +39,11 @@ IF TEMP is WARM THEN SPEED = j<sub>4</sub> + k<sub>4</sub> * T
 IF TEMP is HOT THEN SPEED = k<sub>5</sub>  
 
 For a **SISO** (Single Input, Single Output) system, the rule base looks like:  
-**Mamdani**: <code>IF X is <sub>X</sub>(X) THEN Y is <sub>𝝭</xub>(Y)</code>  
+**Mamdani**: <code>IF X is <sub>X</sub>(X) THEN Y is <sub>𝝁</xub>(Y)</code>  
 **TSK**: <code>IF X is <sub>X</sub>(X) THEN Y = f(X)</code>  
 
 For a **SISO** system, the values of the constants that relate the inputs to the outputs are:  
-**Mamdani**: <code><sub>X</sub>(X)</code> & <code><sub>𝝭</xub>(Y)</code> are membership functions of the terms X & Y.
+**Mamdani**: <code><sub>X</sub>(X)</code> & <code><sub>𝝁</xub>(Y)</code> are membership functions of the terms X & Y.
 **TSK**: <code><sub>X</sub>(X)</code> is a membership function of term X, and Y is a linear function of X.
 
 **FLC** stands for Fuzzy Logic Controller.
