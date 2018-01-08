@@ -17,7 +17,7 @@
 
 These should be called "question attempts", but anything I am unsure of is clearly noted.
 
-*Please not that these have not been done under exam conditions, they have been carefully crafted to give the best possible answers & help students learn.*
+*Please not that these have not been done under exam conditions. They have been carefully crafted to give the best possible answers & help students learn.*
 
 Year| Question 1|Question 2|Question 3|Question 4|Question 5
 ----|-----------|----------|----------|----------|----------
