@@ -114,37 +114,6 @@ The **XOR Solution** involves using two perceptrons, where the output of the fir
 
 The weight adjusting from the *"perceptron learning algorithm"* can adjust weights between inputs and outputs, but not *between* perceptrons. This means that for the multilayer perceptron designed for solving the XOR problem, the back-propogation algorithm needs to be used.
 
-(TODO: got to about page 90 before getting bored)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 /
+
+These notes go as far as slide 90 in the Neuro-Fuzzy Model Slides.
