@@ -8,7 +8,7 @@
 * [Knowledge Representation and Reasoning](https://github.com/nating/cs-exams/blob/master/assets/notes/fourth-year/fuzzy-logic/notes/2-knowledge-representation-and-reasoning.md)
 * [Fuzzy Control Systems](https://github.com/nating/cs-exams/blob/master/assets/notes/fourth-year/fuzzy-logic/notes/3-fuzzy-control-systems.md)
 * [Fuzzy Control Systems: Mamdani and Takagi-Sugeno Systems](https://github.com/nating/cs-exams/blob/master/assets/notes/fourth-year/fuzzy-logic/notes/4-mamdani-and-takagi-sugeno-systems.md)
-* [Neuro-Fuzzy Models](https://github.com/nating/cs-exams/blob/master/assets/notes/fourth-year/fuzzy-logic/notes/5-neuro-fuzzy-models.md) (Doing)
+* [Neuro-Fuzzy Models](https://github.com/nating/cs-exams/blob/master/assets/notes/fourth-year/fuzzy-logic/notes/5-neuro-fuzzy-models.md) (Incomplete)
 
 ## Resources
 * [All of my notes in one document (in case you want to `cmd+f` for a term) x](https://github.com/nating/cs-exams/blob/master/assets/notes/fourth-year/fuzzy-logic/notes/all-together.md)
@@ -25,12 +25,12 @@ Year| Question 1|Question 2|Question 3|Question 4|Question 5
 [2016]|[⬛][20161]|[💰][20162]|[💠][20163]|[🐉][20164]|[🔄][20165]
 [2015]|[⬛][20151]|[🔟][20152]|[💠][20153]|[⚡][20154]|
 [2014]|[🐳][20141]|[🏀][20142]|[...][20143]|[⚡][20144]|
-[2013]|[🐵][20131]|[.⚠️.][20132]|          |[🏎][20134]|[🔄][20135]
-[2012]|[🐵][20121]|[👮][20122]|[.⚠️.][20143]|[🚗][20124]|
+[2013]|[🐵][20131]|[🚫][20132]|          |[🏎][20134]|[🔄][20135]
+[2012]|[🐵][20121]|[👮][20122]|[🚫][20143]|[🚗][20124]|
 [2011]|[🐉][20111]|[📈][20112]|           |[🏎][20114]|[🔄][20115]
 [2010]|[🐳][20101]|[🏀][20102]|[💰][20103]|[🚗][20104]|
 [2009]|[👫][20091]|[...][20092]|[...][20093]|[❄️][20094]|
-[2008]|[🐳][20081]|         |[👮][20083]|[🚗][20084]|[🔄][20085]
+[2008]|[🐳][20081]|[...][20082]|[👮][20083]|[🚗][20084]|[🔄][20085]
 [2007]|           |          |[💰][20073]|[🏎][20074]|
 
 *Questions represented by the same emoji are the same question that came up in different years.*
@@ -38,7 +38,7 @@ Year| Question 1|Question 2|Question 3|Question 4|Question 5
 |Key|Meaning|
 |-----|-------|
 |...|Questions that I have done some of but don't understand how to do totally yet. If you can help me understand them, I'd be really appreciative Thanks!|
-|.⚠️.|Questions that I have done some of but there is an error with so I have not completed yet.|
+|🚫|Questions with a serious error.|
 
 [2017]: https://www.tcd.ie/academicregistry/exams/assets/local/past-papers2017/CS/CS4001-1.PDF
 [2016]: https://www.tcd.ie/academicregistry/exams/assets/local/past-papers2016/CS/CS4001-1.PDF
