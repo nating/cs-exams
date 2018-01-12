@@ -8,7 +8,8 @@ CS3061
 
 ## Resources
 
-* [Blackboard](https://mymodule.tcd.ie/)
+* [Module page](https://www.scss.tcd.ie/Tim.Fernando/3AI/)
+* [Question 1 Theory Compilation](https://github.com/nating/trinity-cs-website/blob/master/assets/question-compilations/third-year/artificial-intelligence.md)
 
 ## Questions by Year
 

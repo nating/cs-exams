@@ -8,7 +8,8 @@ CS2021
 
 ## Resources
 
-* [Blackboard](https://mymodule.tcd.ie/)
+* [Module page](https://www.scss.tcd.ie/CourseModules/CS2021/)
+* [Slides](https://www.scss.tcd.ie/CourseModules/CS2021/Assets/CS2021_Overheads.pdf)
 
 ## Questions by Year
 

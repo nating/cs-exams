@@ -8,7 +8,9 @@ CS3021
 
 ## Resources
 
-* [Blackboard](https://mymodule.tcd.ie/)
+* [Module page](https://mymodule.tcd.ie/)
+* [Cache Videos Playlist](https://www.youtube.com/playlist?list=PLbtzT1TYeoMgJ4NcWFuXpnF24fsiaOdGq)
+* [Question Compilation](https://github.com/nating/trinity-cs-website/blob/master/assets/question-compilations/third-year/computer-architecture-ii.pdf)
 
 ## Questions by Year
 

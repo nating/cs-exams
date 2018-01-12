@@ -8,7 +8,8 @@ CS3041
 
 ## Resources
 
-* [Blackboard](https://mymodule.tcd.ie/)
+* [Blackboard](https://tcd.blackboard.com/webapps/blackboard/execute/modulepage/view?course_id=_31122_1&cmp_tab_id=_71089_1&mode=view)
+* [AMAS Course](https://tcd.blackboard.com/webapps/blackboard/execute/modulepage/view?course_id=_31122_1&cmp_tab_id=_71089_1&mode=view)
 
 ## Questions by Year
 

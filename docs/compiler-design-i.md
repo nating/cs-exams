@@ -9,6 +9,8 @@ CS3071
 ## Resources
 
 * [Blackboard](https://mymodule.tcd.ie/)
+* [Oisín Johnston's Notes](http://dajuice.netsoc.ie/)
+* [Scarlett Gourley's](https://gitlab.scss.tcd.ie/gourleys/ThirdYear/tree/master/Cmpilers)
 
 ## Questions by Year
 

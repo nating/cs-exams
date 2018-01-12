@@ -9,6 +9,7 @@ CS4053
 ## Resources
 
 * [Blackboard](https://mymodule.tcd.ie/)
+* [Book's Website](https://www.scss.tcd.ie/publications/book-supplements/A-Practical-Introduction-to-Computer-Vision-with-OpenCV/)
 
 ## Questions by Year
 

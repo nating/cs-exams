@@ -9,6 +9,7 @@ CS1021 & CS1022
 ## Resources
 
 * [Blackboard](https://mymodule.tcd.ie/)
+* [ARM Reference Manual](https://www.scss.tcd.ie/~waldroj/3d1/arm_arm.pdf)
 
 ## Questions by Year
 

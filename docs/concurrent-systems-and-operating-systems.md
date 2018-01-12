@@ -8,7 +8,8 @@ CS2016
 
 ## Resources
 
-* [Blackboard](https://mymodule.tcd.ie/)
+* [Module page](https://www.scss.tcd.ie/CourseModules/CS2016/)
+* [Shlides](https://www.scss.tcd.ie/CourseModules/CS2016/Assets/cs2016overheads.pdf)
 
 ## Questions by Year
 

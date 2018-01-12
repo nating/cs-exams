@@ -8,7 +8,9 @@ CS2014
 
 ## Resources
 
-* [Blackboard](https://mymodule.tcd.ie/)
+* [Module page](https://down.dsg.cs.tcd.ie/cs2014/)
+* [Submitty Link](https://down.dsg.cs.tcd.ie/cs2014/)
+* [Old Module page](https://www.cs.tcd.ie/David.Gregg/cs2014/)
 
 ## Questions by Year
 

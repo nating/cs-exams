@@ -9,6 +9,7 @@ CS3081
 ## Resources
 
 * [Blackboard](https://mymodule.tcd.ie/)
+* [Numerical Methods (Ch. 1-6 & Ch. 8-9)](https://tcd.blackboard.com/webapps/blackboard/content/listContent.jsp?course_id=_31126_1&content_id=_725858_1&mode=reset)
 
 ## Questions by Year
 

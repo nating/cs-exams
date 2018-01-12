@@ -8,6 +8,11 @@ ST3009
 
 ## Resources
 
+* [Module page](https://www.scss.tcd.ie/Doug.Leith/ST3009/)
+* [Responseware](https://responseware.turningtechnologies.com/responseware/)
+* [A First Course in Probability](http://zalsiary.kau.edu.sa/Files/0009120/Files/119387_A_First_Course_in_Probability_8th_Edition.pdf)
+* [Lecture Response App](https://www.turningtechnologies.com/student)
+* [Virtual Labs](https://www.scss.tcd.ie/SCSS_VirtualLabs/)
 * [Blackboard](https://mymodule.tcd.ie/)
 
 ## Questions by Year

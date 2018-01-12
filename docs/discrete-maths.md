@@ -9,6 +9,8 @@ MA2C03
 ## Resources
 
 * [Blackboard](https://mymodule.tcd.ie/)
+* [Wilkins' page](http://www.maths.tcd.ie/~dwilkins/Courses/MA2C03/)
+* [Scarlett's notes](https://github.com/Scarlehh/Discrete_Math_Notes/blob/master/notes.pdf)
 
 ## Questions by Year
 

@@ -8,7 +8,8 @@ CS2010
 
 ## Resources
 
-* [Blackboard](https://mymodule.tcd.ie/)
+* [Vasileios' page](https://www.scss.tcd.ie/Vasileios.Koutavas/teaching/cs2010/mt1718/)
+* [Webcat (Done through College Network)](http://webcat.scss.tcd.ie/cs2012/WebObjects/Web-CAT.woa)
 
 ## Questions by Year
 
