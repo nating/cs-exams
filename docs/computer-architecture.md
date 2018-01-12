@@ -8,7 +8,8 @@ CS2022
 
 ## Resources
 
-* [Blackboard](https://mymodule.tcd.ie/)
+* [Module page](https://www.scss.tcd.ie/Michael.Manzke/index.php/mm-teaching/undergraduate/cs2022)
+* [Virtual Labs](https://www.scss.tcd.ie/SCSS_VirtualLabs/)
 
 ## Questions by Year
 

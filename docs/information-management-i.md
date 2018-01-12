@@ -8,7 +8,7 @@ CS2041
 
 ## Resources
 
-* [Blackboard](https://mymodule.tcd.ie/)
+* [Module page](https://www.scss.tcd.ie/CourseModules/CS2041/)
 
 ## Questions by Year
 

@@ -8,7 +8,10 @@ CS3012
 
 ## Resources
 
-* [Blackboard](https://mymodule.tcd.ie/)
+* [Module Page](https://www.scss.tcd.ie/Vivek.Nallur/teaching/cs3012/)
+* [Slides](https://www.scss.tcd.ie/Vivek.Nallur/teaching/slides/)
+* [Daniel Crawford's Notes](https://docs.google.com/document/d/1wv4wQaE8hRKdtdVF-n7sQkjUC0XHk21BK_6X8XjpsBE)
+* [GitHub](https://gitlab.scss.tcd.ie/u/vivek.nallur)
 
 ## Questions by Year
 

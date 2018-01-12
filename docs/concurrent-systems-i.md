@@ -8,7 +8,7 @@ CS3014
 
 ## Resources
 
-* [Blackboard](https://mymodule.tcd.ie/)
+* [Module page](https://www.cs.tcd.ie/David.Gregg/cs3014/)
 
 ## Questions by Year
 

@@ -9,6 +9,8 @@ CS3031
 ## Resources
 
 * [Blackboard](https://mymodule.tcd.ie/)
+* [Computer Networking](http://www.nylxs.com/docs/cmpnet.pdf)
+* [Questions Compilation](https://github.com/nating/trinity-cs-website/blob/master/assets/question-compilations/third-year/advanced-telecommunications/advanced-telecommunications.md)
 
 ## Questions by Year
 
