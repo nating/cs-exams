@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <a href="https://cs-exams.com">cs-exams.com<a/>
+  <a href="http://cs-exams.com">cs-exams.com<a/>
 </p>
 
 ## Overview
@@ -22,7 +22,7 @@ It is put together by students and maintained by students so that it can be as b
 
 Contributing is highly encouraged! It is great to help other students out!
 
-The easiest way to contribute is to: 
+Contributing is also extremely easy: 
 1. Click the `EDIT` button in the top right hand corner of a module's page:<br><img alt="edit button example" src="./assets/images/edit-button-example.png" height="200"/>
 2. Make the changes and make sure that the changes work:<br><img alt="making changes example" src="./assets/images/edit-page-example.png" height="200"/>
 3. Write an appropriate commit title that captures the change, and hit `Propose file change`:<br><img alt="appropriate commit title example" src="./assets/images/commit-message-example.png" height="150"/>
