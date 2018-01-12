@@ -1,7 +1,8 @@
 # cs-exams
  
 <p align="center">
-  <img alt="cs-exams-logo" src="https://raw.githubusercontent.com/nating/cs-exams/master/website/static/img/cs-exams.svg?sanitize=true" width="200">
+	<a alt="cs-exams logo" href="https://cs-exams.com">
+  <img alt="cs-exams-logo" src="https://raw.githubusercontent.com/nating/cs-exams/master/website/static/img/cs-exams.svg?sanitize=true" width="200"><a/>
 </p>
 	
 <p align="center">
@@ -9,7 +10,7 @@
 </p>
 
 <p align="center">
-  <a href="http://cs-exams.com">cs-exams.com<a/>
+  <a href="https://cs-exams.com">cs-exams.com<a/>
 </p>
 
 ## Overview
