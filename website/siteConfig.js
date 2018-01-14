@@ -70,7 +70,7 @@ const siteConfig = {
     // Highlight.js theme to use for syntax highlighting in code blocks
     theme: 'default',
   },
-  scripts: ['https://buttons.github.io/buttons.js'],
+  scripts: ['https://buttons.github.io/buttons.js','https://nating.github.io/enforce-https.js'],
   // You may provide arbitrary config keys to be used as needed by your template.
   repoUrl: 'https://github.com/nating/cs-exams',
   editUrl: 'https://github.com/nating/cs-exams/edit/master/docs/',
