@@ -7,7 +7,7 @@ sidebar_label: Concurrent Systems & Operating Systems
 CS2016
 
 ## Resources
-
+* [Blackboard](https://tcd.blackboard.com/webapps/blackboard/execute/announcement?method=search&context=course_entry&course_id=_38695_1)
 * [Module page](https://www.scss.tcd.ie/CourseModules/CS2016/)
 * [Shlides](https://www.scss.tcd.ie/CourseModules/CS2016/Assets/cs2016overheads.pdf)
 
