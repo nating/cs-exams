@@ -7,7 +7,7 @@ sidebar_label: Microprocessor Systems
 CS2021
 
 ## Resources
-
+* [Blackboard](https://tcd.blackboard.com/webapps/blackboard/execute/announcement?method=search&context=course_entry&course_id=_38696_1)
 * [Module page](https://www.scss.tcd.ie/CourseModules/CS2021/)
 * [Slides](https://www.scss.tcd.ie/CourseModules/CS2021/Assets/CS2021_Overheads.pdf)
 
