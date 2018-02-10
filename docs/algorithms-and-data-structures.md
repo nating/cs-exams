@@ -7,7 +7,7 @@ sidebar_label: Algorithms & Data Structures
 CS2010
 
 ## Resources
-
+* [Blackboard](https://tcd.blackboard.com/webapps/blackboard/execute/announcement?method=search&context=course_entry&course_id=_38688_1&handle=announcements_entry&mode=view)
 * [Vasileios' page](https://www.scss.tcd.ie/Vasileios.Koutavas/teaching/cs2010/mt1718/)
 * [Webcat (Done through College Network)](http://webcat.scss.tcd.ie/cs2012/WebObjects/Web-CAT.woa)
 
