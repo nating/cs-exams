@@ -31,6 +31,12 @@ const contributors = [
     infoLink: 'https://github.com/scarlehh',
     pinned: true,
   },
+  {
+    caption: 'Conor',
+    image: 'https://avatars2.githubusercontent.com/u/25468725?s=460&v=4',
+    infoLink: 'https://github.com/CSIGildea',
+    pinned: true,
+  },
 ];
 
 const siteConfig = {
@@ -70,7 +76,7 @@ const siteConfig = {
     // Highlight.js theme to use for syntax highlighting in code blocks
     theme: 'default',
   },
-  scripts: ['https://buttons.github.io/buttons.js','https://nating.github.io/enforce-https.js'],
+  scripts: ['https://buttons.github.io/buttons.js'],
   // You may provide arbitrary config keys to be used as needed by your template.
   repoUrl: 'https://github.com/nating/cs-exams',
   editUrl: 'https://github.com/nating/cs-exams/edit/master/docs/',
