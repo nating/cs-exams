@@ -15,7 +15,7 @@
 
 ## Model Answers
 
-These should be called "question attempts", but anything I am unsure of is clearly noted.
+These should be called "question attempts", but anything I was unsure of is clearly noted.
 
 *Please not that these have not been done under exam conditions. They have been carefully crafted to give the best possible answers & help students learn.*
 
@@ -37,7 +37,7 @@ Year| Question 1|Question 2|Question 3|Question 4|Question 5
 
 |Key|Meaning|
 |-----|-------|
-|...|Questions that I have done some of but don't understand how to do totally yet. If you can help me understand them, I'd be really appreciative Thanks!|
+|...|Questions that were not finished before I sat my own Fuzzy Logic Exam.|
 |🚫|Questions with a serious error.|
 
 [2017]: https://www.tcd.ie/academicregistry/exams/assets/local/past-papers2017/CS/CS4001-1.PDF
