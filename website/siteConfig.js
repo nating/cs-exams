@@ -72,6 +72,7 @@ const siteConfig = {
     'Copyright © ' +
     new Date().getFullYear() +
     'Geoffrey Natin',
+  gaTrackingId: "UA-94068209-4",
   highlight: {
     // Highlight.js theme to use for syntax highlighting in code blocks
     theme: 'default',
