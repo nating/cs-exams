@@ -9,6 +9,7 @@ CS3016
 ## Resources
 
 * [Blackboard](https://mymodule.tcd.ie/)
+* [Geoff's Question attempts](https://github.com/nating/cs-exams/blob/master/assets/solutions/functional-programming/CS3016-exams.hs)
 
 ## Questions by Year
 
