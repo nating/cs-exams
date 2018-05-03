@@ -14,6 +14,7 @@ CS3071
 
 ## Questions by Year
 
+-   [2017](https://github.com/nating/cs-exams/blob/master/assets/unpublished-papers/CS3071%2016_17%20Final.pdf)
 -   [2016](https://www.tcd.ie/academicregistry/exams/assets/local/past-papers2016/CS/CS3071-1.PDF)
 -   [2015](https://www.tcd.ie/academicregistry/exams/assets/local/past-papers2015/CS/CS3071-1.PDF)
 -   [2014](https://www.tcd.ie/academicregistry/exams/assets/local/past-papers2014/CS/CS30711.pdf)
