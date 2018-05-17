@@ -37,6 +37,18 @@ const contributors = [
     infoLink: 'https://github.com/CSIGildea',
     pinned: true,
   },
+  {
+    caption: 'Rory',
+    image: 'https://avatars1.githubusercontent.com/u/544628?s=400&v=4',
+    infoLink: 'https://github.com/RoryDH',
+    pinned: true,
+  },
+  {
+    caption: 'Neasa',
+    image: 'https://avatars0.githubusercontent.com/u/16213966?s=400&v=4',
+    infoLink: 'https://github.com/neasatang',
+    pinned: true,
+  }
 ];
 
 const siteConfig = {
