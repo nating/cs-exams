@@ -9,7 +9,7 @@
         <generator>Feed for Node.js</generator>
         <image>
             <title>CS Exams Blog</title>
-            <url>http://cs-exams.comimg/cs-exams.svg</url>
+            <url>http://cs-exams.com/img/cs-exams.svg</url>
             <link>http://cs-exams.com/blog</link>
         </image>
         <copyright>Copyright © 2018Geoffrey Natin</copyright>
@@ -18,25 +18,25 @@
             <link>http://cs-exams.com/blog/2017/10/24/new-version-1.0.0.html</link>
             <guid>http://cs-exams.com/blog/2017/10/24/new-version-1.0.0.html</guid>
             <pubDate>Tue, 24 Oct 2017 06:00:00 GMT</pubDate>
-            <description><![CDATA[This blog post will test file name parsing issues when periods are present.]]></description>
+            <description><![CDATA[<p>This blog post will test file name parsing issues when periods are present.</p>
+]]></description>
         </item>
         <item>
             <title><![CDATA[Adding RSS Support]]></title>
             <link>http://cs-exams.com/blog/2017/09/26/adding-rss.html</link>
             <guid>http://cs-exams.com/blog/2017/09/26/adding-rss.html</guid>
             <pubDate>Tue, 26 Sep 2017 06:00:00 GMT</pubDate>
-            <description><![CDATA[This is a test post.
-
-A whole bunch of other information.]]></description>
+            <description><![CDATA[<p>This is a test post.</p>
+<p>A whole bunch of other information.</p>
+]]></description>
         </item>
         <item>
             <title><![CDATA[Adding RSS Support - RSS Truncation Test]]></title>
             <link>http://cs-exams.com/blog/2017/09/25/testing-rss.html</link>
             <guid>http://cs-exams.com/blog/2017/09/25/testing-rss.html</guid>
             <pubDate>Mon, 25 Sep 2017 06:00:00 GMT</pubDate>
-            <description><![CDATA[1234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890
-
-This should be truncated.
+            <description><![CDATA[<p>1234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890</p>
+<p>This should be truncated.</p>
 ]]></description>
         </item>
         <item>
@@ -44,9 +44,7 @@ This should be truncated.
             <link>http://cs-exams.com/blog/2017/04/10/blog-post-two.html</link>
             <guid>http://cs-exams.com/blog/2017/04/10/blog-post-two.html</guid>
             <pubDate>Mon, 10 Apr 2017 06:00:00 GMT</pubDate>
-            <description><![CDATA[
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus elementum massa eget nulla aliquet sagittis. Proin odio tortor, vulputate ut odio in, ultrices ultricies augue. Cras ornare ultrices lorem malesuada iaculis. Etiam sit amet libero tempor, pulvinar mauris sed, sollicitudin sapien.
-
+            <description><![CDATA[<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus elementum massa eget nulla aliquet sagittis. Proin odio tortor, vulputate ut odio in, ultrices ultricies augue. Cras ornare ultrices lorem malesuada iaculis. Etiam sit amet libero tempor, pulvinar mauris sed, sollicitudin sapien.</p>
 ]]></description>
         </item>
         <item>
@@ -54,9 +52,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum 
             <link>http://cs-exams.com/blog/2016/03/11/blog-post.html</link>
             <guid>http://cs-exams.com/blog/2016/03/11/blog-post.html</guid>
             <pubDate>Fri, 11 Mar 2016 06:00:00 GMT</pubDate>
-            <description><![CDATA[
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus elementum massa eget nulla aliquet sagittis. Proin odio tortor, vulputate ut odio in, ultrices ultricies augue. Cras ornare ultrices lorem malesuada iaculis. Etiam sit amet libero tempor, pulvinar mauris sed, sollicitudin sapien.
-
+            <description><![CDATA[<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus elementum massa eget nulla aliquet sagittis. Proin odio tortor, vulputate ut odio in, ultrices ultricies augue. Cras ornare ultrices lorem malesuada iaculis. Etiam sit amet libero tempor, pulvinar mauris sed, sollicitudin sapien.</p>
 ]]></description>
         </item>
     </channel>
