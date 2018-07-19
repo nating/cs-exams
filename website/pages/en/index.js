@@ -107,8 +107,8 @@ class Index extends React.Component {
       })
       .map(contributor => {
         return (
-          <a href={contributor.infoLink}>
-            <img src={contributor.image} title={contributor.caption} borderRadius={'50%'}/>
+          <a key={contributor.infoLink} href={contributor.infoLink}>
+            <img src={contributor.image} title={contributor.caption} borderradius={'50%'}/>
           </a>
         );
       });
