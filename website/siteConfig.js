@@ -48,6 +48,12 @@ const contributors = [
     image: 'https://avatars0.githubusercontent.com/u/16213966?s=400&v=4',
     infoLink: 'https://github.com/neasatang',
     pinned: true,
+  },
+  {
+    caption: 'Zachary',
+    image: 'https://avatars2.githubusercontent.com/u/1366937?s=460&v=4',
+    infoLink: 'https://github.com/zachary',
+    pinned: true,
   }
 ];
 
@@ -67,7 +73,8 @@ const siteConfig = {
     {doc: 'computer-systems', label: 'Schols'},
     {doc: 'algorithms-and-data-structures', label: 'Second Year'},
     {doc: 'advanced-telecommunications', label: 'Third Year'},
-    {doc: 'human-factors', label: 'Fourth Year' },
+    {doc: 'human-factors', label: 'Fourth Year' },,
+    {href: 'https://glassrooms.cs-exams.com', label: 'Glass Rooms' },
   ],
   contributors,
   /* path to images for header/footer */

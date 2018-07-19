@@ -6,7 +6,7 @@
     <generator>Feed for Node.js</generator>
     <link rel="alternate" href="http://cs-exams.com/blog"/>
     <subtitle>The best place to stay up-to-date with the latest CS Exams news and events.</subtitle>
-    <logo>http://cs-exams.comimg/cs-exams.svg</logo>
+    <logo>http://cs-exams.com/img/cs-exams.svg</logo>
     <rights>Copyright © 2018Geoffrey Natin</rights>
     <entry>
         <title type="html"><![CDATA[New Version 1.0.0]]></title>
@@ -14,7 +14,8 @@
         <link href="http://cs-exams.com/blog/2017/10/24/new-version-1.0.0.html">
         </link>
         <updated>2017-10-24T06:00:00Z</updated>
-        <summary type="html"><![CDATA[This blog post will test file name parsing issues when periods are present.]]></summary>
+        <summary type="html"><![CDATA[<p>This blog post will test file name parsing issues when periods are present.</p>
+]]></summary>
         <author>
             <name>Eric Nakagawa</name>
             <uri>http://twitter.com/ericnakagawa</uri>
@@ -26,9 +27,9 @@
         <link href="http://cs-exams.com/blog/2017/09/26/adding-rss.html">
         </link>
         <updated>2017-09-26T06:00:00Z</updated>
-        <summary type="html"><![CDATA[This is a test post.
-
-A whole bunch of other information.]]></summary>
+        <summary type="html"><![CDATA[<p>This is a test post.</p>
+<p>A whole bunch of other information.</p>
+]]></summary>
         <author>
             <name>Eric Nakagawa</name>
             <uri>http://twitter.com/ericnakagawa</uri>
@@ -40,9 +41,8 @@ A whole bunch of other information.]]></summary>
         <link href="http://cs-exams.com/blog/2017/09/25/testing-rss.html">
         </link>
         <updated>2017-09-25T06:00:00Z</updated>
-        <summary type="html"><![CDATA[1234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890
-
-This should be truncated.
+        <summary type="html"><![CDATA[<p>1234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890</p>
+<p>This should be truncated.</p>
 ]]></summary>
         <author>
             <name>Eric Nakagawa</name>
@@ -55,9 +55,7 @@ This should be truncated.
         <link href="http://cs-exams.com/blog/2017/04/10/blog-post-two.html">
         </link>
         <updated>2017-04-10T06:00:00Z</updated>
-        <summary type="html"><![CDATA[
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus elementum massa eget nulla aliquet sagittis. Proin odio tortor, vulputate ut odio in, ultrices ultricies augue. Cras ornare ultrices lorem malesuada iaculis. Etiam sit amet libero tempor, pulvinar mauris sed, sollicitudin sapien.
-
+        <summary type="html"><![CDATA[<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus elementum massa eget nulla aliquet sagittis. Proin odio tortor, vulputate ut odio in, ultrices ultricies augue. Cras ornare ultrices lorem malesuada iaculis. Etiam sit amet libero tempor, pulvinar mauris sed, sollicitudin sapien.</p>
 ]]></summary>
         <author>
             <name>Blog Author</name>
@@ -70,9 +68,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum 
         <link href="http://cs-exams.com/blog/2016/03/11/blog-post.html">
         </link>
         <updated>2016-03-11T06:00:00Z</updated>
-        <summary type="html"><![CDATA[
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus elementum massa eget nulla aliquet sagittis. Proin odio tortor, vulputate ut odio in, ultrices ultricies augue. Cras ornare ultrices lorem malesuada iaculis. Etiam sit amet libero tempor, pulvinar mauris sed, sollicitudin sapien.
-
+        <summary type="html"><![CDATA[<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus elementum massa eget nulla aliquet sagittis. Proin odio tortor, vulputate ut odio in, ultrices ultricies augue. Cras ornare ultrices lorem malesuada iaculis. Etiam sit amet libero tempor, pulvinar mauris sed, sollicitudin sapien.</p>
 ]]></summary>
         <author>
             <name>Blog Author</name>
