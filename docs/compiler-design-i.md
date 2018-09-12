@@ -8,7 +8,7 @@ CS3071
 
 ## Resources
 
-* [Blackboard](https://mymodule.tcd.ie/)
+* [Module Page - New Curriculum](https://www.scss.tcd.ie/John.Waldron/3071/3071.html)
 * [Oisín Johnston's Notes](http://dajuice.netsoc.ie/)
 * [Scarlett Gourley's](https://gitlab.scss.tcd.ie/gourleys/ThirdYear/tree/master/Cmpilers)
 
