@@ -13,5 +13,8 @@
   },
   "fourth-year-sidebar": {
     "Fourth Year": ["advanced-computational-linguistics","advanced-computer-architecture","computer-graphics","computer-vision","entrepreneurship-and-high-tech-venture-creation","formal-verification","fuzzy-logic-and-control-systems","human-factors","internet-applications","machine-learning","machine-learning-with-applications-in-media-processing","next-generation-networks","topics-in-functional-programming"]
+  },
+  "fifth-year-sidebar": {
+    "Fifth Year": ["internet-of-things","research-methods","scalable-computing","information-retrieval-and-web-search"]
   }
 }
