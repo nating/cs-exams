@@ -58,6 +58,13 @@ class Footer extends React.Component {
               }>
               Fourth Year
             </a>
+            <a
+              href={
+                this.props.config.baseUrl +
+                'docs/internet-of-things.html'
+              }>
+              Fifth Year
+            </a>
           </div>
           <div>
             <h5>Community</h5>

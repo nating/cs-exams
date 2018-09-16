@@ -87,6 +87,14 @@ class HomeSplash extends React.Component {
                       }>
                       Fourth Year
                     </Button>
+                    <Button
+                      href={
+                        siteConfig.baseUrl +
+                        'docs/' +
+                        'internet-of-things.html'
+                      }>
+                      Fifth Year
+                    </Button>
                   </div>
                 </div>
               </div>
