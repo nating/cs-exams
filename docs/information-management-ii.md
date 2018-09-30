@@ -9,7 +9,6 @@ CS3041
 ## Resources
 
 * [Blackboard](https://tcd.blackboard.com/webapps/blackboard/execute/announcement?method=search&context=course_entry&course_id=_52402_1&handle=announcements_entry&mode=view)
-* [AMAS Course](https://tcd.blackboard.com/webapps/blackboard/content/listContent.jsp?course_id=_52402_1&content_id=_1069716_1&mode=reset)
 
 ## Questions by Year
 
