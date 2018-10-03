@@ -30,8 +30,13 @@ You can learn a bit about the file structure you have just created [here](http:/
 
 ### Build your maven project
 
-* Run this command from inside the app folder:  
+* Run this command from inside the app folder to build the project:
+`mvn package`
+
+* Run this command to test the maven project:  
 `java -cp target/<your app name>-1.0-SNAPSHOT.jar com.<your company name>.<your app name>.App`
+
+You should see "Hello World!" in your console.
 
 ### Add Lucene to your project
 
