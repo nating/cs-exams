@@ -8,10 +8,9 @@ CS3012
 
 ## Resources
 
-* [Module Page](https://www.scss.tcd.ie/Vivek.Nallur/teaching/cs3012/)
-* [Slides](https://www.scss.tcd.ie/Vivek.Nallur/teaching/slides/)
+* [Module Page](https://scss.tcd.ie/Stephen.Barrett/teaching/CS3012/)
+* [Submission Page](https://scss.tcd.ie/Stephen.Barrett/teaching/CS3012/submit.html)
 * [Daniel Crawford's Notes](https://docs.google.com/document/d/1wv4wQaE8hRKdtdVF-n7sQkjUC0XHk21BK_6X8XjpsBE)
-* [GitHub](https://gitlab.scss.tcd.ie/u/vivek.nallur)
 
 ## Questions by Year
 
