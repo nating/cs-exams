@@ -12,6 +12,7 @@ CS4404
 
 ## Questions by Year
 
+* [2018](https://www.tcd.ie/academicregistry/exams/assets/local/past-papers2018/CS/CS4404-1.PDF)
 * [2017]()
 * [2016]()
 * [2015]()
