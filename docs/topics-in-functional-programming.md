@@ -12,6 +12,7 @@ CS4012
 
 ## Questions by Year
 
+-   [2018](https://www.tcd.ie/academicregistry/exams/assets/local/past-papers2018/CS/CS4012-1.PDF)
 -   [2017](https://www.tcd.ie/academicregistry/exams/assets/local/past-papers2017/CS/CS4012-2.PDF)
 -   (The module did not run in 2016)
 -   [2015](https://www.tcd.ie/academicregistry/exams/assets/local/past-papers2015/Annuals%20Dec%2014/CS4012-1.pdf)
