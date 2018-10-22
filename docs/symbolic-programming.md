@@ -8,7 +8,7 @@ CS3011
 
 ## Resources
 
-* [Blackboard](https://mymodule.tcd.ie/)
+* [Module Page](https://www.scss.tcd.ie/Tim.Fernando/LPN/)
 
 ## Questions by Year
 
