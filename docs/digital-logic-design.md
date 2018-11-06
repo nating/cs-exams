@@ -9,7 +9,6 @@ CS1026
 ## Resources
 
 * [Blackboard](https://mymodule.tcd.ie/)
-* [Waldron's page](https://www.cs.tcd.ie/John.Waldron/CS1026/cs1026.html)
 * [Logisim Download](http://www.cburch.com/logisim/download.html)
 
 ## Questions by Year
