@@ -67,6 +67,12 @@ const contributors = [
     infoLink: 'https://github.com/ostrich805',
     pinned: true,
   }
+  {
+    caption: 'Rory',
+    image: 'https://avatars3.githubusercontent.com/u/1616468?s=400&v=4',
+    infoLink: 'https://github.com/roryflynn',
+    pinned: true,
+  }
 ];
 
 const siteConfig = {
