@@ -66,11 +66,17 @@ const contributors = [
     image: 'https://avatars0.githubusercontent.com/u/19475841?s=400&v=4',
     infoLink: 'https://github.com/ostrich805',
     pinned: true,
-  }
+  },
   {
     caption: 'Rory',
     image: 'https://avatars3.githubusercontent.com/u/1616468?s=400&v=4',
     infoLink: 'https://github.com/roryflynn',
+    pinned: true,
+  },
+  {
+    caption: 'Vahe',
+    image: 'https://avatars2.githubusercontent.com/u/30231079?s=400&v=4',
+    infoLink: 'https://github.com/sasunts',
     pinned: true,
   }
 ];
