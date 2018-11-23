@@ -9,6 +9,7 @@ CS4012
 ## Resources
 
 * [Blackboard](https://mymodule.tcd.ie/)
+* [Dario's Exam Attempts](https://gitlab.scss.tcd.ie/tavaresd/exam-solutions)
 
 ## Questions by Year
 
