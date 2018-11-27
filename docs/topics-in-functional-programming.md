@@ -10,6 +10,7 @@ CS4012
 
 * [Blackboard](https://mymodule.tcd.ie/)
 * [Dario's Exam Attempts](https://gitlab.scss.tcd.ie/tavaresd/exam-solutions)
+* [McGizzle's monad transformers](https://github.com/McGizzle/CS4012-Functional-Programming)
 
 ## Questions by Year
 
