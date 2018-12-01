@@ -13,10 +13,10 @@ Questions are ordered by their frequency.
 
 ## Q1 (Mandatory)
 
-**1a) (2017,2016,2015,2014,2013,2012,2011,2010,2008)**  
+**1a) (2018,2017,2016,2015,2014,2013,2012,2011,2010,2008)**  
 Identify the main tasks in the above application and present an analysis of these tasks. Your analysis should include a hierarchical task decomposition, but should use the tasks identified as the starting point for a broader analysis that goes beyond that. [35 Marks]
 
-**1b) (2017,2016,2015,2014,2013,2012,2011,2010)**  
+**1b) (2018,2017,2016,2015,2014,2013,2012,2011,2010)**  
 Explain how your analysis would effect the design of the system, giving concrete examples of the design decisions which would be influenced by the analysis. You may use a small number of user interface sketches to illustrate your answer as appropriate. [15 Marks]
 
 ## Q2 & Q3
@@ -29,13 +29,13 @@ Which techniques for improving usability would be most important to the above sy
 **(2015,2014,2013,2011,2008)**  
 Explain Norman's model of interaction using an example from the above system. [10 Marks]
 
-**(2017,2015,2014,2011)**  
+**(2018,2017,2015,2014,2011)**  
 Identify three usability metrics relevant to the above system, explain why they are important, and how you would measure them. What values would you compare the measured results to? [15 Marks]
 
 **(2017,2015,2014,2012)**  
 Explain the advantages of the MVC User Interface Architecture (and what it is), using an example from the above system. [10 Marks]
 
-**(2017,2015,2014)**  
+**(2018,2017,2015,2014)**  
 Consider opportunities for error when using the above system, and describe how they might be detected, tolerated or recovered from. Your consideration of error can be broad, and include failure to achieve goals relevant to the system. Make use of the SRK framework where it is helpful to your analysis and include user-interface sketches to illustrate your answer where appropriate. [25 Marks]
 
 **(2016,2013,2011)** (This question is the same as above apart from the keyword 'human')  
@@ -50,14 +50,20 @@ Describe in detail how you would conduct a late-stage usability evaluation of th
 **(2011,2008)**  
 Describe in detail how you would conduct usability evaluations of the above system at any stage. Your answer should include the design of the evaluations, and should consider the different options available. [25 Marks]
 
-**(2015,2014)**  
+**(2018,2016)**  
+Describe an overall design process which you would recommend be applied in the development of the above system. Justify your choice. You should provide a plan for the activities but you do not need to consider timescales or person months. [25 Marks]
+
+**(2018, 2016)**  
+Discuss the issue of awareness (from a CSCW perspective) with respect to the above system. Include all users within your analysis. [10 Marks 2018, 15 Marks 2016]
+
+**(2018,2015,2014)**  
 Discuss the significance of external information representations in the above system. [15 Marks]
+
+**(2018)**
+Discuss the advantages and disadvantages of labratory-based vs. field-based evaluations with respect to the above system. [10 Marks]
 
 **(2010)**  
 Consider opportunities for error when using the above system and discuss using examples how a design for the above system can help to prevent errors, and help operators to identify, diagnose and recover from these errors. [25 Marks]
-
-**(2016)**  
-Describe an overall design process which you would recommend be applied in the development of the above system. Justify your choice. You should provide a plan for the activities but you do not need to consider timescales or person months. [25 Marks]
 
 **(2008)**  
 How would you ensure the usability of the above system? Your answer should consider the entire development process, and should make clear the benefit of each of the activities you propose to the development of the above system. [35 Marks]
@@ -76,9 +82,6 @@ Analyse how the use of computer-mediated communication between the host and gues
 
 **(2012)**  
 Present an analysis of the above system from a distributed cognition perspective, and explain how this would differ from a more traditional task-based analysis. [25 Marks]
-
-**(2016)**  
-Discuss the issue of awareness (from a CSCW perspective) with respect to the above system. Include all users within your analysis. [15 Marks]
 
 **(2013)**  
 What measures of success would be most relevant for the above system? Describe how you would measure and maximise these within the development process.[25 Marks]
