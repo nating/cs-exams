@@ -4,112 +4,233 @@
     "next": "Next",
     "previous": "Previous",
     "tagline": "A website for Computer Science Students in Trinity College Dublin",
-    "advanced-computational-linguistics": "Advanced Computational Linguistics",
-    "Advanced Computational Linguistics": "Advanced Computational Linguistics",
-    "advanced-computer-architecture": "Advanced Computer Architecture",
-    "Advanced Computer Architecture": "Advanced Computer Architecture",
-    "advanced-telecommunications": "Advanced Telecommunications",
-    "Advanced Telecommunications": "Advanced Telecommunications",
-    "algorithms-and-data-structures": "Algorithms & Data Structures",
-    "Algorithms & Data Structures": "Algorithms & Data Structures",
-    "artificial-intelligence": "Artificial Intelligence",
-    "Artificial Intelligence": "Artificial Intelligence",
-    "compiler-design-i": "Compiler Design I",
-    "Compiler Design I": "Compiler Design I",
-    "computational-mathematics": "Computational Mathematics",
-    "Computational Mathematics": "Computational Mathematics",
-    "computer-architecture-ii": "Computer Architecture II",
-    "Computer Architecture II": "Computer Architecture II",
-    "computer-architecture-i": "Computer Architecture I",
-    "Computer Architecture I": "Computer Architecture I",
-    "computer-graphics": "Computer Graphics",
-    "Computer Graphics": "Computer Graphics",
-    "computer-systems": "Computer Systems",
-    "Computer Systems": "Computer Systems",
-    "computer-vision": "Computer Vision",
-    "Computer Vision": "Computer Vision",
-    "concurrent-systems-and-operating-systems": "Concurrent Systems & Operating Systems",
-    "Concurrent Systems & Operating Systems": "Concurrent Systems & Operating Systems",
-    "concurrent-systems-i": "Concurrent Systems I",
-    "Concurrent Systems I": "Concurrent Systems I",
-    "digital-logic-design": "Digital Logic Design",
-    "Digital Logic Design": "Digital Logic Design",
-    "discrete-maths": "Discrete Maths",
-    "Discrete Maths": "Discrete Maths",
-    "electrotechnology": "Electrotechnology",
-    "Electrotechnology": "Electrotechnology",
-    "entrepreneurship-and-high-tech-venture-creation": "Entrepreneurship",
-    "Entrepreneurship": "Entrepreneurship",
-    "first-year": "First Year",
-    "Home": "Home",
-    "formal-verification": "Formal Verification",
-    "Formal Verification": "Formal Verification",
-    "fourth-year": "Fourth Year",
-    "fuzzy-logic-and-control-systems": "Fuzzy Logic & Control Systems",
-    "Fuzzy Logic & Control Systems": "Fuzzy Logic & Control Systems",
-    "human-factors": "Human Factors",
-    "Human Factors": "Human Factors",
-    "information-management-i": "Information Management I",
-    "Information Management I": "Information Management I",
-    "information-management-ii": "Information Management II",
-    "Information Management II": "Information Management II",
-    "information-retrieval-and-web-search": "Information Retrieval & Web Search",
-    "Information Retrieval & Web Search": "Information Retrieval & Web Search",
-    "internet-applications": "Internet Applications",
-    "Internet Applications": "Internet Applications",
-    "internet-of-things": "Internet of Things",
-    "Internet of Things": "Internet of Things",
-    "introduction-to-computing": "Introduction to Computing",
-    "Introduction to Computing": "Introduction to Computing",
-    "introduction-to-functional-programming": "Introduction to Functional Programming",
-    "Introduction to Functional Programming": "Introduction to Functional Programming",
-    "introduction-to-programming": "Introduction to Programming",
-    "Introduction to Programming": "Introduction to Programming",
-    "machine-learning-with-applications-in-media-processing": "Machine Learning with Applications in Media Processing",
-    "Machine Learning with Applications in Media Processing": "Machine Learning with Applications in Media Processing",
-    "machine-learning": "Machine Learning",
-    "Machine Learning": "Machine Learning",
-    "mathematics": "Mathematics",
-    "Mathematics": "Mathematics",
-    "maths": "Maths",
-    "Maths": "Maths",
-    "microprocessor-systems": "Microprocessor Systems",
-    "Microprocessor Systems": "Microprocessor Systems",
-    "my-examples": "This is hte doc index",
-    "Docs index bb": "Docs index bb",
-    "next-generation-networks-ii": "Next Generation Networks",
-    "Next Generation Networks": "Next Generation Networks",
-    "next-generation-networks": "Next Generation Networks",
-    "programming": "Programming",
-    "Programming": "Programming",
-    "research-methods": "Research Methods",
-    "Research Methods": "Research Methods",
-    "scalable-computing": "Scalable Computing",
-    "Scalable Computing": "Scalable Computing",
-    "schols": "Schols",
-    "second-year": "Second Year",
-    "software-engineering": "Software Engineering",
-    "Software Engineering": "Software Engineering",
-    "statistical-methods-for-computer-science": "Statistical Methods for Computer Science",
-    "Statistical Methods for Computer Science": "Statistical Methods for Computer Science",
-    "symbolic-programming": "Symbolic Programming",
-    "Symbolic Programming": "Symbolic Programming",
-    "systems-programming": "Systems Programming",
-    "Systems Programming": "Systems Programming",
-    "telecommunications-i": "Telecommunications I",
-    "Telecommunications I": "Telecommunications I",
-    "telecommunications-ii": "Telecommunications II",
-    "Telecommunications II": "Telecommunications II",
-    "third-year": "Third Year",
-    "topics-in-functional-programming": "Topics in Functional Programming",
-    "Topics in Functional Programming": "Topics in Functional Programming",
-    "First Year": "First Year",
-    "Schols": "Schols",
-    "Second Year": "Second Year",
-    "Third Year": "Third Year",
-    "Fourth Year": "Fourth Year",
-    "Fifth Year": "Fifth Year",
-    "Glass Rooms": "Glass Rooms"
+    "docs": {
+      "advanced-computational-linguistics": {
+        "title": "Advanced Computational Linguistics",
+        "sidebar_label": "Advanced Computational Linguistics"
+      },
+      "advanced-computer-architecture": {
+        "title": "Advanced Computer Architecture",
+        "sidebar_label": "Advanced Computer Architecture"
+      },
+      "advanced-telecommunications": {
+        "title": "Advanced Telecommunications",
+        "sidebar_label": "Advanced Telecommunications"
+      },
+      "algorithms-and-data-structures": {
+        "title": "Algorithms & Data Structures",
+        "sidebar_label": "Algorithms & Data Structures"
+      },
+      "artificial-intelligence": {
+        "title": "Artificial Intelligence",
+        "sidebar_label": "Artificial Intelligence"
+      },
+      "compiler-design-i": {
+        "title": "Compiler Design I",
+        "sidebar_label": "Compiler Design I"
+      },
+      "computational-mathematics": {
+        "title": "Computational Mathematics",
+        "sidebar_label": "Computational Mathematics"
+      },
+      "computer-architecture-ii": {
+        "title": "Computer Architecture II",
+        "sidebar_label": "Computer Architecture II"
+      },
+      "computer-architecture-i": {
+        "title": "Computer Architecture I",
+        "sidebar_label": "Computer Architecture I"
+      },
+      "computer-graphics": {
+        "title": "Computer Graphics",
+        "sidebar_label": "Computer Graphics"
+      },
+      "computer-systems": {
+        "title": "Computer Systems",
+        "sidebar_label": "Computer Systems"
+      },
+      "computer-vision": {
+        "title": "Computer Vision",
+        "sidebar_label": "Computer Vision"
+      },
+      "concurrent-systems-and-operating-systems": {
+        "title": "Concurrent Systems & Operating Systems",
+        "sidebar_label": "Concurrent Systems & Operating Systems"
+      },
+      "concurrent-systems-i": {
+        "title": "Concurrent Systems I",
+        "sidebar_label": "Concurrent Systems I"
+      },
+      "digital-logic-design": {
+        "title": "Digital Logic Design",
+        "sidebar_label": "Digital Logic Design"
+      },
+      "discrete-maths": {
+        "title": "Discrete Maths",
+        "sidebar_label": "Discrete Maths"
+      },
+      "electrotechnology": {
+        "title": "Electrotechnology",
+        "sidebar_label": "Electrotechnology"
+      },
+      "entrepreneurship-and-high-tech-venture-creation": {
+        "title": "Entrepreneurship",
+        "sidebar_label": "Entrepreneurship"
+      },
+      "first-year": {
+        "title": "First Year",
+        "sidebar_label": "Home"
+      },
+      "formal-verification": {
+        "title": "Formal Verification",
+        "sidebar_label": "Formal Verification"
+      },
+      "fourth-year": {
+        "title": "Fourth Year",
+        "sidebar_label": "Home"
+      },
+      "fuzzy-logic-and-control-systems": {
+        "title": "Fuzzy Logic & Control Systems",
+        "sidebar_label": "Fuzzy Logic & Control Systems"
+      },
+      "human-factors": {
+        "title": "Human Factors",
+        "sidebar_label": "Human Factors"
+      },
+      "information-management-i": {
+        "title": "Information Management I",
+        "sidebar_label": "Information Management I"
+      },
+      "information-management-ii": {
+        "title": "Information Management II",
+        "sidebar_label": "Information Management II"
+      },
+      "information-retrieval-and-web-search": {
+        "title": "Information Retrieval & Web Search",
+        "sidebar_label": "Information Retrieval & Web Search"
+      },
+      "internet-applications": {
+        "title": "Internet Applications",
+        "sidebar_label": "Internet Applications"
+      },
+      "internet-of-things": {
+        "title": "Internet of Things",
+        "sidebar_label": "Internet of Things"
+      },
+      "introduction-to-computing": {
+        "title": "Introduction to Computing",
+        "sidebar_label": "Introduction to Computing"
+      },
+      "introduction-to-functional-programming": {
+        "title": "Introduction to Functional Programming",
+        "sidebar_label": "Introduction to Functional Programming"
+      },
+      "introduction-to-programming": {
+        "title": "Introduction to Programming",
+        "sidebar_label": "Introduction to Programming"
+      },
+      "machine-learning-with-applications-in-media-processing": {
+        "title": "Machine Learning with Applications in Media Processing",
+        "sidebar_label": "Machine Learning with Applications in Media Processing"
+      },
+      "machine-learning": {
+        "title": "Machine Learning",
+        "sidebar_label": "Machine Learning"
+      },
+      "mathematics": {
+        "title": "Mathematics",
+        "sidebar_label": "Mathematics"
+      },
+      "maths": {
+        "title": "Maths",
+        "sidebar_label": "Maths"
+      },
+      "microprocessor-systems": {
+        "title": "Microprocessor Systems",
+        "sidebar_label": "Microprocessor Systems"
+      },
+      "my-examples": {
+        "title": "This is hte doc index",
+        "sidebar_label": "Docs index bb"
+      },
+      "next-generation-networks-ii": {
+        "title": "Next Generation Networks",
+        "sidebar_label": "Next Generation Networks"
+      },
+      "next-generation-networks": {
+        "title": "Next Generation Networks",
+        "sidebar_label": "Next Generation Networks"
+      },
+      "programming": {
+        "title": "Programming",
+        "sidebar_label": "Programming"
+      },
+      "research-methods": {
+        "title": "Research Methods",
+        "sidebar_label": "Research Methods"
+      },
+      "scalable-computing": {
+        "title": "Scalable Computing",
+        "sidebar_label": "Scalable Computing"
+      },
+      "schols": {
+        "title": "Schols",
+        "sidebar_label": "Home"
+      },
+      "second-year": {
+        "title": "Second Year",
+        "sidebar_label": "Home"
+      },
+      "software-engineering": {
+        "title": "Software Engineering",
+        "sidebar_label": "Software Engineering"
+      },
+      "statistical-methods-for-computer-science": {
+        "title": "Statistical Methods for Computer Science",
+        "sidebar_label": "Statistical Methods for Computer Science"
+      },
+      "symbolic-programming": {
+        "title": "Symbolic Programming",
+        "sidebar_label": "Symbolic Programming"
+      },
+      "systems-programming": {
+        "title": "Systems Programming",
+        "sidebar_label": "Systems Programming"
+      },
+      "telecommunications-i": {
+        "title": "Telecommunications I",
+        "sidebar_label": "Telecommunications I"
+      },
+      "telecommunications-ii": {
+        "title": "Telecommunications II",
+        "sidebar_label": "Telecommunications II"
+      },
+      "third-year": {
+        "title": "Third Year",
+        "sidebar_label": "Home"
+      },
+      "topics-in-functional-programming": {
+        "title": "Topics in Functional Programming",
+        "sidebar_label": "Topics in Functional Programming"
+      }
+    },
+    "links": {
+      "First Year": "First Year",
+      "Schols": "Schols",
+      "Second Year": "Second Year",
+      "Third Year": "Third Year",
+      "Fourth Year": "Fourth Year",
+      "Fifth Year": "Fifth Year",
+      "Glass Rooms": "Glass Rooms"
+    },
+    "categories": {
+      "First Year": "First Year",
+      "Schols": "Schols",
+      "Second Year": "Second Year",
+      "Third Year": "Third Year",
+      "Fourth Year": "Fourth Year",
+      "Fifth Year": "Fifth Year"
+    }
   },
   "pages-strings": {
     "Help Translate|recruit community translators for your project": "Help Translate",
