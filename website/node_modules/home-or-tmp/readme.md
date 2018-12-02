@@ -15,12 +15,12 @@ $ npm install --save home-or-tmp
 ## Usage
 
 ```js
-var homeOrTmp = require('home-or-tmp');
+const homeOrTmp = require('home-or-tmp');
 
 console.log(homeOrTmp);
 //=> '/Users/sindresorhus'
 
-// and if there's no home directory:
+// And if there is no home directory:
 
 console.log(homeOrTmp);
 //=> '/var/folders/m3/5574nnhn0yj488ccryqr7tc80000gn/T'
@@ -29,4 +29,4 @@ console.log(homeOrTmp);
 
 ## License
 
-MIT © [Sindre Sorhus](http://sindresorhus.com)
+MIT © [Sindre Sorhus](https://sindresorhus.com)

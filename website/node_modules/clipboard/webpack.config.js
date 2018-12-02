@@ -1,6 +1,7 @@
 const pkg = require('./package.json');
 const path = require('path');
 const webpack = require('webpack');
+const UglifyJSPlugin = require('uglifyjs-webpack-plugin');
 
 const production = process.env.NODE_ENV === 'production' || false;
 
@@ -11,31 +12,34 @@ Licensed MIT © Zeno Rocha`;
 
 module.exports = {
     entry: './src/clipboard.js',
+    mode: 'production',
     output: {
         filename: production ? 'clipboard.min.js' : 'clipboard.js',
         path: path.resolve(__dirname, 'dist'),
         library: 'ClipboardJS',
-        libraryTarget: 'umd'
+        libraryTarget: 'umd',
+        globalObject: 'this'
     },
     module: {
         rules: [
             {test: /\.js$/, exclude: /node_modules/, loader: 'babel-loader'}
         ]
     },
-    plugins: production ? [
-            new webpack.optimize.UglifyJsPlugin({
-                beautify: false,
-                mangle: {
-                    screw_ie8: true,
-                    keep_fnames: true
-                },
-                compress: {
-                    screw_ie8: true
-                },
-                comments: false
-            }),
-            new webpack.BannerPlugin({banner})
-        ] : [
-            new webpack.BannerPlugin({banner})
+    optimization: {
+        minimize: production,
+        minimizer: [
+            new UglifyJSPlugin({
+                parallel: require('os').cpus().length,
+                uglifyOptions: {
+                    ie8: false,
+                    keep_fnames: false,
+                    output: {
+                        beautify: false,
+                        comments: (node, {value, type}) => type == 'comment2' && value.startsWith('!')
+                    }
+                }
+            })
         ]
+    },
+    plugins: [new webpack.BannerPlugin({ banner })]
 };

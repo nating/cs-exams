@@ -7,8 +7,8 @@
 
 const React = require('react');
 
-const siteConfig = require(process.cwd() + '/siteConfig.js');
-const getTOC = require('../getTOC');
+const siteConfig = require(`${process.cwd()}/siteConfig.js`);
+const {getTOC} = require('../toc');
 
 const Link = ({hashLink, content}) => (
   <a
@@ -23,8 +23,8 @@ const Headings = ({headings}) => {
   if (!headings.length) return null;
   return (
     <ul className="toc-headings">
-      {headings.map((heading, i) => (
-        <li key={i}>
+      {headings.map(heading => (
+        <li key={heading.hashLink}>
           <Link hashLink={heading.hashLink} content={heading.content} />
           <Headings headings={heading.children} />
         </li>

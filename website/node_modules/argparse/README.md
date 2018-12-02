@@ -1,7 +1,7 @@
 argparse
 ========
 
-[![Build Status](https://secure.travis-ci.org/nodeca/argparse.svg?branch=master)](http://travis-ci.org/nodeca/argparse)
+[![Build Status](https://secure.travis-ci.org/nodeca/argparse.png?branch=master)](http://travis-ci.org/nodeca/argparse)
 [![NPM version](https://img.shields.io/npm/v/argparse.svg)](https://www.npmjs.org/package/argparse)
 
 CLI arguments parser for node.js. Javascript port of python's
@@ -13,10 +13,6 @@ recorded in issue tracker.
 
 - Method names changed to camelCase. See [generated docs](http://nodeca.github.com/argparse/).
 - Use `defaultValue` instead of `default`.
-- Use `argparse.Const.REMAINDER` instead of `argparse.REMAINDER`, and
-  similarly for constant values `OPTIONAL`, `ZERO_OR_MORE`, and `ONE_OR_MORE`
-  (aliases for `nargs` values `'?'`, `'*'`, `'+'`, respectively), and
-  `SUPPRESS`.
 
 
 Example
@@ -86,7 +82,7 @@ ArgumentParser objects
 ======================
 
 ```
-new ArgumentParser({parameters hash});
+new ArgumentParser({paramters hash});
 ```
 
 Creates a new ArgumentParser object.
@@ -104,7 +100,7 @@ Creates a new ArgumentParser object.
 - ```usage``` - The string describing the program usage (default: generated)
 - ```conflictHandler``` - Usually unnecessary, defines strategy for resolving conflicting optionals.
 
-**Not supported yet**
+**Not supportied yet**
 
 - ```fromfilePrefixChars``` - The set of characters that prefix files from which additional arguments should be read.
 

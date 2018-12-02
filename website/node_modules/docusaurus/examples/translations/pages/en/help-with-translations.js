@@ -8,12 +8,11 @@
 const React = require('react');
 
 const CompLibrary = require('../../core/CompLibrary.js');
+
 const Container = CompLibrary.Container;
 const GridBlock = CompLibrary.GridBlock;
 
 const translate = require('../../server/translate.js').translate;
-
-const siteConfig = require(process.cwd() + '/siteConfig.js');
 
 class Help extends React.Component {
   render() {

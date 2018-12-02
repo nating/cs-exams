@@ -1,5 +1,4 @@
 'use strict';
-var osHomedir = require('os-homedir');
-var osTmpdir = require('os-tmpdir');
+const os = require('os');
 
-module.exports = osHomedir() || osTmpdir();
+module.exports = os.homedir() || os.tmpdir();
