@@ -7,8 +7,8 @@ sidebar_label: Home
 ## Modules
 
 * [Algorithms & Data Structures](algorithms-and-data-structures.md)
-* [Computer Architecture I](computer-architecture-i.md)
-* [Concurrent Systems & Operating Systems](concurrent-and-operating-systems.md)
+* [Computer Architecture I](computer-architecture.md)
+* [Concurrent Systems & Operating Systems](concurrent-systems-and-operating-systems.md)
 * [Discrete Maths](discrete-maths.md)
 * [Information Management I](information-management-i.md)
 * [Microprocessor Systems](microprocessor-systems.md)

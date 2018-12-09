@@ -90,6 +90,24 @@ const contributors = [
     image: 'https://avatars0.githubusercontent.com/u/26223091?s=460&v=4',
     infoLink: 'https://github.com/BenColwell131',
     pinned: true,
+  },
+  {
+    caption: 'henrym2',
+    image: 'https://avatars2.githubusercontent.com/u/33910429?s=400&v=4',
+    infoLink: 'https://github.com/henrym2',
+    pinned: true,
+  },
+  {
+    caption: 'Hieu',
+    image: 'https://avatars0.githubusercontent.com/u/10133845?s=400&v=4',
+    infoLink: 'https://github.com/hieunguyenm',
+    pinned: true,
+  },
+  {
+    caption: 'Luke',
+    image: 'https://avatars2.githubusercontent.com/u/16494867?s=400&v=4',
+    infoLink: 'https://github.com/LukeHackett12',
+    pinned: true,
   }
 ];
 

@@ -9,7 +9,7 @@ CS3061
 ## Resources
 
 * [Module page](https://www.scss.tcd.ie/Tim.Fernando/AI/)
-* [Question 1 Theory Compilation](https://github.com/nating/trinity-cs-website/blob/master/assets/question-compilations/third-year/artificial-intelligence.md)
+* [Question 1 Theory Compilation](https://github.com/nating/cs-exams/blob/master/assets/question-compilations/third-year/artificial-intelligence.md)
 
 ## Questions by Year
 
