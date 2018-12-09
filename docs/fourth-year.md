@@ -10,7 +10,7 @@ sidebar_label: Home
 * [Advanced Computer Architecture](advanced-computer-architecture.md)
 * [Computer Graphics](computer-graphics.md)
 * [Computer Vision](computer-vision.md)
-* [Formal Verification](formal-verifcation.md)
+* [Formal Verification](formal-verification.md)
 * [Fuzzy Logic & Control Systems](fuzzy-logic-and-control-systems.md)
 * [Human Factors](human-factors.md)
 * [Internet Applications](internet-applications.md)
