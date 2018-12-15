@@ -147,7 +147,7 @@ const siteConfig = {
   /* path to images for header/footer */
   headerIcon: 'img/cs-exams.svg',
   footerIcon: 'img/cs-exams.svg',
-  favicon: 'img/favicon.png',
+  favicon: 'img/favicon/favicon.ico',
   /* colors for website */
   colors: {
     primaryColor: '#222222',
