@@ -13,7 +13,7 @@ jobs:
             git config --global user.email "nating@users.noreply.github.com"
             git config --global user.name "nating"
             echo "machine github.com login nating password $GITHUB_TOKEN" > ~/.netrc
-            cd website && yarn install && GIT_USER=nating yarn run publish-gh-pages
+            cd website && yarn install && npm run build && GIT_USER=nating yarn run publish-gh-pages
 
 workflows:
   version: 2
