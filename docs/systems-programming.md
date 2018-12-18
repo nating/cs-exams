@@ -10,7 +10,7 @@ CS2014
 
 * [Module page](https://down.dsg.cs.tcd.ie/cs2014/)
 * [Submitty Link](https://down.dsg.cs.tcd.ie/cs2014/)
-* [Old Module page](https://www.cs.tcd.ie/David.Gregg/cs2014/)
+* [David Gregg's Module page](https://www.cs.tcd.ie/David.Gregg/cs2014/)
 
 ## Questions by Year
 
