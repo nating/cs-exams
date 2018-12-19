@@ -12,6 +12,7 @@ CS1003
 
 ## Questions by Year
 
+-   [2018 Mathematics](https://www.tcd.ie/academicregistry/exams/assets/local/past-papers2018/CS/CS1003-2.PDF)
 -   [2017 Mathematics](https://www.tcd.ie/academicregistry/exams/assets/local/past-papers2017/CS/CS1003-2.PDF)
 -   [2016 Mathematics](https://www.tcd.ie/academicregistry/exams/assets/local/past-papers2016/CS/CS1003-2.PDF)
 -   [2015 Mathematics I](https://www.tcd.ie/academicregistry/exams/assets/local/past-papers2015/CS/CS1001-1.PDF)
