@@ -120,6 +120,12 @@ const contributors = [
     image: 'https://avatars2.githubusercontent.com/u/1834746?s=460&v=4',
     infoLink: 'https://github.com/swapnilraj',
     pinned: true,
+  },
+  {
+    caption: 'Ernest',
+    image: 'https://avatars3.githubusercontent.com/u/34303435?s=460&v=4',
+    infoLink: 'https://github.com/ErnestKz',
+    pinned: true,
   }
 ];
 
