@@ -15,6 +15,8 @@ CS1021 & CS1022
 
 ## Questions by Year
 
+-   [2018 Computing I](https://www.tcd.ie/academicregistry/exams/assets/local/past-papers2018/CS/CS1021-1.PDF)
+-   [2018 Computing II](https://www.tcd.ie/academicregistry/exams/assets/local/past-papers2018/CS/CS1022-1.PDF)
 -   [2017 Computing I](https://www.tcd.ie/academicregistry/exams/assets/local/past-papers2017/CS/CS1021-1.PDF)
 -   [2017 Computing II](https://www.tcd.ie/academicregistry/exams/assets/local/past-papers2017/CS/CS1022-1.PDF)
 -   [2016 Computing I](https://www.tcd.ie/academicregistry/exams/assets/local/past-papers2016/CS/CS1021-1.PDF)
