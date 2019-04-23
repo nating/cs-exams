@@ -11,6 +11,7 @@ CS7053 || CS7453 || CS7NS5 || CS4407
 * [Blackboard](https://mymodule.tcd.ie/)
 * [Module Site](https://down.dsg.cs.tcd.ie/cs7053/)
 * [Module GitHub Repo](https://github.com/sftcd/cs7053)
+* [Question Compilation](https://github.com/nating/personal-notes/blob/master/fifth-year/security-and-privacy/question-compilation.md)
 
 ## Questions by Year
 
@@ -57,7 +58,7 @@ CS7053 || CS7453 || CS7NS5 || CS4407
         <li><a href="https://down.dsg.cs.tcd.ie/old-exams/cs7053-2014-exam.pdf#page=2">2014 Q1</a></li>
         <li><a href="https://down.dsg.cs.tcd.ie/old-exams/cs7053-2013-exam.pdf#page=2">2013 Q1</a></li>
         <li><a href="https://down.dsg.cs.tcd.ie/old-exams/cs7053-2012-exam.pdf#page=2">2012 Q1</a></li>
-        <li><a href="https://down.dsg.cs.tcd.ie/old-exams/cs7053-questions-2010.pdf#page=2">2010 Q1</a></li>
+        <li><a href="https://down.dsg.cs.tcd.ie/old-exams/cs7053-questions-2010.pdf#page=1">2010 Q1</a></li>
             </ul>
         </td>
     </tr>
