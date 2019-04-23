@@ -181,6 +181,10 @@
         "title": "Second Year",
         "sidebar_label": "Home"
       },
+      "security-and-privacy": {
+        "title": "Security & Privacy",
+        "sidebar_label": "Security & Privacy"
+      },
       "software-engineering": {
         "title": "Software Engineering",
         "sidebar_label": "Software Engineering"
