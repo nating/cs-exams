@@ -10,7 +10,7 @@ CS1026
 
 * [Blackboard](https://mymodule.tcd.ie/)
 * [Logisim Download](http://www.cburch.com/logisim/download.html)
-* [Jon Waldron's Website](https://www.scss.tcd.ie/John.Waldron/cs1026/cs1026.html)
+* [John Waldron's Website](https://www.scss.tcd.ie/John.Waldron/cs1026/cs1026.html)
 
 ## Questions by Year
 
