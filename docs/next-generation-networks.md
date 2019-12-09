@@ -12,7 +12,8 @@ CS4031
 
 ## Questions by Year
 
--   [2018](https://www.tcd.ie/academicregistry/exams/assets/local/past-papers2018/CS/CS4031-1.PDF)
+-   [2018 - December](https://www.tcd.ie/academicregistry/exams/assets/local/past-papers2019/Semester%201%20Papers/CS/CS7NS3-1.pdf)
+-   [2018 - January](https://www.tcd.ie/academicregistry/exams/assets/local/past-papers2018/CS/CS4031-1.PDF)
 -   [2017](https://www.tcd.ie/academicregistry/exams/assets/local/past-papers2017/CS/CS4031-1.PDF)
 -   [2016](https://www.tcd.ie/academicregistry/exams/assets/local/past-papers2016/CS/CS4031-1.PDF)
 -   [2015](https://www.tcd.ie/academicregistry/exams/assets/local/past-papers2015/Annuals%20Dec%2014/CS4031-1.pdf)
