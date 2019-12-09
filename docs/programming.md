@@ -11,7 +11,7 @@ XSCH3307
 * [Blackboard](https://mymodule.tcd.ie/)
 
 ## Questions by Year
-
+-   [2018](https://www.tcd.ie/academicregistry/exams/assets/local/schol2019/Past%20Papers/XSCH3307.PDF)
 -   [2017](https://www.tcd.ie/academicregistry/exams/assets/local/schol2017/XSCH3307.PDF)
 -   [2016](https://www.tcd.ie/academicregistry/exams/assets/local/schol2016/33/XSCH3307.PDF)
 -   [2015](https://www.tcd.ie/academicregistry/exams/assets/local/schol2015/33/3307.pdf)
