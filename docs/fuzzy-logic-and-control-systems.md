@@ -16,7 +16,8 @@ CS4001
 
 ## Questions by Year
 
--   [2018](https://www.tcd.ie/academicregistry/exams/assets/local/past-papers2018/CS/CS4001-1.PDF)
+-   [2018 - December](https://www.tcd.ie/academicregistry/exams/assets/local/past-papers2019/Semester%201%20Papers/CS/CS4001-1.PDF)
+-   [2018 - January](https://www.tcd.ie/academicregistry/exams/assets/local/past-papers2018/CS/CS4001-1.PDF)
 -   [2017](https://www.tcd.ie/academicregistry/exams/assets/local/past-papers2017/CS/CS4001-1.PDF)
 -   [2016](https://www.tcd.ie/academicregistry/exams/assets/local/past-papers2016/CS/CS4001-1.PDF)
 -   [2015](https://www.tcd.ie/academicregistry/exams/assets/local/past-papers2015/CS/CS4001-1.PDF)
