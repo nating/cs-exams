@@ -14,6 +14,7 @@ CS3021
 
 ## Questions by Year
 
+-   [Christmas Exam - 2018/19](https://www.tcd.ie/academicregistry/exams/assets/local/past-papers2019/Semester%201%20Papers/CS/CS3021-1.PDF)
 -   [Trinity Term - 2018](https://www.tcd.ie/academicregistry/exams/assets/local/past-papers2018/CS/CS3021-1.PDF)
 -   [2017](https://www.tcd.ie/academicregistry/exams/assets/local/past-papers2017/CS/CS3021-1.PDF)
 -   [2016](https://www.tcd.ie/academicregistry/exams/assets/local/past-papers2016/CS/CS3021-1.PDF)
