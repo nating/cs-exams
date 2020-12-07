@@ -11,6 +11,7 @@ XSCH3087
 * [Blackboard](https://mymodule.tcd.ie/)
 
 ## Questions by Year
+-   [2019](https://www.tcd.ie/academicregistry/exams/assets/local/schol2020/Past%20Papers/XSCH3087.PDF)
 -   [2018](https://www.tcd.ie/academicregistry/exams/assets/local/schol2019/Past%20Papers/XSCH3087.PDF)
 -   [2017](https://www.tcd.ie/academicregistry/exams/assets/local/schol2017/X-SCH3087.PDF)
 -   [2016](https://www.tcd.ie/academicregistry/exams/assets/local/schol2016/30/XSCH3087.PDF)
