@@ -11,7 +11,8 @@ XSCH3071
 * [Blackboard](https://mymodule.tcd.ie/)
 
 ## Questions by Year
--   [2018](https://www.tcd.ie/academicregistry/exams/assets/local/schol2019/Past%20Papers/XSCH3071.PDF)
+-   [2019](https://www.tcd.ie/academicregistry/exams/assets/local/schol2019/Past%20Papers/XSCH3071.PDF)
+-   [2018](https://www.tcd.ie/academicregistry/exams/assets/local/schol2018/XSCH/XSCH3071.PDF)
 -   [2017](https://www.tcd.ie/academicregistry/exams/assets/local/schol2017/X-SCH3071.PDF)
 -   [2016](https://www.tcd.ie/academicregistry/exams/assets/local/schol2016/30/XSCH3071.PDF)
 -   [2015](https://www.tcd.ie/academicregistry/exams/assets/local/schol2015/30/3071.pdf)
