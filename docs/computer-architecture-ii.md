@@ -39,6 +39,8 @@ CS3021
         <td>RISC-1, x64 &amp; IA32</td>
         <td>
             <ul class="questions">
+        <li><a href="https://www.tcd.ie/academicregistry/exams/assets/local/past-papers2019/Semester%201%20Papers/CS/CS3021-1.PDF#page=2">Christmas Exam - 2018/19 Q1</a></li>
+        <li><a href="https://www.tcd.ie/academicregistry/exams/assets/local/past-papers2018/CS/CS3021-1.PDF#page=2">Trinity Term 2018 Q1</a></li>
         <li><a href="https://www.tcd.ie/academicregistry/exams/assets/local/past-papers2016/CS/CS3021-1.PDF#page=3">2016 Q2</a></li>
         <li><a href="https://www.tcd.ie/academicregistry/exams/assets/local/past-papers2016/CS/CS3021-1.PDF#page=2">2016 Q1</a></li>
         <li><a href="https://www.tcd.ie/academicregistry/exams/assets/local/past-papers2015/Annuals%20Dec%2014/CS3201-1.pdf#page=2">2015 Q1</a></li>
@@ -57,6 +59,7 @@ CS3021
         <td>Pipelining</td>
         <td>
             <ul class="questions">
+        <li><a href="https://www.tcd.ie/academicregistry/exams/assets/local/past-papers2019/Semester%201%20Papers/CS/CS3021-1.PDF#page=3">Christmas Exam - 2018/19 Q2</a></li>       
         <li><a href="https://www.tcd.ie/academicregistry/exams/assets/local/past-papers2017/CS/CS3021-1.PDF#page=2">2017 Q1</a></li>
         <li><a href="https://www.tcd.ie/academicregistry/exams/assets/local/past-papers2015/Annuals%20Dec%2014/CS3201-1.pdf#page=3">2015 Q2</a></li>
         <li><a href="https://www.tcd.ie/academicregistry/exams/assets/local/past-papers2013/CS/CS30211.pdf#page=3">2013 Q2</a></li>
@@ -100,6 +103,8 @@ CS3021
         <td>Cache coherency</td>
         <td>
             <ul class="questions">
+        <li><a href="https://www.tcd.ie/academicregistry/exams/assets/local/past-papers2019/Semester 1 Papers/CS/CS3021-1.PDF#page=5">Christmas Exam - 2018/19 Q4</a></li>
+        <li><a href="https://www.tcd.ie/academicregistry/exams/assets/local/past-papers2018/CS/CS3021-1.PDF#page=5">Trinity Term 2018 Q4</a></li>
         <li><a href="https://www.tcd.ie/academicregistry/exams/assets/local/past-papers2017/CS/CS3021-1.PDF#page=6">2017 Q4</a></li>
         <li><a href="https://www.tcd.ie/academicregistry/exams/assets/local/past-papers2016/CS/CS3021-1.PDF#page=5">2016 Q4</a></li>
         <li><a href="https://www.tcd.ie/academicregistry/exams/assets/local/past-papers2015/Annuals%20Dec%2014/CS3201-1.pdf#page=5">2015 Q4</a></li>
