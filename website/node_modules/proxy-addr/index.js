@@ -99,7 +99,7 @@ function compile (val) {
   for (var i = 0; i < trust.length; i++) {
     val = trust[i]
 
-    if (!IP_RANGES.hasOwnProperty(val)) {
+    if (!Object.prototype.hasOwnProperty.call(IP_RANGES, val)) {
       continue
     }
 
@@ -142,8 +142,8 @@ function compileTrust (rangeSubnets) {
   return len === 0
     ? trustNone
     : len === 1
-    ? trustSingle(rangeSubnets[0])
-    : trustMulti(rangeSubnets)
+      ? trustSingle(rangeSubnets[0])
+      : trustMulti(rangeSubnets)
 }
 
 /**

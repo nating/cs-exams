@@ -1,41 +1,43 @@
-const extensions = {
+var path = require('path');
+
+var mjsStub = path.join(__dirname, 'mjs-stub');
+
+var extensions = {
   '.babel.js': [
     {
       module: '@babel/register',
-      register: function (module) {
-        module({
-          // register on .js extension due to https://github.com/joyent/node/blob/v0.12.0/lib/module.js#L353
-          // which only captures the final extension (.babel.js -> .js)
-          extensions: '.js'
-        });
-      }
+      register: function(hook) {
+        // register on .js extension due to https://github.com/joyent/node/blob/v0.12.0/lib/module.js#L353
+        // which only captures the final extension (.babel.js -> .js)
+        hook({ extensions: '.js' });
+      },
     },
     {
       module: 'babel-register',
-      register: function (module) {
-        module({
-          // register on .js extension due to https://github.com/joyent/node/blob/v0.12.0/lib/module.js#L353
-          // which only captures the final extension (.babel.js -> .js)
-          extensions: '.js'
-        });
-      }
+      register: function(hook) {
+        hook({ extensions: '.js' });
+      },
     },
     {
       module: 'babel-core/register',
-      register: function (module) {
-        module({
-          extensions: '.js'
-        });
-      }
+      register: function(hook) {
+        hook({ extensions: '.js' });
+      },
     },
     {
       module: 'babel/register',
-      register: function (module) {
-        module({
-          extensions: '.js'
-        });
-      }
-    }
+      register: function(hook) {
+        hook({ extensions: '.js' });
+      },
+    },
+  ],
+  '.babel.ts': [
+    {
+      module: '@babel/register',
+      register: function(hook) {
+        hook({ extensions: '.ts' });
+      },
+    },
   ],
   '.buble.js': 'buble/register',
   '.cirru': 'cirru-script/lib/register',
@@ -45,6 +47,15 @@ const extensions = {
   '.coffee.md': ['coffeescript/register', 'coffee-script/register', 'coffeescript', 'coffee-script'],
   '.csv': 'require-csv',
   '.eg': 'earlgrey/register',
+  '.esm.js': {
+    module: 'esm',
+    register: function(hook) {
+      // register on .js extension due to https://github.com/joyent/node/blob/v0.12.0/lib/module.js#L353
+      // which only captures the final extension (.babel.js -> .js)
+      var esmLoader = hook(module);
+      require.extensions['.js'] = esmLoader('module')._extensions['.js'];
+    },
+  },
   '.iced': ['iced-coffee-script/register', 'iced-coffee-script'],
   '.iced.md': 'iced-coffee-script/register',
   '.ini': 'require-ini',
@@ -54,67 +65,80 @@ const extensions = {
   '.jsx': [
     {
       module: '@babel/register',
-      register: function (module) {
-        module({
-          extensions: '.jsx'
-        });
-      }
+      register: function(hook) {
+        hook({ extensions: '.jsx' });
+      },
     },
     {
       module: 'babel-register',
-      register: function (module) {
-        module({
-          extensions: '.jsx'
-        });
-      }
+      register: function(hook) {
+        hook({ extensions: '.jsx' });
+      },
     },
     {
       module: 'babel-core/register',
-      register: function (module) {
-        module({
-          extensions: '.jsx'
-        });
-      }
+      register: function(hook) {
+        hook({ extensions: '.jsx' });
+      },
     },
     {
       module: 'babel/register',
-      register: function (module) {
-        module({
-          extensions: '.jsx'
-        });
+      register: function(hook) {
+        hook({ extensions: '.jsx' });
       },
     },
     {
       module: 'node-jsx',
-      register: function (module) {
-        module.install({
-          extension: '.jsx',
-          harmony: true
-        });
-      }
-    }
+      register: function(hook) {
+        hook.install({ extension: '.jsx', harmony: true });
+      },
+    },
   ],
   '.litcoffee': ['coffeescript/register', 'coffee-script/register', 'coffeescript', 'coffee-script'],
   '.liticed': 'iced-coffee-script/register',
   '.ls': ['livescript', 'LiveScript'],
+  '.mjs': mjsStub,
   '.node': null,
   '.toml': {
     module: 'toml-require',
-    register: function (module) {
-      module.install();
-    }
+    register: function(hook) {
+      hook.install();
+    },
   },
-  '.ts': ['ts-node/register', 'typescript-node/register', 'typescript-register', 'typescript-require'],
-  '.tsx': ['ts-node/register', 'typescript-node/register'],
+  '.ts': [
+    'ts-node/register',
+    'typescript-node/register',
+    'typescript-register',
+    'typescript-require',
+    'sucrase/register/ts',
+    {
+      module: '@babel/register',
+      register: function(hook) {
+        hook({ extensions: '.ts' });
+      },
+    },
+  ],
+  '.tsx': [
+    'ts-node/register',
+    'typescript-node/register',
+    'sucrase/register',
+    {
+      module: '@babel/register',
+      register: function(hook) {
+        hook({ extensions: '.tsx' });
+      },
+    },
+  ],
   '.wisp': 'wisp/engine/node',
   '.xml': 'require-xml',
   '.yaml': 'require-yaml',
-  '.yml': 'require-yaml'
+  '.yml': 'require-yaml',
 };
 
-const jsVariantExtensions = [
+var jsVariantExtensions = [
   '.js',
   '.babel.js',
+  '.babel.ts',
   '.buble.js',
   '.cirru',
   '.cjsx',
@@ -122,20 +146,23 @@ const jsVariantExtensions = [
   '.coffee',
   '.coffee.md',
   '.eg',
+  '.esm.js',
   '.iced',
   '.iced.md',
   '.jsx',
   '.litcoffee',
   '.liticed',
   '.ls',
+  '.mjs',
   '.ts',
-  '.wisp'
+  '.tsx',
+  '.wisp',
 ];
 
 module.exports = {
   extensions: extensions,
-  jsVariants: jsVariantExtensions.reduce(function (result, ext) {
+  jsVariants: jsVariantExtensions.reduce(function(result, ext) {
     result[ext] = extensions[ext];
     return result;
-  }, {})
+  }, {}),
 };
