@@ -15,7 +15,7 @@ CS4001
 -   [2018/19's resources](https://www.dropbox.com/sh/lnfr37xev6ozm9l/AADkoBbV80wdeHN9HCrSZa5ha/CS4001-%20Fuzzy%20Logic?dl=0)
 
 ## Questions by Year
-
+-   [2019](https://www.tcd.ie/academicregistry/exams/assets/local/past%20papers201920/CSU/CSU44001-1.PDF)
 -   [2018 - December](https://www.tcd.ie/academicregistry/exams/assets/local/past-papers2019/Semester%201%20Papers/CS/CS4001-1.PDF)
 -   [2018 - January](https://www.tcd.ie/academicregistry/exams/assets/local/past-papers2018/CS/CS4001-1.PDF)
 -   [2017](https://www.tcd.ie/academicregistry/exams/assets/local/past-papers2017/CS/CS4001-1.PDF)
