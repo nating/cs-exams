@@ -11,7 +11,7 @@ CS4004
 * [Module website](https://www.scss.tcd.ie/Vasileios.Koutavas/teaching/cs4004-4504/)
 
 ## Questions by Year
-
+-   [2019](https://www.tcd.ie/academicregistry/exams/assets/local/past%20papers201920/CSU/CSU44004-1.PDF)
 -   [2018 - December](https://www.tcd.ie/academicregistry/exams/assets/local/past-papers2019/Semester%201%20Papers/CS/CS4004-1.PDF)
 -   [2018 - January](https://www.tcd.ie/academicregistry/exams/assets/local/past-papers2018/CS/CS4004-1.PDF)
 -   [2017](https://www.tcd.ie/academicregistry/exams/assets/local/past-papers2017/CS/CS4004-1.PDF)
