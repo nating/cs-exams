@@ -13,6 +13,8 @@ MA2C03
 
 ## Questions by Year
 
+-   [2019](https://www.tcd.ie/academicregistry/exams/assets/local/past-papers2019/Semester%202%20Papers/MA/MA2C03-1.PDF)
+-   [2018](https://www.tcd.ie/academicregistry/exams/assets/local/past-papers2018/MA/MA2C03-1.PDF)
 -   [2017](https://www.tcd.ie/academicregistry/exams/assets/local/past-papers2017/MA/MA2C03-1.PDF)
 -   [2016](https://www.tcd.ie/academicregistry/exams/assets/local/past-papers2016/MA/MA2C03-1.PDF)
 -   [2015](https://www.tcd.ie/academicregistry/exams/assets/local/past-papers2015/MA/MA2C03-1.PDF)
@@ -37,6 +39,10 @@ MA2C03
       <td>Sets & Functions</td>
       <td>
           <ul className="questions">
+              <li><a href="https://www.tcd.ie/academicregistry/exams/assets/local/past-papers2019/Semester%202%20Papers/MA/MA2C03-1.PDF#page=2">2019 Q1</a></li>
+              <li><a href="https://www.tcd.ie/academicregistry/exams/assets/local/past-papers2018/MA/MA2C03-1.PDF#page=2">2018 Q1</a></li>
+              <li><a href="https://www.tcd.ie/academicregistry/exams/assets/local/past-papers2017/MA/MA2C03-1.PDF#page=2">2017 Q1</a></li>
+              <li><a href="https://www.tcd.ie/academicregistry/exams/assets/local/past-papers2016/MA/MA2C03-1.PDF#page=2">2016 Q1</a><li>
               <li><a href="https://www.tcd.ie/academicregistry/exams/assets/local/past-papers2015/MA/MA2C03-1.PDF#page=2">2015 Q1</a></li>
               <li><a href="https://www.tcd.ie/academicregistry/exams/assets/local/past-papers2014/MA/MA2C031.pdf#page=2">2014 Q1</a></li>
               <li><a href="https://www.tcd.ie/academicregistry/exams/assets/local/past-papers2013/MA/XMA2C011.pdf#page=2">2013 Q1</a></li>
@@ -54,6 +60,10 @@ MA2C03
       <td>Abstract Algebra</td>
       <td>
           <ul className="questions">
+              <li><a href="https://www.tcd.ie/academicregistry/exams/assets/local/past-papers2019/Semester%202%20Papers/MA/MA2C03-1.PDF#page=3">2019 Q2</a></li>
+              <li><a href="https://www.tcd.ie/academicregistry/exams/assets/local/past-papers2018/MA/MA2C03-1.PDF#page=3">2018 Q2</a></li>
+              <li><a href="https://www.tcd.ie/academicregistry/exams/assets/local/past-papers2017/MA/MA2C03-1.PDF#page=3">2017 Q2</a></li>
+              <li><a href="https://www.tcd.ie/academicregistry/exams/assets/local/past-papers2016/MA/MA2C03-1.PDF#page=2">2016 Q2</a></li>
               <li><a href="https://www.tcd.ie/academicregistry/exams/assets/local/past-papers2015/MA/MA2C03-1.PDF#page=3">2015 Q2</a></li>
               <li><a href="https://www.tcd.ie/academicregistry/exams/assets/local/past-papers2014/MA/MA2C031.pdf#page=3">2014 Q2</a></li>
               <li><a href="https://www.tcd.ie/academicregistry/exams/assets/local/past-papers2013/MA/XMA2C011.pdf#page=3">2013 Q2</a></li>
@@ -70,6 +80,10 @@ MA2C03
       <td>Languages</td>
       <td>
           <ul className="questions">
+              <li><a href="https://www.tcd.ie/academicregistry/exams/assets/local/past-papers2019/Semester%202%20Papers/MA/MA2C03-1.PDF#page=4">2019 Q3, 7</a></li>
+              <li><a href="https://www.tcd.ie/academicregistry/exams/assets/local/past-papers2018/MA/MA2C03-1.PDF#page=4">2018 Q3</a></li>
+              <li><a href="https://www.tcd.ie/academicregistry/exams/assets/local/past-papers2017/MA/MA2C03-1.PDF#page=4">2017 Q3</a></li>
+              <li><a href="https://www.tcd.ie/academicregistry/exams/assets/local/past-papers2016/MA/MA2C03-1.PDF#page=4">2016 Q3</a></li>
               <li><a href="https://www.tcd.ie/academicregistry/exams/assets/local/past-papers2015/MA/MA2C03-1.pdf#page=4">2015 Q3</a></li>
               <li><a href="https://www.tcd.ie/academicregistry/exams/assets/local/past-papers2014/MA/MA2C031.pdf#page=4">2014 Q3</a></li>
               <li><a href="https://www.tcd.ie/academicregistry/exams/assets/local/past-papers2013/MA/XMA2C011.pdf#page=4">2013 Q3</a></li>
@@ -86,6 +100,10 @@ MA2C03
       <td>Graphs</td>
       <td>
           <ul className="questions">
+              <li><a href="https://www.tcd.ie/academicregistry/exams/assets/local/past-papers2019/Semester%202%20Papers/MA/MA2C03-1.PDF#page=5">2019 Q4, 5</a></li>
+              <li><a href="https://www.tcd.ie/academicregistry/exams/assets/local/past-papers2018/MA/MA2C03-1.PDF#page=5">2018 Q4, 5, 7</a></li>
+              <li><a href="https://www.tcd.ie/academicregistry/exams/assets/local/past-papers2017/MA/MA2C03-1.PDF#page=5">2017 Q4, 5</a></li>
+              <li><a href="https://www.tcd.ie/academicregistry/exams/assets/local/past-papers2016/MA/MA2C03-1.PDF#page=5"></a>2016 Q4, 5</li>
               <li><a href="https://www.tcd.ie/academicregistry/exams/assets/local/past-papers2015/MA/MA2C03-1.PDF#page=5">2015 Q4</a></li>
               <li><a href="https://www.tcd.ie/academicregistry/exams/assets/local/past-papers2014/MA/MA2C031.pdf#page=5">2014 Q4</a></li>
               <li><a href="https://www.tcd.ie/academicregistry/exams/assets/local/past-papers2013/MA/XMA2C011.pdf#page=5">2013 Q4</a></li>
@@ -102,6 +120,7 @@ MA2C03
       <td>Differential Equations</td>
       <td>
           <ul className="questions">
+              <li><a href="https://www.tcd.ie/academicregistry/exams/assets/local/past-papers2016/MA/MA2C03-1.PDF#page=8">2016 Q7</a></li>
               <li><a href="https://www.tcd.ie/academicregistry/exams/assets/local/past-papers2015/MA/MA2C03-1.PDF#page=6">2015 Q5</a></li>
               <li><a href="https://www.tcd.ie/academicregistry/exams/assets/local/past-papers2014/MA/MA2C031.pdf#page=6">2014 Q5</a></li>
               <li><a href="https://www.tcd.ie/academicregistry/exams/assets/local/past-papers2013/MA/XMA2C011.pdf#page=6">2013 Q5</a></li>
@@ -118,6 +137,7 @@ MA2C03
       <td>Trigonometric Identities, <br />Complex Exponentials &<br /> Periodic Sequences</td>
       <td>
           <ul className="questions">
+              <li><a href="https://www.tcd.ie/academicregistry/exams/assets/local/past-papers2016/MA/MA2C03-1.PDF#page=7">2016 Q6</a></li>
               <li><a href="https://www.tcd.ie/academicregistry/exams/assets/local/past-papers2015/MA/MA2C03-1.PDF#page=6&zoom=0,0,450">2015 Q6</a></li>
               <li><a href="https://www.tcd.ie/academicregistry/exams/assets/local/past-papers2014/MA/MA2C031.pdf#page=6&zoom=0,0,450">2014 Q6</a></li>
               <li><a href="https://www.tcd.ie/academicregistry/exams/assets/local/past-papers2013/MA/XMA2C011.pdf#page=7">2013 Q6</a></li>
@@ -159,6 +179,7 @@ MA2C03
       <td>Number Theory</td>
       <td>
           <ul className="questions">
+              <li><a href="https://www.tcd.ie/academicregistry/exams/assets/local/past-papers2016/MA/MA2C03-1.PDF#page=9">2016 Q8</a></li>
               <li><a href="https://www.tcd.ie/academicregistry/exams/assets/local/past-papers2015/MA/MA2C03-1.PDF#page=7&zoom=0,0,500">2015 Q8</a></li>
               <li><a href="https://www.tcd.ie/academicregistry/exams/assets/local/past-papers2014/MA/MA2C031.pdf#page=8&zoom=0,0,500">2014 Q8</a></li>
               <li><a href="https://www.tcd.ie/academicregistry/exams/assets/local/past-papers2013/MA/XMA2C011.pdf#page=8&zoom=0,0,500#page=8&zoom=0,0,500">2013 Q8</a></li>
@@ -169,6 +190,37 @@ MA2C03
               <li><a href="https://www.tcd.ie/Local/Exam_Papers/2008/XM/XMA2BA11.pdf#page=5&zoom=0,0,400">2008 Q7b,c</a></li>
               <li><a href="https://www.tcd.ie/Local/Exam_Papers/2007/XM/XMA2BA11.pdf#page=4">2007 Q5</a></li>
               <li><a href="https://www.tcd.ie/Local/Exam_Papers/2006/XM/XMA2BA11.pdf#page=5">2006 Q7</a></li>
+          </ul>
+      </td>
+  </tr>
+  <tr>
+      <td>Set Countability</td>
+      <td>
+          <ul className="questions">
+              <li><a href="https://www.tcd.ie/academicregistry/exams/assets/local/past-papers2019/Semester%202%20Papers/MA/MA2C03-1.PDF#page=7">2019 Q6</a></li>
+              <li><a href="https://www.tcd.ie/academicregistry/exams/assets/local/past-papers2018/MA/MA2C03-1.PDF#page=7">2018 Q6</a></li>
+              <li><a href="https://www.tcd.ie/academicregistry/exams/assets/local/past-papers2017/MA/MA2C03-1.PDF#page=7">2017 Q6</a></li>
+          </ul>
+      </td>
+  </tr>
+  <tr>
+      <td>Relations</td>
+      <td>
+          <ul className="questions">
+              <li><a href="https://www.tcd.ie/academicregistry/exams/assets/local/past-papers2019/Semester%202%20Papers/MA/MA2C03-1.PDF#page=2">2019 Q1</a></li>
+              <li><a href="https://www.tcd.ie/academicregistry/exams/assets/local/past-papers2018/MA/MA2C03-1.PDF#page=2">2018 Q1</a></li>
+              <li><a href="https://www.tcd.ie/academicregistry/exams/assets/local/past-papers2017/MA/MA2C03-1.PDF#page=2">2017 Q1, 7</a></li>
+              <li><a href="https://www.tcd.ie/academicregistry/exams/assets/local/past-papers2016/MA/MA2C03-1.PDF#page=2">2016 Q1</a></li>
+          </ul>
+      </td>
+  </tr>
+  <tr>
+      <td>Turing machines</td>
+      <td>
+          <ul className="questions">
+              <li><a href="https://www.tcd.ie/academicregistry/exams/assets/local/past-papers2019/Semester%202%20Papers/MA/MA2C03-1.PDF">2019 Q8</a></li>
+              <li><a href="https://www.tcd.ie/academicregistry/exams/assets/local/past-papers2018/MA/MA2C03-1.PDF#page=9">2018 Q8</a></li>
+              <li><a href="https://www.tcd.ie/academicregistry/exams/assets/local/past-papers2017/MA/MA2C03-1.PDF#page=9">2017 Q8</a></li>
           </ul>
       </td>
   </tr>
