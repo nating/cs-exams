@@ -42,7 +42,7 @@ MA2C03
               <li><a href="https://www.tcd.ie/academicregistry/exams/assets/local/past-papers2019/Semester%202%20Papers/MA/MA2C03-1.PDF#page=2">2019 Q1</a></li>
               <li><a href="https://www.tcd.ie/academicregistry/exams/assets/local/past-papers2018/MA/MA2C03-1.PDF#page=2">2018 Q1</a></li>
               <li><a href="https://www.tcd.ie/academicregistry/exams/assets/local/past-papers2017/MA/MA2C03-1.PDF#page=2">2017 Q1</a></li>
-              <li><a href="https://www.tcd.ie/academicregistry/exams/assets/local/past-papers2016/MA/MA2C03-1.PDF#page=2">2016 Q1</a><li>
+              <li><a href="https://www.tcd.ie/academicregistry/exams/assets/local/past-papers2016/MA/MA2C03-1.PDF#page=2">2016 Q1</a></li>
               <li><a href="https://www.tcd.ie/academicregistry/exams/assets/local/past-papers2015/MA/MA2C03-1.PDF#page=2">2015 Q1</a></li>
               <li><a href="https://www.tcd.ie/academicregistry/exams/assets/local/past-papers2014/MA/MA2C031.pdf#page=2">2014 Q1</a></li>
               <li><a href="https://www.tcd.ie/academicregistry/exams/assets/local/past-papers2013/MA/XMA2C011.pdf#page=2">2013 Q1</a></li>
@@ -103,7 +103,7 @@ MA2C03
               <li><a href="https://www.tcd.ie/academicregistry/exams/assets/local/past-papers2019/Semester%202%20Papers/MA/MA2C03-1.PDF#page=5">2019 Q4, 5</a></li>
               <li><a href="https://www.tcd.ie/academicregistry/exams/assets/local/past-papers2018/MA/MA2C03-1.PDF#page=5">2018 Q4, 5, 7</a></li>
               <li><a href="https://www.tcd.ie/academicregistry/exams/assets/local/past-papers2017/MA/MA2C03-1.PDF#page=5">2017 Q4, 5</a></li>
-              <li><a href="https://www.tcd.ie/academicregistry/exams/assets/local/past-papers2016/MA/MA2C03-1.PDF#page=5"></a>2016 Q4, 5</a></li>
+              <li><a href="https://www.tcd.ie/academicregistry/exams/assets/local/past-papers2016/MA/MA2C03-1.PDF#page=5">2016 Q4, 5</a></li>
               <li><a href="https://www.tcd.ie/academicregistry/exams/assets/local/past-papers2015/MA/MA2C03-1.PDF#page=5">2015 Q4</a></li>
               <li><a href="https://www.tcd.ie/academicregistry/exams/assets/local/past-papers2014/MA/MA2C031.pdf#page=5">2014 Q4</a></li>
               <li><a href="https://www.tcd.ie/academicregistry/exams/assets/local/past-papers2013/MA/XMA2C011.pdf#page=5">2013 Q4</a></li>
