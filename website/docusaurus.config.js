@@ -9,6 +9,9 @@ module.exports = {
   organizationName: 'nating', // Usually your GitHub org/user name.
   projectName: 'cs-exams', // Usually your repo name.
   themeConfig: {
+    colorMode: {
+      respectPrefersColorScheme: true,
+    },
     navbar: {
       title: 'CS Exams',
       logo: {
