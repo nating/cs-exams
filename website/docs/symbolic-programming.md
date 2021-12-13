@@ -11,6 +11,8 @@ CS3011
 
 ## Questions by Year
 
+-   [2020/21](https://www.tcd.ie/academicregistry/exams/assets/local/past-papers%20202021/CSU/CSU34011-1.pdf)
+-   [2019/20](https://www.tcd.ie/academicregistry/exams/assets/local/past%20papers201920/CSU/CSU34011-1.PDF)
 -   [2018](https://www.tcd.ie/academicregistry/exams/assets/local/past-papers2018/CS/CS3011-1.PDF)
 -   [2017](https://www.tcd.ie/academicregistry/exams/assets/local/past-papers2017/CS/CS3011-1.PDF)
 -   [2016](https://www.tcd.ie/academicregistry/exams/assets/local/past-papers2016/CS/CS3011-1.PDF)
