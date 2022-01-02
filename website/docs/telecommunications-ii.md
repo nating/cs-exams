@@ -4,6 +4,7 @@ title: Telecommunications II
 sidebar_label: Telecommunications II
 ---
 CS2031
+Also known as Computer Networks in 3rd Year (CSU33031)
 
 ## Resources
 
