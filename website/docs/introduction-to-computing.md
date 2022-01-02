@@ -15,6 +15,8 @@ CSU11021 & CSU11022
 
 ## Questions by Year
 
+-   [2019 Computing I](https://www.tcd.ie/academicregistry/exams/assets/local/past-papers2019/Semester%201%20Papers/CS/CS1021-1.PDF)
+-   [2019 Computing II](https://www.tcd.ie/academicregistry/exams/assets/local/past-papers2019/Semester%202%20Papers/CS/CS1022-1.PDF)
 -   [2018 Computing I](https://www.tcd.ie/academicregistry/exams/assets/local/past-papers2018/CS/CS1021-1.PDF)
 -   [2018 Computing II](https://www.tcd.ie/academicregistry/exams/assets/local/past-papers2018/CS/CS1022-1.PDF)
 -   [2017 Computing I](https://www.tcd.ie/academicregistry/exams/assets/local/past-papers2017/CS/CS1021-1.PDF)
