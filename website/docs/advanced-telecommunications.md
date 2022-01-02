@@ -4,6 +4,7 @@ title: Advanced Telecommunications
 sidebar_label: Advanced Telecommunications
 ---
 CS3031
+Also known as Advanced Computer Networks (CSU33032)
 
 ## Resources
 
