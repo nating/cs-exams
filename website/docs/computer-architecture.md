@@ -12,6 +12,7 @@ CSU22014
 
 ## Questions by Year
 
+-   [2020](https://www.tcd.ie/academicregistry/exams/assets/local/past%20papers201920/2019-20%20Semester%202/CSU/CSU22022-1.pdf)
 -   [2019](https://www.tcd.ie/academicregistry/exams/assets/local/past-papers2019/Semester%202%20Papers/CS/CS2022-1.PDF)
 -   [2018](https://www.tcd.ie/academicregistry/exams/assets/local/past-papers2018/CS/CS2022-1.PDF)
 -   [2017](https://www.tcd.ie/academicregistry/exams/assets/local/past-papers2017/CS/CS2022-1.PDF)
