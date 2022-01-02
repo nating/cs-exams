@@ -4,6 +4,7 @@ title: Computer Architecture I
 sidebar_label: Computer Architecture I
 ---
 CS2022
+CSU22014
 
 ## Resources
 

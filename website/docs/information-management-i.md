@@ -4,6 +4,7 @@ title: Information Management I
 sidebar_label: Information Management I
 ---
 CS2041
+CSU22041
 
 ## Resources
 

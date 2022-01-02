@@ -4,6 +4,7 @@ title: Microprocessor Systems
 sidebar_label: Microprocessor Systems
 ---
 CS2021
+CSU23021
 
 ## Resources
 

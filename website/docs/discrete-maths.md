@@ -4,6 +4,7 @@ title: Discrete Maths
 sidebar_label: Discrete Maths
 ---
 MA2C03
+MAU22C00
 
 ## Resources
 
