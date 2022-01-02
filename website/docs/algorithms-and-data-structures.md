@@ -4,6 +4,7 @@ title: Algorithms & Data Structures
 sidebar_label: Algorithms & Data Structures
 ---
 CS2010
+CSU22011/CSU22012
 
 ## Resources
 
