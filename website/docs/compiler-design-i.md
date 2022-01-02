@@ -12,6 +12,7 @@ CS3071
 
 ## Questions by Year
 
+-   [2019/20 (Section D only, MCQ unpublished)](https://www.tcd.ie/academicregistry/exams/assets/local/past%20papers201920/CSU/CSU33071-1.PDF)
 -   [2018](https://www.tcd.ie/academicregistry/exams/assets/local/past-papers2018/CS/CS3071-1.PDF)
 -   [2017](https://github.com/nating/cs-exams/blob/master/assets/unpublished-papers/CS3071%2016_17%20Final.pdf)
 -   [2016](https://www.tcd.ie/academicregistry/exams/assets/local/past-papers2016/CS/CS3071-1.PDF)
