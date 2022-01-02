@@ -7,7 +7,6 @@ CS3021
 
 ## Resources
 
--   [Module page](https://www.scss.tcd.ie/~jones/CS3021/CS3021.htm)
 -   [Cache Videos Playlist](https://www.youtube.com/playlist?list=PLbtzT1TYeoMgJ4NcWFuXpnF24fsiaOdGq)
 -   [Question Compilation](https://github.com/nating/trinity-cs-website/blob/master/assets/question-compilations/third-year/computer-architecture-ii.pdf)
 
