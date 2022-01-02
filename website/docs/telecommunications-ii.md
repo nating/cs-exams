@@ -8,6 +8,7 @@ CS2031
 ## Resources
 
 -   [Blackboard](https://mymodule.tcd.ie/)
+-   [David Wetherall videos](https://www.youtube.com/watch?v=xKNPTYtTnAo&list=PLVEo1P9gAninM7KwP1KKolfMQdNs6P6Am)
 
 ## Questions by Year
 
