@@ -4,6 +4,7 @@ title: Digital Logic Design
 sidebar_label: Digital Logic Design
 ---
 CS1026
+CSU11026
 
 ## Resources
 
