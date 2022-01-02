@@ -7,7 +7,7 @@ CS3071
 
 ## Resources
 
--   [Oisín Johnston's Notes](http://dajuice.netsoc.ie/)
+-   [Oisín Johnston's Notes](https://web.archive.org/web/20190416111807/http://dajuice.netsoc.ie:80/)
 -   [Scarlett Gourley's](https://gitlab.scss.tcd.ie/gourleys/ThirdYear/tree/master/Cmpilers)
 
 ## Questions by Year
