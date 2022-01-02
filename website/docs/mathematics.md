@@ -4,6 +4,7 @@ title: Mathematics
 sidebar_label: Mathematics
 ---
 CS1003
+CSU11001 & CSU11002
 
 ## Resources
 

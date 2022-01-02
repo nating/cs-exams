@@ -4,6 +4,7 @@ title: Introduction to Computing
 sidebar_label: Introduction to Computing
 ---
 CS1021 & CS1022
+CSU11021 & CSU11022
 
 ## Resources
 
