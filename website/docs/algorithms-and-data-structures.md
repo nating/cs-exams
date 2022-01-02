@@ -10,6 +10,7 @@ CSU22011/CSU22012
 
 -   [Blackboard](https://tcd.blackboard.com/webapps/blackboard/execute/announcement?method=search&context=course_entry&course_id=_38688_1&handle=announcements_entry&mode=view)
 -   [Vasileios' page](https://www.scss.tcd.ie/Vasileios.Koutavas/teaching/cs2010/mt1718/)
+-   [Webcat password retrieval tutorial video](https://drive.google.com/file/d/1JxkDihAt1uFynAD2AV8p91Xdvbsh4-Rg/view)
 -   [Webcat (Done through College Network)](http://webcat.scss.tcd.ie/cs2012/WebObjects/Web-CAT.woa)
 
 ## Questions by Year
