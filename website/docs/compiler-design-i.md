@@ -4,6 +4,7 @@ title: Compiler Design I
 sidebar_label: Compiler Design I
 ---
 CS3071
+CSU33071
 
 ## Resources
 

@@ -4,6 +4,7 @@ title: Computer Architecture II
 sidebar_label: Computer Architecture II
 ---
 CS3021
+CSU34021
 
 ## Resources
 

@@ -4,6 +4,7 @@ title: Artificial Intelligence
 sidebar_label: Artificial Intelligence
 ---
 CS3061
+CSU33061
 
 ## Resources
 
