@@ -4,6 +4,7 @@ title: Computational Mathematics
 sidebar_label: Computational Mathematics
 ---
 CS3081
+CSU33081
 
 ## Resources
 

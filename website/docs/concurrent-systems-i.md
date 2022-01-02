@@ -4,6 +4,7 @@ title: Concurrent Systems I
 sidebar_label: Concurrent Systems I
 ---
 CS3014
+CSU33014
 
 ## Resources
 

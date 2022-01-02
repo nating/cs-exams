@@ -4,6 +4,7 @@ title: Introduction to Functional Programming
 sidebar_label: Introduction to Functional Programming
 ---
 CS3016
+CSU34016
 
 ## Resources
 

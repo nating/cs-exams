@@ -4,6 +4,7 @@ title: Software Engineering
 sidebar_label: Software Engineering
 ---
 CS3012
+CSU33012
 
 ## Resources
 

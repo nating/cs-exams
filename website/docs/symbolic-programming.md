@@ -4,6 +4,7 @@ title: Symbolic Programming
 sidebar_label: Symbolic Programming
 ---
 CS3011
+CSU34011
 
 ## Resources
 

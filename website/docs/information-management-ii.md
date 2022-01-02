@@ -4,6 +4,7 @@ title: Information Management II
 sidebar_label: Information Management II
 ---
 CS3041
+CSU34041
 
 ## Resources
 
