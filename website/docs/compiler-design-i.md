@@ -4,16 +4,16 @@ title: Compiler Design I
 sidebar_label: Compiler Design I
 ---
 CS3071
+CSU33071
 
 ## Resources
 
--   [Module Page - New Curriculum](https://www.scss.tcd.ie/John.Waldron/3071/3071.html)
--   [Oisín Johnston's Notes](http://dajuice.netsoc.ie/)
+-   [Oisín Johnston's Notes](https://web.archive.org/web/20190416111807/http://dajuice.netsoc.ie:80/)
 -   [Scarlett Gourley's](https://gitlab.scss.tcd.ie/gourleys/ThirdYear/tree/master/Cmpilers)
 
 ## Questions by Year
 
--   [2018 Winter Sample Paper](https://www.scss.tcd.ie/John.Waldron/3071/3071example.pdf)
+-   [2019/20 (Section D only, MCQ unpublished)](https://www.tcd.ie/academicregistry/exams/assets/local/past%20papers201920/CSU/CSU33071-1.PDF)
 -   [2018](https://www.tcd.ie/academicregistry/exams/assets/local/past-papers2018/CS/CS3071-1.PDF)
 -   [2017](https://github.com/nating/cs-exams/blob/master/assets/unpublished-papers/CS3071%2016_17%20Final.pdf)
 -   [2016](https://www.tcd.ie/academicregistry/exams/assets/local/past-papers2016/CS/CS3071-1.PDF)

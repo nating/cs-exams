@@ -4,15 +4,17 @@ title: Computer Architecture II
 sidebar_label: Computer Architecture II
 ---
 CS3021
+CSU34021
 
 ## Resources
 
--   [Module page](https://www.scss.tcd.ie/~jones/CS3021/CS3021.htm)
 -   [Cache Videos Playlist](https://www.youtube.com/playlist?list=PLbtzT1TYeoMgJ4NcWFuXpnF24fsiaOdGq)
 -   [Question Compilation](https://github.com/nating/trinity-cs-website/blob/master/assets/question-compilations/third-year/computer-architecture-ii.pdf)
 
 ## Questions by Year
 
+-   [2020/21](https://www.tcd.ie/academicregistry/exams/assets/local/past-papers%20202021/CSU/CSU34021-1.pdf)
+-   [2019/20](https://www.tcd.ie/academicregistry/exams/assets/local/past%20papers201920/CSU/CSU34021-1.PDF)
 -   [Christmas Exam - 2018/19](https://www.tcd.ie/academicregistry/exams/assets/local/past-papers2019/Semester%201%20Papers/CS/CS3021-1.PDF)
 -   [Trinity Term - 2018](https://www.tcd.ie/academicregistry/exams/assets/local/past-papers2018/CS/CS3021-1.PDF)
 -   [2017](https://www.tcd.ie/academicregistry/exams/assets/local/past-papers2017/CS/CS3021-1.PDF)

@@ -4,6 +4,7 @@ title: Information Management I
 sidebar_label: Information Management I
 ---
 CS2041
+CSU22041
 
 ## Resources
 
@@ -11,6 +12,9 @@ CS2041
 
 ## Questions by Year
 
+-   [2020/21](https://www.tcd.ie/academicregistry/exams/assets/local/past-papers%20202021/CSU/CSU22041-1.pdf)
+-   [2019/20](https://www.tcd.ie/academicregistry/exams/assets/local/past%20papers201920/CSU/CSU22041-1.PDF)
+-   [2018/19](https://www.tcd.ie/academicregistry/exams/assets/local/past-papers2019/Semester%201%20Papers/CS/CS2041-2.PDF)
 -   [2018](https://www.tcd.ie/academicregistry/exams/assets/local/past-papers2018/CS/CS2041-2.PDF)
 -   [2017](https://www.tcd.ie/academicregistry/exams/assets/local/past-papers2017/CS/CS2041-2.PDF)
 -   [2016](https://www.tcd.ie/academicregistry/exams/assets/local/past-papers2016/CS/CS2041-2.PDF)

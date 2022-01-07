@@ -4,6 +4,7 @@ title: Computational Mathematics
 sidebar_label: Computational Mathematics
 ---
 CS3081
+CSU33081
 
 ## Resources
 
@@ -12,6 +13,7 @@ CS3081
 
 ## Questions by Year
 
+-   [2019](https://www.tcd.ie/academicregistry/exams/assets/local/past-papers2019/Semester%202%20Papers/CS/CS3081-2.PDF)
 -   [2018](https://www.tcd.ie/academicregistry/exams/assets/local/past-papers2018/CS/CS3081-1.PDF)
 -   [2017](https://www.tcd.ie/academicregistry/exams/assets/local/past-papers2017/CS/CS3081-1.PDF)
 -   [2016](https://www.tcd.ie/academicregistry/exams/assets/local/past-papers2016/CS/CS3081-1.PDF)

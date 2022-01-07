@@ -4,6 +4,7 @@ title: Information Management II
 sidebar_label: Information Management II
 ---
 CS3041
+CSU34041
 
 ## Resources
 
@@ -11,6 +12,9 @@ CS3041
 
 ## Questions by Year
 
+-   [2020/21](https://www.tcd.ie/academicregistry/exams/assets/local/past-papers%20202021/CSU/CSU34041-1.pdf)
+-   [2019/20](https://www.tcd.ie/academicregistry/exams/assets/local/past%20papers201920/CSU/CSU34041-1.PDF)
+-   [2018/19](https://www.tcd.ie/academicregistry/exams/assets/local/past-papers2019/Semester%201%20Papers/CS/CS3041-1.PDF)
 -   [2018](https://www.tcd.ie/academicregistry/exams/assets/local/past-papers2018/CS/CS3041-1.PDF)
 -   [2017](https://www.tcd.ie/academicregistry/exams/assets/local/past-papers2017/CS/CS3041-1.PDF)
 -   [2016](https://www.tcd.ie/academicregistry/exams/assets/local/past-papers2016/CS/CS3041-1.PDF)
