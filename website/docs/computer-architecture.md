@@ -4,14 +4,15 @@ title: Computer Architecture I
 sidebar_label: Computer Architecture I
 ---
 CS2022
+CSU22014
 
 ## Resources
 
--   [Module page](https://www.scss.tcd.ie/Michael.Manzke/index.php/mm-teaching/undergraduate/cs2022)
 -   [Virtual Labs](https://www.scss.tcd.ie/SCSS_VirtualLabs/)
 
 ## Questions by Year
 
+-   [2020](https://www.tcd.ie/academicregistry/exams/assets/local/past%20papers201920/2019-20%20Semester%202/CSU/CSU22022-1.pdf)
 -   [2019](https://www.tcd.ie/academicregistry/exams/assets/local/past-papers2019/Semester%202%20Papers/CS/CS2022-1.PDF)
 -   [2018](https://www.tcd.ie/academicregistry/exams/assets/local/past-papers2018/CS/CS2022-1.PDF)
 -   [2017](https://www.tcd.ie/academicregistry/exams/assets/local/past-papers2017/CS/CS2022-1.PDF)

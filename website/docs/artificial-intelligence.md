@@ -4,14 +4,17 @@ title: Artificial Intelligence
 sidebar_label: Artificial Intelligence
 ---
 CS3061
+CSU33061
 
 ## Resources
 
--   [Module page](https://www.scss.tcd.ie/Tim.Fernando/AI/)
+-   [Module page](https://web.archive.org/web/20210201080533/https://www.scss.tcd.ie/Tim.Fernando/AI/)
 -   [Question 1 Theory Compilation](https://github.com/nating/personal-notes/blob/master/third-year/artificial-intelligence/question-compilation.md)
 
 ## Questions by Year
 
+-   [2020](https://www.tcd.ie/academicregistry/exams/assets/local/past%20papers201920/2019-20%20Semester%202/CSU/CSU33061-1.pdf)
+-   [2019](https://www.tcd.ie/academicregistry/exams/assets/local/past-papers2019/Semester%202%20Papers/CS/CS3061-1.PDF)
 -   [2018](https://www.tcd.ie/academicregistry/exams/assets/local/past-papers2018/CS/CS3061-1.PDF)
 -   [2017](https://www.tcd.ie/academicregistry/exams/assets/local/past-papers2017/CS/CS3061-1.PDF)
 -   [2016](https://www.tcd.ie/academicregistry/exams/assets/local/past-papers2016/CS/CS3061-1.PDF)

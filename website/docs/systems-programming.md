@@ -4,12 +4,12 @@ title: Systems Programming
 sidebar_label: Systems Programming
 ---
 CS2014
+CSU22014
 
 ## Resources
 
--   [Module page](https://down.dsg.cs.tcd.ie/cs2014/)
--   [Submitty Link](https://down.dsg.cs.tcd.ie/cs2014/)
--   [David Gregg's Module page](https://www.cs.tcd.ie/David.Gregg/cs2014/)
+-   [Stephen Farrell's module page](https://down.dsg.cs.tcd.ie/cs2014/)
+-   [David Gregg's old module page](https://www.cs.tcd.ie/David.Gregg/cs2014/)
 
 ## Questions by Year
 

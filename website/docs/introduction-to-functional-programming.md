@@ -4,6 +4,7 @@ title: Introduction to Functional Programming
 sidebar_label: Introduction to Functional Programming
 ---
 CS3016
+CSU34016
 
 ## Resources
 
@@ -12,7 +13,9 @@ CS3016
 
 ## Questions by Year
 
--   [2019](https://www.tcd.ie/academicregistry/exams/assets/local/past%20papers201920/CSU/CSU34016-1.PDF)
+-   [2020/21](https://www.tcd.ie/academicregistry/exams/assets/local/past-papers%20202021/CSU/CSU34016-1.pdf)
+-   [2019/20](https://www.tcd.ie/academicregistry/exams/assets/local/past%20papers201920/CSU/CSU34016-1.PDF)
+-   [2018/19](https://www.tcd.ie/academicregistry/exams/assets/local/past-papers2019/Semester%201%20Papers/CS/CS3016-1.pdf)
 -   [2018](https://www.tcd.ie/academicregistry/exams/assets/local/past-papers2018/CS/CS3016-1%20Edited.pdf)
 -   [2017](https://www.tcd.ie/academicregistry/exams/assets/local/past-papers2017/CS/CS3016-1.PDF)
 -   [2016](https://www.tcd.ie/academicregistry/exams/assets/local/past-papers2016/CS/CS3016-1.PDF)
