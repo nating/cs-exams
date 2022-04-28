@@ -3,7 +3,7 @@ id: security-and-privacy
 title: Security & Privacy
 sidebar_label: Security & Privacy
 ---
-CS7053 || CS7453 || CS7NS5 || CS4407
+CS7NS5 || CSU44032 || CS7053 || CS7453 || CS7NS5 || CS4407
 
 ## Resources
 
@@ -14,6 +14,8 @@ CS7053 || CS7453 || CS7NS5 || CS4407
 
 ## Questions by Year
 
+-   [2020](https://down.dsg.cs.tcd.ie/old-exams/cs7053-2020-exam.pdf)
+-   [2019](https://down.dsg.cs.tcd.ie/old-exams/cs7053-2019-exam.pdf)
 -   [2018](https://down.dsg.cs.tcd.ie/old-exams/cs7053-2018-exam.pdf)
 -   [2017](https://down.dsg.cs.tcd.ie/old-exams/cs7053-2017-exam.pdf)
 -   [2016](https://down.dsg.cs.tcd.ie/old-exams/cs7053-2016-exam.pdf)
@@ -28,6 +30,8 @@ CS7053 || CS7453 || CS7NS5 || CS4407
 
 ## Marking Schemes by Year
 
+-   [2020](https://down.dsg.cs.tcd.ie/old-exams/cs7053-2020-exam-solutions.pdf)
+-   [2019](https://down.dsg.cs.tcd.ie/old-exams/cs7053-2019-exam-solutions.pdf)
 -   [2018](https://down.dsg.cs.tcd.ie/old-exams/cs7053-2018-exam-solutions.pdf)
 -   [2017](https://down.dsg.cs.tcd.ie/old-exams/cs7053-2017-exam-solutions.pdf)
 -   [2016](https://down.dsg.cs.tcd.ie/old-exams/cs7053-2016-exam-solutions.pdf)
@@ -51,6 +55,8 @@ CS7053 || CS7453 || CS7NS5 || CS4407
         <td>Risk Analysis</td>
         <td>
             <ul className="questions">
+        <li><a href="https://down.dsg.cs.tcd.ie/old-exams/cs7053-2020-exam.pdf#page=2">2020 Q1</a></li>
+        <li><a href="https://down.dsg.cs.tcd.ie/old-exams/cs7053-2019-exam.pdf#page=2">2019 Q1</a></li>
         <li><a href="https://down.dsg.cs.tcd.ie/old-exams/cs7053-2018-exam.pdf#page=2">2018 Q1</a></li>
         <li><a href="https://down.dsg.cs.tcd.ie/old-exams/cs7053-2017-exam.pdf#page=2">2017 Q1</a></li>
         <li><a href="https://down.dsg.cs.tcd.ie/old-exams/cs7053-2016-exam.pdf#page=2">2016 Q1</a></li>
@@ -66,6 +72,8 @@ CS7053 || CS7453 || CS7NS5 || CS4407
         <td>Internet Key Exchange Protocol</td>
         <td>
             <ul className="questions">
+        <li><a href="https://down.dsg.cs.tcd.ie/old-exams/cs7053-2020-exam.pdf#page=3">2020 Q2</a></li>
+        <li><a href="https://down.dsg.cs.tcd.ie/old-exams/cs7053-2019-exam.pdf#page=3">2019 Q2</a></li>
         <li><a href="https://down.dsg.cs.tcd.ie/old-exams/cs7053-2018-exam.pdf#page=3">2018 Q2</a></li>
         <li><a href="https://down.dsg.cs.tcd.ie/old-exams/cs7053-2017-exam.pdf#page=2&zoom=0,0,650">2017 Q2</a></li>
         <li><a href="https://down.dsg.cs.tcd.ie/old-exams/cs7053-2016-exam.pdf#page=2&zoom=0,0,700">2016 Q2</a></li>
@@ -84,6 +92,8 @@ CS7053 || CS7453 || CS7NS5 || CS4407
         <td>Design a System</td>
         <td>
             <ul className="questions">
+        <li><a href="https://down.dsg.cs.tcd.ie/old-exams/cs7053-2020-exam.pdf#page=4">2020 Q3</a></li>
+        <li><a href="https://down.dsg.cs.tcd.ie/old-exams/cs7053-2019-exam.pdf#page=4">2019 Q3</a></li>
         <li><a href="https://down.dsg.cs.tcd.ie/old-exams/cs7053-2018-exam.pdf#page=4">2018 Q3</a></li>
         <li><a href="https://down.dsg.cs.tcd.ie/old-exams/cs7053-2017-exam.pdf#page=3">2017 Q3</a></li>
         <li><a href="https://down.dsg.cs.tcd.ie/old-exams/cs7053-2016-exam.pdf#page=3">2016 Q3</a></li>
@@ -102,11 +112,20 @@ CS7053 || CS7453 || CS7NS5 || CS4407
         <td>DNSSEC</td>
         <td>
             <ul className="questions">
+        <li><a href="https://down.dsg.cs.tcd.ie/old-exams/cs7053-2019-exam.pdf#page=5">2019 Q4</a></li>
         <li><a href="https://down.dsg.cs.tcd.ie/old-exams/cs7053-2017-exam.pdf#page=4&zoom=0,0,630">2017 Q4</a></li>
         <li><a href="https://down.dsg.cs.tcd.ie/old-exams/cs7053-2016-exam.pdf#page=4&zoom=0,0,700">2016 Q4</a></li>
         <li><a href="https://down.dsg.cs.tcd.ie/old-exams/cs7053-2015-exam.pdf#page=3&zoom=0,0,500">2015 Q4</a></li>
         <li><a href="https://down.dsg.cs.tcd.ie/old-exams/cs7053-2014-exam.pdf#page=3&zoom=0,0,600">2014 Q4</a></li>
         <li><a href="https://down.dsg.cs.tcd.ie/old-exams/cs7053-2012-exam.pdf#page=3&zoom=0,0,700">2012 Q4</a></li>
+            </ul>
+        </td>
+    </tr>
+    <tr>
+        <td>WebRTC</td>
+        <td>
+            <ul className="questions">
+          <li><a href="https://down.dsg.cs.tcd.ie/old-exams/cs7053-2020-exam.pdf#page=5">2020 Q4</a></li>
             </ul>
         </td>
     </tr>
