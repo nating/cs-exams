@@ -112,7 +112,7 @@ CS7NS5 || CSU44032 || CS7053 || CS7453 || CS7NS5 || CS4407
         <td>DNSSEC</td>
         <td>
             <ul className="questions">
-        <li><a href="https://down.dsg.cs.tcd.ie/old-exams/cs7053-2019-exam.pdf#page=4">2019 Q4</a></li>
+        <li><a href="https://down.dsg.cs.tcd.ie/old-exams/cs7053-2019-exam.pdf#page=5">2019 Q4</a></li>
         <li><a href="https://down.dsg.cs.tcd.ie/old-exams/cs7053-2017-exam.pdf#page=4&zoom=0,0,630">2017 Q4</a></li>
         <li><a href="https://down.dsg.cs.tcd.ie/old-exams/cs7053-2016-exam.pdf#page=4&zoom=0,0,700">2016 Q4</a></li>
         <li><a href="https://down.dsg.cs.tcd.ie/old-exams/cs7053-2015-exam.pdf#page=3&zoom=0,0,500">2015 Q4</a></li>
@@ -125,7 +125,7 @@ CS7NS5 || CSU44032 || CS7053 || CS7453 || CS7NS5 || CS4407
         <td>WebRTC</td>
         <td>
             <ul className="questions">
-          <li><a href="https://down.dsg.cs.tcd.ie/old-exams/cs7053-2020-exam.pdf#page=4">2020 Q4</a></li>
+          <li><a href="https://down.dsg.cs.tcd.ie/old-exams/cs7053-2020-exam.pdf#page=5">2020 Q4</a></li>
             </ul>
         </td>
     </tr>
