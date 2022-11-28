@@ -15,6 +15,11 @@ CSU11021 & CSU11022
 
 ## Questions by Year
 
+-   [2022 Computing I](https://www.tcd.ie/academicregistry/exams/assets/local/past-papers%20202122/SEM%201%20DREAMWEAVER%20UPLOADER%20PDF/CSU/CSU11021-1.pdf)
+-   [2022 Computing II](https://www.tcd.ie/academicregistry/exams/assets/local/past-papers%20202122/SEM%202%20DREAMWEAVER%20EXAM%20UPLOADER%20PDF/CSU/CSU11022-1.pdf)
+-   [2021 Computing I](https://www.tcd.ie/academicregistry/exams/assets/local/past-papers%20202021/CSU/CSU11021-1.pdf)
+-   [2021 Computing II](https://www.tcd.ie/academicregistry/exams/assets/local/past-papers%20202021/Semester%202/CS/CSU11022-1.pdf)
+-   [2020 Computing I](https://www.tcd.ie/academicregistry/exams/assets/local/past%20papers201920/CSU/CSU11021-1.PDF)
 -   [2019 Computing I](https://www.tcd.ie/academicregistry/exams/assets/local/past-papers2019/Semester%201%20Papers/CS/CS1021-1.PDF)
 -   [2019 Computing II](https://www.tcd.ie/academicregistry/exams/assets/local/past-papers2019/Semester%202%20Papers/CS/CS1022-1.PDF)
 -   [2018 Computing I](https://www.tcd.ie/academicregistry/exams/assets/local/past-papers2018/CS/CS1021-1.PDF)
