@@ -4,7 +4,7 @@ import Layout from '@theme/Layout';
 import Link from '@docusaurus/Link';
 import useDocusaurusContext from '@docusaurus/useDocusaurusContext';
 import useBaseUrl from '@docusaurus/useBaseUrl';
-import styles from './styles.module.css';
+import styles from './index.module.css';
 import contributors from '../contributors.js';
 
 function Contributor({image, name, link}) {
@@ -32,7 +32,7 @@ function Home() {
                 'home-page-button_src-pages- button button--outline button--secondary button--lg',
                 styles.getStarted,
               )}
-              to={useBaseUrl('docs/digital-logic-design')}>
+              to={useBaseUrl('docs/first-year')}>
               First Year
             </Link>
             <Link
@@ -40,7 +40,7 @@ function Home() {
                 'home-page-button_src-pages- button button--outline button--secondary button--lg',
                 styles.getStarted,
               )}
-              to={useBaseUrl('docs/computer-systems')}>
+              to={useBaseUrl('docs/schols')}>
               Schols
             </Link>
             <Link
@@ -48,7 +48,7 @@ function Home() {
                 'home-page-button_src-pages- button button--outline button--secondary button--lg',
                 styles.getStarted,
               )}
-              to={useBaseUrl('docs/algorithms-and-data-structures')}>
+              to={useBaseUrl('docs/second-year')}>
               Second Year
             </Link>
             <Link
@@ -56,7 +56,7 @@ function Home() {
                 'home-page-button_src-pages- button button--outline button--secondary button--lg',
                 styles.getStarted,
               )}
-              to={useBaseUrl('docs/advanced-telecommunications')}>
+              to={useBaseUrl('docs/third-year')}>
               Third Year
             </Link>
             <Link
@@ -64,7 +64,7 @@ function Home() {
                 'home-page-button_src-pages- button button--outline button--secondary button--lg',
                 styles.getStarted,
               )}
-              to={useBaseUrl('docs/advanced-computational-linguistics')}>
+              to={useBaseUrl('docs/fourth-year')}>
               Fourth Year
             </Link>
             <Link
@@ -72,7 +72,7 @@ function Home() {
                 'home-page-button_src-pages- button button--outline button--secondary button--lg',
                 styles.getStarted,
               )}
-              to={useBaseUrl('docs/information-retrieval-and-web-search')}>
+              to={useBaseUrl('docs/fifth-year')}>
               Fifth Year
             </Link>
           </div>
