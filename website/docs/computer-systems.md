@@ -64,18 +64,11 @@ XSCH3087
         </td>
     </tr>
     <tr>
-        <td>Electrotech</td>
+        <td>Electronics and Information Technology</td>
         <td>
             <ul className="questions">
                 <li><a href="https://www.tcd.ie/academicregistry/exams/assets/local/schol2015/30/3087.pdf#page=4">2015 Q5</a></li>
                 <li><a href="https://www.tcd.ie/academicregistry/exams/assets/local/schol2014/30/3087.pdf#page=3&zoom=0,0,790">2014 Q5</a></li>
-            </ul>
-        </td>
-    </tr>
-    <tr>
-        <td>Telecommunications I</td>
-        <td>
-            <ul className="questions">
                 <li><a href="https://www.tcd.ie/academicregistry/exams/assets/local/schol2015/30/3087.pdf#page=5">2015 Q6</a></li>
                 <li><a href="https://www.tcd.ie/academicregistry/exams/assets/local/schol2014/30/3087.pdf#page=4">2014 Q6</a></li>
             </ul>
