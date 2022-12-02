@@ -1,0 +1,13 @@
+{
+  "name": "cs-exams",
+  "description": "",
+  "version": "1.0.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nating/cs-exams.git"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "yarn": "1.22.19"
+  }
+}
