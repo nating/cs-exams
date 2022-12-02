@@ -10,11 +10,10 @@ module.exports = {
       collapsed: true,
       items: [
         'digital-logic-design',
-        'electrotechnology',
+        'electronics-and-information-technology',
         'introduction-to-computing',
         'introduction-to-programming',
         'mathematics',
-        'telecommunications-i'
       ],
     },
     {
