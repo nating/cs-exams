@@ -53,7 +53,7 @@ const contributors = [
   {
     name: 'Yannick',
     image: 'https://avatars0.githubusercontent.com/u/19475841?s=400&v=4',
-    link: 'https://github.com/ostrich805',
+    link: 'https://github.com/yannickgloster',
   },
   {
     name: 'Rory',
@@ -154,6 +154,36 @@ const contributors = [
     name: 'David',
     image: 'https://avatars.githubusercontent.com/u/44809262?v=4',
     link: 'https://github.com/dgreen8443',
+  },
+  {
+    name: 'Jack',
+    image: 'https://avatars.githubusercontent.com/u/46780773?v=4',
+    link: 'https://github.com/jackgilbride999',
+  },
+  {
+    name: 'オーエン',
+    image: 'https://avatars.githubusercontent.com/u/9435238?v=4',
+    link: 'https://github.com/metapredicate',
+  },
+  {
+    name: 'Michael',
+    image: 'https://avatars.githubusercontent.com/u/72618685?v=4',
+    link: 'https://github.com/zugidor',
+  },,
+  {
+    name: 'Liam',
+    image: 'https://avatars.githubusercontent.com/u/34213592?v=4',
+    link: 'https://github.com/lcoogan',
+  },
+  {
+    name: 'gilliluke',
+    image: 'https://avatars.githubusercontent.com/u/93780973?v=4',
+    link: 'https://github.com/gilliluke',
+  },
+  {
+    name: 'Dependabot ❤️',
+    image: 'https://avatars.githubusercontent.com/in/29110?v=4',
+    link: 'https://github.com/apps/dependabot',
   },
 ];
 export default contributors;
