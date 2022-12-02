@@ -27,7 +27,7 @@ XSCH3307
 
 ## Questions by Topic
 
-<table className="examQuestions" width="700px">
+<table className="examQuestions">
     <tbody><tr>
         <td><strong>Topic</strong></td>
         <td><strong>Questions</strong></td>
