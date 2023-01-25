@@ -10,6 +10,7 @@ CSU34016
 
 -   [Blackboard](https://tcd.blackboard.com/webapps/blackboard/execute/announcement?method=search&context=course_entry&course_id=_52399_1&handle=announcements_entry&mode=view)
 -   [Geoff's Question attempts](https://github.com/nating/personal-notes/blob/master/third-year/functional-programming/CS3016-exams.hs)
+-   [Alex's Solutions](https://github.com/alexandersep/Year3-ICS-Solutions/tree/main/Functional-Programming)
 
 ## Questions by Year
 
