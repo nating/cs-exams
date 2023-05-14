@@ -9,6 +9,7 @@ CSU33014
 ## Resources
 
 -   [Module page](https://www.cs.tcd.ie/David.Gregg/cs3014/)
+-   [Alex's SSE solutions](https://github.com/alexandersep/Year3-ICS-Solutions/tree/main/Concurrent-Systems/SSE)
 
 ## Questions by Year
 
