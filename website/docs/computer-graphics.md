@@ -8,6 +8,7 @@ CS4052
 ## Resources
 
 -   [Blackboard](https://mymodule.tcd.ie/)
+-   [LearnOpenGL](https://learnopengl.com/)
 
 ## Questions by Year
 
