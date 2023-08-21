@@ -12,6 +12,8 @@ CSU44062 / CS4LL5
 
 ## Questions by Year
 
+-   [2021](https://www.tcd.ie/academicregistry/exams/assets/local/past-papers%20202122/SEM%201%20DREAMWEAVER%20UPLOADER%20PDF/CSU/CSU44062-1.pdf) 
+-   [2020](https://www.tcd.ie/academicregistry/exams/assets/local/past-papers%20202021/CSU/CSU44062-1.pdf)
 -   [2019](https://www.tcd.ie/academicregistry/exams/assets/local/past%20papers201920/CSU/CSU44062-1.PDF)
 -   [2018 - December](https://www.tcd.ie/academicregistry/exams/assets/local/past-papers2019/Semester%201%20Papers/CS/CS4LL5-1.PDF)
 -   [2018 - January](https://www.tcd.ie/academicregistry/exams/assets/local/past-papers2018/CS/CS4LL5-1.PDF)
