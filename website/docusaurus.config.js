@@ -20,13 +20,15 @@ const config = {
       ({
         docs: {
           sidebarPath: require.resolve('./sidebars.js'),
-          editUrl:
-            'https://github.com/nating/cs-exams/edit/master/website/',
+          editUrl: ({ docPath }) => {
+            return `https://holocron.so/github/pr/nating/cs-exams/master/editor/website/docs/${docPath}`
+          },
         },
         blog: {
           showReadingTime: true,
-          editUrl:
-            'https://github.com/nating/cs-exams/edit/master/website/blog/',
+          editUrl: ({ docPath }) => {
+            return `https://holocron.so/github/pr/nating/cs-exams/master/editor/website/blog/${docPath}`
+          },
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
