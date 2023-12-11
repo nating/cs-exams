@@ -10,8 +10,16 @@ CS4053
 -   [Blackboard](https://mymodule.tcd.ie/)
 -   [Book's Website](https://www.scss.tcd.ie/publications/book-supplements/A-Practical-Introduction-to-Computer-Vision-with-OpenCV/)
 
+## Notes
+
+- Exam format was changed after 2019
+
 ## Questions by Year
 
+-   [2022](https://www.tcd.ie/academicregistry/exams/assets/local/past-papers202223/CSU/CSU44053-1.pdf)
+-   [2021](https://www.tcd.ie/academicregistry/exams/assets/local/past-papers%20202122/SEM%201%20DREAMWEAVER%20UPLOADER%20PDF/CSU/CSU44053-1.pdf)
+-   [2020](https://www.tcd.ie/academicregistry/exams/assets/local/past-papers%20202021/CSU/CSU44053-1.pdf)
+-   [2019](https://www.tcd.ie/academicregistry/exams/assets/local/past%20papers201920/CSU/CSU44053-1.PDF)
 -   [2018 - December](https://www.tcd.ie/academicregistry/exams/assets/local/past-papers2019/Semester%201%20Papers/CS/CS4053-1.PDF)
 -   [2018 - January](https://www.tcd.ie/academicregistry/exams/assets/local/past-papers2018/CS/CS4053-1.PDF)
 -   [2017](https://www.tcd.ie/academicregistry/exams/assets/local/past-papers2017/CS/CS4053-1.PDF)
