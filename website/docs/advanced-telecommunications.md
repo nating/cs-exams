@@ -13,7 +13,7 @@ Also known as Advanced Computer Networks (CSU33032)
 -   [Questions Compilation](https://github.com/nating/personal-notes/blob/master/third-year/advanced-telecommunications/question-compilation.md)
 
 ## Questions by Year
-
+-   [2023](https://www.tcd.ie/academicregistry/exams/assets/local/past-papers202223/CSU/CSU33032-2.pdf)
 -   [2019](https://www.tcd.ie/academicregistry/exams/assets/local/past-papers2019/Semester%202%20Papers/CS/CS3031-1.PDF)
 -   [2018](https://www.tcd.ie/academicregistry/exams/assets/local/past-papers2018/CS/CS3031-1.PDF)
 -   [2017](https://www.tcd.ie/academicregistry/exams/assets/local/past-papers2017/CS/CS3031-1.PDF)
