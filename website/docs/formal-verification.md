@@ -8,6 +8,7 @@ CS4004
 ## Resources
 
 -   [Module website](https://www.scss.tcd.ie/Vasileios.Koutavas/teaching/cs4004-4504/)
+-   [Alex's Formal Verification solutions](https://github.com/alexandersep/Formal-Verification-Solutions)
 
 ## Questions by Year
 
