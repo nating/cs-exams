@@ -16,6 +16,8 @@ CSU22011/CSU22012
 ## Questions by Year
 
 -   [2023](https://www.tcd.ie/academicregistry/exams/assets/local/Past%20Papers%202023-2024/Semester%201/CSU%20CS7%20STU%20STP/CSU22011-1.pdf)
+-   [2022](https://www.tcd.ie/academicregistry/exams/assets/local/past-papers202223/CSU/CSU22061-1.pdf)
+-   [2021](https://www.tcd.ie/academicregistry/exams/assets/local/past-papers%20202122/SEM%201%20DREAMWEAVER%20UPLOADER%20PDF/CSU/CSU22011%20Final%202122.pdf)
 -   [2020/21](https://www.tcd.ie/academicregistry/exams/assets/local/past-papers%20202021/CSU/CSU22011-1.pdf)
 -   [2019](https://www.tcd.ie/academicregistry/exams/assets/local/past-papers2019/Semester%202%20Papers/CS/CS2010-2.PDF)
 -   [2018](https://www.tcd.ie/academicregistry/exams/assets/local/past-papers2018/CS/CS2010-1.PDF)
