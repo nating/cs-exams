@@ -13,3 +13,4 @@ sidebar_label: Second Year
 -   [Microprocessor Systems](microprocessor-systems.md)
 -   [Systems Programming](systems-programming.md)
 -   [Telecommunications II](telecommunications-ii.md)
+-   [Applied Probability I](applied-probability.md)
