@@ -6,6 +6,7 @@ sidebar_label: Second Year
 ## Modules
 
 -   [Algorithms & Data Structures](algorithms-and-data-structures.md)
+-   [Applied Probability I](applied-probability.md)
 -   [Computer Architecture I](computer-architecture.md)
 -   [Concurrent Systems & Operating Systems](concurrent-systems-and-operating-systems.md)
 -   [Discrete Maths](discrete-maths.md)
@@ -13,4 +14,3 @@ sidebar_label: Second Year
 -   [Microprocessor Systems](microprocessor-systems.md)
 -   [Systems Programming](systems-programming.md)
 -   [Telecommunications II](telecommunications-ii.md)
--   [Applied Probability I](applied-probability.md)
