@@ -20,6 +20,7 @@ function Home() {
   const {siteConfig = {}} = context;
   return (
     <Layout
+     
       title={`Home`}
       description="A website for Computer Science Students in Trinity College Dublin.">
       <header className={clsx('hero hero--primary', styles.heroBanner)}>
@@ -28,6 +29,7 @@ function Home() {
           <p className="hero__subtitle">{siteConfig.tagline}</p>
           <div className="d-flex justify-content-center">
             <Link
+              
               className={clsx(
                 'home-page-button_src-pages- button button--outline button--secondary button--lg',
                 styles.getStarted,
@@ -36,6 +38,7 @@ function Home() {
               First Year
             </Link>
             <Link
+              style = {{marginLeft:5}}
               className={clsx(
                 'home-page-button_src-pages- button button--outline button--secondary button--lg',
                 styles.getStarted,
@@ -44,6 +47,7 @@ function Home() {
               Schols
             </Link>
             <Link
+              style = {{marginLeft:5}}
               className={clsx(
                 'home-page-button_src-pages- button button--outline button--secondary button--lg',
                 styles.getStarted,
@@ -52,6 +56,7 @@ function Home() {
               Second Year
             </Link>
             <Link
+              style = {{marginLeft:5}}
               className={clsx(
                 'home-page-button_src-pages- button button--outline button--secondary button--lg',
                 styles.getStarted,
@@ -60,6 +65,7 @@ function Home() {
               Third Year
             </Link>
             <Link
+              style = {{marginLeft:5}}
               className={clsx(
                 'home-page-button_src-pages- button button--outline button--secondary button--lg',
                 styles.getStarted,
@@ -68,6 +74,7 @@ function Home() {
               Fourth Year
             </Link>
             <Link
+              style = {{marginLeft:5}}
               className={clsx(
                 'home-page-button_src-pages- button button--outline button--secondary button--lg',
                 styles.getStarted,
