@@ -7,6 +7,7 @@ sidebar_label: Second Year
 
 -   [Algorithms & Data Structures](algorithms-and-data-structures.md)
 -   [Applied Probability I](applied-probability.md)
+-   [Applied Probability II)(applied-probability-two.md)
 -   [Computer Architecture I](computer-architecture.md)
 -   [Concurrent Systems & Operating Systems](concurrent-systems-and-operating-systems.md)
 -   [Discrete Maths](discrete-maths.md)
