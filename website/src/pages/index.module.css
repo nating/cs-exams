@@ -22,6 +22,19 @@
   justify-content: center;
 }
 
+.buttonRow {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 0.5rem;
+}
+
+@media screen and (min-width: 768px) {
+  .buttonRow {
+    gap: 1rem;
+  }
+}
+
 .home-page-button {
   margin: 5px;
 }

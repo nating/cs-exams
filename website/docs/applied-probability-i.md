@@ -1,5 +1,5 @@
 ---
-id: applied-probability
+id: applied-probability-i
 title: Applied Probability I
 sidebar_label: Applied Probability I
 ---

@@ -26,7 +26,7 @@ function Home() {
         <div className="container">
           <h1 className="hero__title">{siteConfig.title}</h1>
           <p className="hero__subtitle">{siteConfig.tagline}</p>
-          <div className="d-flex justify-content-center">
+          <div className={styles.buttonRow}>
             <Link
               className={clsx(
                 'home-page-button_src-pages- button button--outline button--secondary button--lg',
