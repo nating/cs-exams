@@ -5,7 +5,7 @@ sidebar_label: Third Year
 ---
 ## Modules
 
--   [Advanced Telecommunications](advanced-telecommunications.md)
+-   [Advanced Computer Networks](advanced-computer-networks)
 -   [Artificial Intelligence](artificial-intelligence.md)
 -   [Compiler Design I](compiler-design-i.md)
 -   [Computational Mathematics](computational-mathematics.md)
