@@ -1,10 +1,10 @@
 ---
-id: advanced-telecommunications
-title: Advanced Telecommunications
-sidebar_label: Advanced Telecommunications
+id: advanced-computer-networks
+title: Advanced Computer Networks
+sidebar_label: Advanced Computer Networks
 ---
-CS3031
-Also known as Advanced Computer Networks (CSU33032)
+CSU33032
+Also known as Advanced Telecommunications (CS3031)
 
 ## Resources
 
