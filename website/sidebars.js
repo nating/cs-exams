@@ -60,7 +60,7 @@ module.exports = {
       },
       collapsed: true,
       items: [
-        'advanced-telecommunications',
+        'advanced-computer-networks',
         'artificial-intelligence',
         'compiler-design-i',
         'computational-mathematics',
