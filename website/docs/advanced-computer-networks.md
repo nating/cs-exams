@@ -11,6 +11,7 @@ Also known as Advanced Telecommunications (CS3031)
 -   [Blackboard](https://mymodule.tcd.ie/)
 -   [Computer Networking Book](https://web.archive.org/web/20160518011216/http://www.nylxs.com/docs/cmpnet.pdf)
 -   [Questions Compilation](https://github.com/nating/personal-notes/blob/master/third-year/advanced-telecommunications/question-compilation.md)
+-   [A very detailed guide to Socket Programming](https://beej.us/guide/bgnet/)
 
 ## Questions by Year
 -   [2024](https://www.tcd.ie/academicregistry/exams/assets/local/Past%20Papers%202023-2024/Semester%202/CSU%20CS7%20STU%20STP/CSU33032.pdf)
