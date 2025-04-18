@@ -13,7 +13,9 @@ Also known as Advanced Telecommunications (CS3031)
 -   [Questions Compilation](https://github.com/nating/personal-notes/blob/master/third-year/advanced-telecommunications/question-compilation.md)
 
 ## Questions by Year
+-   [2024](https://www.tcd.ie/academicregistry/exams/assets/local/Past%20Papers%202023-2024/Semester%202/CSU%20CS7%20STU%20STP/CSU33032.pdf)
 -   [2023](https://www.tcd.ie/academicregistry/exams/assets/local/past-papers202223/CSU/CSU33032-2.pdf)
+-   [2022](https://www.tcd.ie/academicregistry/exams/assets/local/past-papers%20202122/SEM%202%20DREAMWEAVER%20EXAM%20UPLOADER%20PDF/CSU/CSU33032-2.pdf)
 -   [2019](https://www.tcd.ie/academicregistry/exams/assets/local/past-papers2019/Semester%202%20Papers/CS/CS3031-1.PDF)
 -   [2018](https://www.tcd.ie/academicregistry/exams/assets/local/past-papers2018/CS/CS3031-1.PDF)
 -   [2017](https://www.tcd.ie/academicregistry/exams/assets/local/past-papers2017/CS/CS3031-1.PDF)
