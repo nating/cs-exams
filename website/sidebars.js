@@ -39,7 +39,8 @@ module.exports = {
       },
       collapsed: true,
       items: [
-        'algorithms-and-data-structures',
+        'algorithms-and-data-structures-i',
+        'algorithms-and-data-structures-ii',
         'applied-probability-i',
         'applied-probability-ii',
         'computer-architecture-i',

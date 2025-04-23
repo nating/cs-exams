@@ -5,7 +5,8 @@ sidebar_label: Second Year
 ---
 ## Modules
 
--   [Algorithms & Data Structures](/docs/algorithms-and-data-structures)
+-   [Algorithms & Data Structures I](/docs/algorithms-and-data-structures-i)
+-   [Algorithms & Data Structures II](/docs/algorithms-and-data-structures-ii)
 -   [Applied Probability I](/docs/applied-probability-i)
 -   [Applied Probability II](/docs/applied-probability-ii)
 -   [Computer Architecture I](/docs/computer-architecture-i)
