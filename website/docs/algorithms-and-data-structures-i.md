@@ -1,10 +1,9 @@
 ---
-id: algorithms-and-data-structures
-title: Algorithms & Data Structures
-sidebar_label: Algorithms & Data Structures
+id: algorithms-and-data-structures-i
+title: Algorithms & Data Structures 1
+sidebar_label: Algorithms & Data Structures 1
 ---
-CS2010
-CSU22011/CSU22012
+CSU22011
 
 ## Resources
 
