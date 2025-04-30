@@ -10,7 +10,8 @@ MAU22C00
 
 -   [Blackboard](https://mymodule.tcd.ie/)
 -   [Wilkins' page](http://www.maths.tcd.ie/~dwilkins/Courses/MA2C03/)
--   [Scarlett's notes](https://github.com/Scarlehh/Discrete_Math_Notes/blob/master/notes.pdf)
+-   [Luke's notes (2025)](https://baileylutcd.github.io/mau22c00-discrete-mathematics/)
+-   [Scarlett's notes (2015)](https://github.com/Scarlehh/Discrete_Math_Notes/blob/master/notes.pdf)
 
 ## Questions by Year
 -   [2024](https://www.tcd.ie/academicregistry/exams/assets/local/Past%20Papers%202023-2024/Semester%202/MAU%20MAP/MAU22C00.pdf)
