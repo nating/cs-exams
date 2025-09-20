@@ -10,3 +10,4 @@ sidebar_label: First Year
 -   [Introduction to Computing](introduction-to-computing.md)
 -   [Introduction to Programming](introduction-to-programming.md)
 -   [Mathematics](mathematics.md)
+-   [Statistical Analysis I](statistical-analysis-i.md)

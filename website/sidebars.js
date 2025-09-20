@@ -14,6 +14,7 @@ module.exports = {
         'introduction-to-computing',
         'introduction-to-programming',
         'mathematics',
+        'statistical-analysis-i',
       ],
     },
     {
