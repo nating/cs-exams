@@ -12,6 +12,7 @@ CS4404
 
 ## Questions by Year
 
+-   [2019](https://www.tcd.ie/academicregistry/exams/assets/local/past%20papers201920/CS7/CS7CS4-1.PDF)
 -   [2018 - December](https://www.tcd.ie/academicregistry/exams/assets/local/past-papers2019/Semester%201%20Papers/CS/CS7CS4-1.pdf)
 -   [2018 - January](https://www.tcd.ie/academicregistry/exams/assets/local/past-papers2018/CS/CS4404-1.PDF)
 -   [Sample exam](https://tcd.blackboard.com/bbcswebdav/pid-1138589-dt-content-rid-6438197_1/courses/CS4404-A-SEM101-201819/Example%20Exam%20v2%20--%20without%20answers%281%29.pdf)
