@@ -15,6 +15,7 @@ CS4001
 
 ## Questions by Year
 
+-   [2020](https://www.tcd.ie/academicregistry/exams/assets/local/past-papers%20202021/CSU/CSU44001%20Final%202021.pdf)
 -   [2019](https://www.tcd.ie/academicregistry/exams/assets/local/past%20papers201920/CSU/CSU44001-1.PDF)
 -   [2018 - December](https://www.tcd.ie/academicregistry/exams/assets/local/past-papers2019/Semester%201%20Papers/CS/CS4001-1.PDF)
 -   [2018 - January](https://www.tcd.ie/academicregistry/exams/assets/local/past-papers2018/CS/CS4001-1.PDF)
