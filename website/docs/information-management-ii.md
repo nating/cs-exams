@@ -12,6 +12,9 @@ CSU34041
 
 ## Questions by Year
 
+-   [2023/24](https://www.tcd.ie/academicregistry/exams/assets/local/Past%20Papers%202023-2024/Semester%201/CSU%20CS7%20STU%20STP/CSU%2034041-2%20Final%20Approved.pdf)
+-   [2022/23](https://www.tcd.ie/academicregistry/exams/assets/local/past-papers202223/CSU/CSU34041-2.pdf)
+-   [2021/22](https://www.tcd.ie/academicregistry/exams/assets/local/past-papers%20202122/SEM%201%20DREAMWEAVER%20UPLOADER%20PDF/CSU/CSU34041%20Final%202122.pdf)
 -   [2020/21](https://www.tcd.ie/academicregistry/exams/assets/local/past-papers%20202021/CSU/CSU34041-1.pdf)
 -   [2019/20](https://www.tcd.ie/academicregistry/exams/assets/local/past%20papers201920/CSU/CSU34041-1.PDF)
 -   [2018/19](https://www.tcd.ie/academicregistry/exams/assets/local/past-papers2019/Semester%201%20Papers/CS/CS3041-1.PDF)
