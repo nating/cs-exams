@@ -12,7 +12,9 @@ CS1031 || CS1025 || CSU11025 || CSU11031
 
 ## Questions by Year
 
--   2022 and 2021 are not available online.
+-   [2023](https://www.tcd.ie/academicregistry/exams/assets/local/Past%20Papers%202023-2024/Semester%201/CSU%20CS7%20STU%20STP/CSU11031-1%20FINAL%20Approved.pdf)
+-   2022 not available online.
+-   [2021](https://www.tcd.ie/academicregistry/exams/assets/local/past-papers%20202122/SEM%201%20DREAMWEAVER%20UPLOADER%20PDF/CSU/CSU11031%20Final%202122.pdf)
 -   [2020](https://www.tcd.ie/academicregistry/exams/assets/local/past%20papers201920/CSU/CSU11031-2.PDF)
 
 ### Defunct Modules

@@ -14,6 +14,7 @@ CSU11026
 
 ## Questions by Year
 
+-   [2023](https://www.tcd.ie/academicregistry/exams/assets/local/past-papers202223/CSU/CSU11026-1.pdf)
 -   [2019](https://www.tcd.ie/academicregistry/exams/assets/local/past-papers2019/Semester%202%20Papers/CS/CS1026-1.pdf)
 -   [2018](https://www.tcd.ie/academicregistry/exams/assets/local/past-papers2018/CS/CS1026-1.PDF)
 -   [2017](https://www.tcd.ie/academicregistry/exams/assets/local/past-papers2017/CS/CS1026-1.PDF)

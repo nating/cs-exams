@@ -11,6 +11,11 @@ CS4031
 
 ## Questions by Year
 
+-   [2023](https://www.tcd.ie/academicregistry/exams/assets/local/Past%20Papers%202023-2024/Semester%201/CSU%20CS7%20STU%20STP/CSU44031-1%20Final%20Approved.pdf)
+-   [2022](https://www.tcd.ie/academicregistry/exams/assets/local/past-papers202223/CS/CS7NS3-1.pdf)
+-   [2021](https://www.tcd.ie/academicregistry/exams/assets/local/past-papers%20202122/SEM%201%20DREAMWEAVER%20UPLOADER%20PDF/CS7/CS7NS3-1.pdf)
+-   [2020](https://www.tcd.ie/academicregistry/exams/assets/local/past-papers%20202021/CS/CS7NS3-1%20MCQ%20section%20removed.pdf)
+-   [2019](https://www.tcd.ie/academicregistry/exams/assets/local/past%20papers201920/CS7/CS7NS3-1.PDF)
 -   [2018 - December](https://www.tcd.ie/academicregistry/exams/assets/local/past-papers2019/Semester%201%20Papers/CS/CS7NS3-1.pdf)
 -   [2018 - January](https://www.tcd.ie/academicregistry/exams/assets/local/past-papers2018/CS/CS4031-1.PDF)
 -   [2017](https://www.tcd.ie/academicregistry/exams/assets/local/past-papers2017/CS/CS4031-1.PDF)
