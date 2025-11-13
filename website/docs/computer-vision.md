@@ -16,6 +16,8 @@ CS4053
 
 ## Questions by Year
 
+-   [2024](https://www.tcd.ie/academicregistry/exams/assets/local/Past%20Papers%202024-2025/Semester%201%202024-2025/CS7-CSU-STU-STP/CSU44053-v1.pdf)
+-   [2023](https://www.tcd.ie/academicregistry/exams/assets/local/Past%20Papers%202023-2024/Semester%201/CSU%20CS7%20STU%20STP/CSU44053-1%20Final(printed%20by%20School).pdf)
 -   [2022](https://www.tcd.ie/academicregistry/exams/assets/local/past-papers202223/CSU/CSU44053-1.pdf)
 -   [2021](https://www.tcd.ie/academicregistry/exams/assets/local/past-papers%20202122/SEM%201%20DREAMWEAVER%20UPLOADER%20PDF/CSU/CSU44053-1.pdf)
 -   [2020](https://www.tcd.ie/academicregistry/exams/assets/local/past-papers%20202021/CSU/CSU44053-1.pdf)
