@@ -180,6 +180,11 @@ const contributors = [
     image: 'https://avatars.githubusercontent.com/u/93780973?v=4',
     link: 'https://github.com/gilliluke',
   },
+    {
+    name: 'Lucia',
+    image: 'https://avatars.githubusercontent.com/u/128033551?s=400&u=5dfb36db899da3114f57016dbbcdeac7516f954a&v=4',
+    link: 'https://github.com/luciabrown',
+  },
   {
     name: 'Dependabot ❤️',
     image: 'https://avatars.githubusercontent.com/in/29110?v=4',
