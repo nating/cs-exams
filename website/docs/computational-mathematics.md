@@ -12,8 +12,10 @@ CSU33081
 -   [Numerical Methods (Ch. 1-6 & Ch. 8-9)](https://tcd.blackboard.com/webapps/blackboard/content/listContent.jsp?course_id=_31126_1&content_id=_725858_1&mode=reset)
 
 ## Questions by Year
-
+-   [2023](https://www.tcd.ie/academicregistry/exams/assets/local/Past%20Papers%202023-2024/Semester%201/CSU%20CS7%20STU%20STP/CSU33081%20-1%20FINAL%20Approved.pdf)
 -   [2022](https://www.tcd.ie/academicregistry/exams/assets/local/past-papers202223/CSU/CSU33081-1.pdf)
+-   [2021](https://www.tcd.ie/academicregistry/exams/assets/local/past-papers%20202122/SEM%201%20DREAMWEAVER%20UPLOADER%20PDF/CSU/CSU33081%20Final%202122.pdf)
+-   [2020](https://www.tcd.ie/academicregistry/exams/assets/local/past-papers%20202021/CSU/CSU33081%20Final%202122.pdf)
 -   [2019](https://www.tcd.ie/academicregistry/exams/assets/local/past-papers2019/Semester%202%20Papers/CS/CS3081-2.PDF)
 -   [2018](https://www.tcd.ie/academicregistry/exams/assets/local/past-papers2018/CS/CS3081-1.PDF)
 -   [2017](https://www.tcd.ie/academicregistry/exams/assets/local/past-papers2017/CS/CS3081-1.PDF)
