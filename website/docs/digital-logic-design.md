@@ -3,14 +3,14 @@ id: digital-logic-design
 title: Digital Logic Design
 sidebar_label: Digital Logic Design
 ---
-CS1026
-CSU11026
+CS1027
+CSU11027
 
 ## Resources
 
 -   [Blackboard](https://mymodule.tcd.ie/)
 -   [Logisim Download](http://www.cburch.com/logisim/download.html)
--   [John Waldron's Website](https://www.scss.tcd.ie/John.Waldron/CSU11026/CSU11026.html)
+-   [John Waldron's Website](https://www.scss.tcd.ie/John.Waldron/CSU11027/CSU11027.html)
 
 ## Questions by Year
 
