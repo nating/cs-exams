@@ -1,7 +1,7 @@
 ---
 id: programming
-title: Programming
-sidebar_label: Programming
+title: Computer Programming
+sidebar_label: Computer Programming
 ---
 XSCH3307
 
@@ -11,6 +11,12 @@ XSCH3307
 
 ## Questions by Year
 
+-   [2025](https://www.tcd.ie/academicregistry/exams/assets/local/Found%20Schols%20Papers%20Jan%2025/XSCH3307%20Final.pdf)
+-   [2024](https://www.tcd.ie/academicregistry/exams/assets/local/schol2023/Computer%20Science%20and%20Stats/XSCH3307.pdf)
+-   [2023](https://www.tcd.ie/academicregistry/exams/assets/local/schol2023/Past%20Papers/XSCH3307.pdf)
+-   [2022](https://www.tcd.ie/academicregistry/exams/assets/local/schol2022/Past%20Papers/XSCH3307.pdf)
+-   [2021](https://www.tcd.ie/academicregistry/exams/assets/local/schol2021/Past%20Papers/XSCH3307.pdf)
+-   [2020](https://www.tcd.ie/academicregistry/exams/assets/local/schol2020/Past%20Papers/XSCH3307.PDF)
 -   [2019](https://www.tcd.ie/academicregistry/exams/assets/local/schol2019/Past%20Papers/XSCH3307.PDF)
 -   [2018](https://www.tcd.ie/academicregistry/exams/assets/local/schol2018/XSCH/XSCH3307.PDF)
 -   [2017](https://www.tcd.ie/academicregistry/exams/assets/local/schol2017/XSCH3307.PDF)
