@@ -11,10 +11,18 @@ CSU34021
 -   [Cache Videos Playlist](https://www.youtube.com/playlist?list=PLbtzT1TYeoMgJ4NcWFuXpnF24fsiaOdGq)
 -   [Question Compilation](https://github.com/nating/trinity-cs-website/blob/master/assets/question-compilations/third-year/computer-architecture-ii.pdf)
 
+## Notes
+
+The lecturer and exam format changed for 2025
+
 ## Questions by Year
 
--   [2020/21](https://www.tcd.ie/academicregistry/exams/assets/local/past-papers%20202021/CSU/CSU34021-1.pdf)
--   [2019/20](https://www.tcd.ie/academicregistry/exams/assets/local/past%20papers201920/CSU/CSU34021-1.PDF)
+-   [2024](https://www.tcd.ie/academicregistry/exams/assets/local/Past%20Papers%202024-2025/Semester%201%202024-2025/CS7-CSU-STU-STP/CSU34021-2%20v1.pdf)
+-   [2023](https://www.tcd.ie/academicregistry/exams/assets/local/Past%20Papers%202023-2024/Semester%201/CSU%20CS7%20STU%20STP/CSU34021-2%20Final%20Approved.pdf)
+-   [2022](https://www.tcd.ie/academicregistry/exams/assets/local/past-papers202223/CSU/CSU34021-2.pdf)
+-   [2021](https://www.tcd.ie/academicregistry/exams/assets/local/past-papers%20202122/SEM%201%20DREAMWEAVER%20UPLOADER%20PDF/CSU/CSU34021.pdf)
+-   [2020](https://www.tcd.ie/academicregistry/exams/assets/local/past-papers%20202021/CSU/CSU34021-1.pdf)
+-   [2019](https://www.tcd.ie/academicregistry/exams/assets/local/past%20papers201920/CSU/CSU34021-1.PDF)
 -   [Christmas Exam - 2018/19](https://www.tcd.ie/academicregistry/exams/assets/local/past-papers2019/Semester%201%20Papers/CS/CS3021-1.PDF)
 -   [Trinity Term - 2018](https://www.tcd.ie/academicregistry/exams/assets/local/past-papers2018/CS/CS3021-1.PDF)
 -   [2017](https://www.tcd.ie/academicregistry/exams/assets/local/past-papers2017/CS/CS3021-1.PDF)

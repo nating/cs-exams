@@ -10,8 +10,13 @@ CSU34041
 
 -   [Blackboard](https://tcd.blackboard.com/webapps/blackboard/execute/announcement?method=search&context=course_entry&course_id=_52402_1&handle=announcements_entry&mode=view)
 
+## Notes
+
+The exam format changed for 2026
+
 ## Questions by Year
 
+-   [2025](https://www.tcd.ie/academicregistry/exams/assets/local/Past%20Papers%202024-2025/Semester%202%202024-2025/CS7-CSU-STU/CSU34041-2%20Final.pdf)
 -   [2023/24](https://www.tcd.ie/academicregistry/exams/assets/local/Past%20Papers%202023-2024/Semester%201/CSU%20CS7%20STU%20STP/CSU%2034041-2%20Final%20Approved.pdf)
 -   [2022/23](https://www.tcd.ie/academicregistry/exams/assets/local/past-papers202223/CSU/CSU34041-2.pdf)
 -   [2021/22](https://www.tcd.ie/academicregistry/exams/assets/local/past-papers%20202122/SEM%201%20DREAMWEAVER%20UPLOADER%20PDF/CSU/CSU34041%20Final%202122.pdf)
