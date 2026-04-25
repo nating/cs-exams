@@ -14,6 +14,7 @@ MAU22C00
 -   [Scarlett's notes (2015)](https://github.com/Scarlehh/Discrete_Math_Notes/blob/master/notes.pdf)
 
 ## Questions by Year
+-   [2025](https://www.tcd.ie/academicregistry/exams/assets/local/Past%20Papers%202024-2025/Semester%202%202024-2025/MAU-MAP/MAU22C00.pdf)
 -   [2024](https://www.tcd.ie/academicregistry/exams/assets/local/Past%20Papers%202023-2024/Semester%202/MAU%20MAP/MAU22C00.pdf)
 -   [2023](https://www.tcd.ie/academicregistry/exams/assets/local/past-papers202223/MAU/MAU22C00-1.pdf)
 -   [2022](https://www.tcd.ie/academicregistry/exams/assets/local/past-papers%20202122/SEM%202%20DREAMWEAVER%20EXAM%20UPLOADER%20PDF/MAU/MAU22E02-1.pdf)

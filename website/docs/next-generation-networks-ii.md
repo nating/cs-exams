@@ -11,6 +11,8 @@ CS7NS3
 
 ## Questions by Year
 
+-   [2023](https://www.tcd.ie/academicregistry/exams/assets/local/Past%20Papers%202023-2024/Semester%201/CSU%20CS7%20STU%20STP/CSU44031-1%20Final%20Approved.pdf)
+-   [2022](https://www.tcd.ie/academicregistry/exams/assets/local/past-papers202223/CSU/CSU44031-1.pdf)
 -   [2017](https://www.tcd.ie/academicregistry/exams/assets/local/past-papers2017/CS/CS4031-1.PDF)
 -   [2016](https://www.tcd.ie/academicregistry/exams/assets/local/past-papers2016/CS/CS4031-1.PDF)
 -   [2015](https://www.tcd.ie/academicregistry/exams/assets/local/past-papers2015/Annuals%20Dec%2014/CS4031-1.pdf)

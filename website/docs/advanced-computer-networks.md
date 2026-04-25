@@ -14,6 +14,7 @@ Also known as Advanced Telecommunications (CS3031)
 -   [A very detailed guide to Socket Programming](https://beej.us/guide/bgnet/)
 
 ## Questions by Year
+-   [2025](https://www.tcd.ie/academicregistry/exams/assets/local/Past%20Papers%202024-2025/Semester%202%202024-2025/CS7-CSU-STU/CSU33032-%202%20Final.pdf)
 -   [2024](https://www.tcd.ie/academicregistry/exams/assets/local/Past%20Papers%202023-2024/Semester%202/CSU%20CS7%20STU%20STP/CSU33032.pdf)
 -   [2023](https://www.tcd.ie/academicregistry/exams/assets/local/past-papers202223/CSU/CSU33032-2.pdf)
 -   [2022](https://www.tcd.ie/academicregistry/exams/assets/local/past-papers%20202122/SEM%202%20DREAMWEAVER%20EXAM%20UPLOADER%20PDF/CSU/CSU33032-2.pdf)
