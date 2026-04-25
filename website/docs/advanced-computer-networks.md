@@ -14,7 +14,7 @@ Also known as Advanced Telecommunications (CS3031)
 -   [A very detailed guide to Socket Programming](https://beej.us/guide/bgnet/)
 
 ## Notes
-[Lucia Brown's Notes (download)](https://github.com/user-attachments/files/27089215/Advanced.Computer.Networks.pdf)
+[Lucia Brown's Notes (PDF download)](https://github.com/user-attachments/files/27089215/Advanced.Computer.Networks.pdf)
 
 
 ## Questions by Year
