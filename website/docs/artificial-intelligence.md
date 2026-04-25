@@ -11,6 +11,10 @@ CSU33061
 -   [Module page](https://web.archive.org/web/20210201080533/https://www.scss.tcd.ie/Tim.Fernando/AI/)
 -   [Question 1 Theory Compilation](https://github.com/nating/personal-notes/blob/master/third-year/artificial-intelligence/question-compilation.md)
 
+## Notes
+- [Lucia Brown's Notes (download)](https://github.com/user-attachments/files/27089147/Artificial.Intelligence.pdf)
+
+
 ## Questions by Year
 
 -   [2024](https://www.tcd.ie/academicregistry/exams/assets/local/Past%20Papers%202023-2024/Semester%202/CSU%20CS7%20STU%20STP/CSU33061.pdf)
