@@ -12,7 +12,7 @@ CSU33061
 -   [Question 1 Theory Compilation](https://github.com/nating/personal-notes/blob/master/third-year/artificial-intelligence/question-compilation.md)
 
 ## Notes
-- [Lucia Brown's Notes (download)](https://github.com/user-attachments/files/27089147/Artificial.Intelligence.pdf)
+- [Lucia Brown's Notes (PDF download)](https://github.com/user-attachments/files/27089147/Artificial.Intelligence.pdf)
 
 
 ## Questions by Year
