@@ -1,4 +1,4 @@
----
+[Computer Vision.pdf](https://github.com/user-attachments/files/27088893/Computer.Vision.pdf)---
 id: computer-vision
 title: Computer Vision
 sidebar_label: Computer Vision
@@ -11,6 +11,7 @@ CS4053
 -   [Book's Website](https://www.scss.tcd.ie/publications/book-supplements/A-Practical-Introduction-to-Computer-Vision-with-OpenCV/)
 
 ## Notes
+-   [Computer Vision MasterDoc (Last Updated 2025)](https://docs.google.com/spreadsheets/d/1mXhnEs5Yl0s6X3RvqS1k_x-iAZXEycHSjnjLwLuYLF4/edit?gid=0#gid=0)
 
 - Exam format was changed after 2019
 
