@@ -11,7 +11,7 @@ CSU44062 / CS4LL5
 -   [Module Website](https://www.scss.tcd.ie/Martin.Emms/4062/)
 
 ## Notes
-- [Lucia Brown's Notes (download)](https://github.com/user-attachments/files/27089141/Advanced.Computational.Linguistics.pdf)
+- [Lucia Brown's Notes (PDF download)](https://github.com/user-attachments/files/27089141/Advanced.Computational.Linguistics.pdf)
 
 
 ## Questions by Year
