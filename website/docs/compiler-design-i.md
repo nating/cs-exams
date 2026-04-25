@@ -10,7 +10,7 @@ CSU33071
 
 -   [Oisín Johnston's Notes](https://web.archive.org/web/20190416111807/http://dajuice.netsoc.ie:80/)
 -   [Scarlett Gourley's](https://gitlab.scss.tcd.ie/gourleys/ThirdYear/tree/master/Cmpilers)
--   [Lucia Brown's Notes (download)](https://github.com/user-attachments/files/27089152/Compiler.Design.pdf)
+-   [Lucia Brown's Notes (PDF download)](https://github.com/user-attachments/files/27089152/Compiler.Design.pdf)
 
 
 ## Questions by Year
