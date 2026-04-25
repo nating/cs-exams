@@ -10,8 +10,8 @@ CS4031
 -   [Blackboard](https://mymodule.tcd.ie/)
 
 ## Notes
-- [Lucia Brown's Notes (download)](https://github.com/user-attachments/files/27089198/Next.Generation.Networks.pdf)
-
+- [Lucia Brown's Notes (PDF download)](https://github.com/user-attachments/files/27089198/Next.Generation.Networks.pdf)
+- Exam Format changed in 2024
 
 ## Questions by Year
 
