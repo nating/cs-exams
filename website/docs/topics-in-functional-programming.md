@@ -3,7 +3,7 @@ id: topics-in-functional-programming
 title: Topics in Functional Programming
 sidebar_label: Topics in Functional Programming
 ---
-CS4012
+CSU44012
 
 ## Resources
 

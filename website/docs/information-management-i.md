@@ -12,7 +12,8 @@ CSU22041
 
 ## Questions by Year
 
--   [2022/23](https://www.tcd.ie/academicregistry/exams/assets/local/past-papers202223/CSU/CSU22041-2.pdf)
+-   [2023](https://www.tcd.ie/academicregistry/exams/assets/local/Past%20Papers%202023-2024/Semester%201/CSU%20CS7%20STU%20STP/CSU22041-2.pdf)
+-   [2022](https://www.tcd.ie/academicregistry/exams/assets/local/past-papers202223/CSU/CSU22041-2.pdf)
 -   [2020/21](https://www.tcd.ie/academicregistry/exams/assets/local/past-papers%20202021/CSU/CSU22041-1.pdf)
 -   [2019/20](https://www.tcd.ie/academicregistry/exams/assets/local/past%20papers201920/CSU/CSU22041-1.PDF)
 -   [2018/19](https://www.tcd.ie/academicregistry/exams/assets/local/past-papers2019/Semester%201%20Papers/CS/CS2041-2.PDF)
