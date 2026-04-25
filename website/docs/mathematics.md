@@ -12,6 +12,8 @@ CSU11001 & CSU11002
 
 ## Questions by Year
 
+-   [2023 Mathematics II](https://www.tcd.ie/academicregistry/exams/assets/local/past-papers202223/CSU/CSU12002_Summer_2023_Final.pdf)
+-   [2022 Mathematics I](https://www.tcd.ie/academicregistry/exams/assets/local/past-papers202223/CSU/CSU11001-2.pdf)
 -   [2021 Mathematics I](https://www.tcd.ie/academicregistry/exams/assets/local/past-papers%20202021/CSU/CSU11001-1.pdf)
 -   [2020 Mathematics I](https://www.tcd.ie/academicregistry/exams/assets/local/past%20papers201920/CSU/CSU11001-1.PDF)
 -   [2020 Mathematics II](https://www.tcd.ie/academicregistry/exams/assets/local/past%20papers201920/2019-20%20Semester%202/CSU/CSU11002-1.pdf)

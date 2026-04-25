@@ -3,7 +3,7 @@ id: fuzzy-logic-and-control-systems
 title: Fuzzy Logic & Control Systems
 sidebar_label: Fuzzy Logic & Control Systems
 ---
-CS4001
+CSU44001
 
 ## Resources
 

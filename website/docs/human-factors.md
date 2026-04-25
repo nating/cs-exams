@@ -3,7 +3,7 @@ id: human-factors
 title: Human Factors
 sidebar_label: Human Factors
 ---
-CS4051
+CSU44051
 
 ## Resources
 

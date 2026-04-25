@@ -1,10 +1,9 @@
 ---
 id: telecommunications-ii
-title: Telecommunications II
-sidebar_label: Telecommunications II
+title: Computer Networks
+sidebar_label: Computer Networks
 ---
-CS2031
-Also known as Computer Networks in 3rd Year (CSU33031)
+CSU33031
 
 ## Resources
 
@@ -13,8 +12,11 @@ Also known as Computer Networks in 3rd Year (CSU33031)
 
 ## Questions by Year
 
--   [2019/20](https://www.tcd.ie/academicregistry/exams/assets/local/past%20papers201920/CSU/CSU23031-1.PDF)
--   [2018/19](https://www.tcd.ie/academicregistry/exams/assets/local/past-papers2019/Semester%201%20Papers/CS/CS2031-2.PDF)
+-   [2024](https://www.tcd.ie/academicregistry/exams/assets/local/Past%20Papers%202024-2025/Semester%201%202024-2025/CS7-CSU-STU-STP/CSU33031-1%20v1.pdf)
+-   [2023](https://www.tcd.ie/academicregistry/exams/assets/local/Past%20Papers%202023-2024/Semester%201/CSU%20CS7%20STU%20STP/CSU33031-2.pdf)
+-   [2022](https://www.tcd.ie/academicregistry/exams/assets/local/past-papers202223/CSU/CSU33031%20-2.pdf)
+-   [2020](https://www.tcd.ie/academicregistry/exams/assets/local/past%20papers201920/CSU/CSU23031-1.PDF)
+-   [2019](https://www.tcd.ie/academicregistry/exams/assets/local/past-papers2019/Semester%201%20Papers/CS/CS2031-2.PDF)
 -   [2018](https://www.tcd.ie/academicregistry/exams/assets/local/past-papers2018/CS/CS2031-2.PDF)
 -   [2017](https://www.tcd.ie/academicregistry/exams/assets/local/past-papers2017/CS/CS2031-2.PDF)
 -   [2016](https://www.tcd.ie/academicregistry/exams/assets/local/past-papers2016/CS/CS2031-2.PDF)
