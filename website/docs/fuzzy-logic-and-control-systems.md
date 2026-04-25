@@ -1,3 +1,4 @@
+---
 id: fuzzy-logic-and-control-systems
 title: Fuzzy Logic & Control Systems
 sidebar_label: Fuzzy Logic & Control Systems
