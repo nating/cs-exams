@@ -11,6 +11,7 @@ CS1010
 
 ## Questions by Year
 
+-   [2025 Programming II](https://www.tcd.ie/academicregistry/exams/assets/local/Past%20Papers%202024-2025/Semester%202%202024-2025/CS7-CSU-STU/CSU11012-2%20Final%20(2).pdf)
 -   [2017](https://www.tcd.ie/academicregistry/exams/assets/local/past-papers2017/CS/X-CS1010-1%20EDITED.pdf)
 -   [2016](https://www.tcd.ie/academicregistry/exams/assets/local/past-papers2016/CS/CS1010-1.PDF)
 -   [2015](https://www.tcd.ie/academicregistry/exams/assets/local/past-papers2015/CS/CS1010-1.pdf)
