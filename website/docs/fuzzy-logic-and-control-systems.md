@@ -1,4 +1,3 @@
----
 id: fuzzy-logic-and-control-systems
 title: Fuzzy Logic & Control Systems
 sidebar_label: Fuzzy Logic & Control Systems
@@ -12,6 +11,7 @@ CSU44001
 -   [Scarlett's Notes](https://gitlab.scss.tcd.ie/gourleys/FourthYear/tree/master/Fuzzy)
 -   [Cathal Ormond's Notes](https://www.maths.tcd.ie/~ormondca/notes/Fuzzy%20Logic%20Notes.pdf)
 -   [2018/19's resources](https://www.dropbox.com/sh/lnfr37xev6ozm9l/AADkoBbV80wdeHN9HCrSZa5ha/CS4001-%20Fuzzy%20Logic?dl=0)
+-   [Lucia Brown's Notes (download)](https://github.com/user-attachments/files/27089240/Fuzzy.Logic.Control.Systems.pdf)
 
 ## Questions by Year
 
