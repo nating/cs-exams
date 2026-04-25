@@ -3,7 +3,7 @@ id: computer-graphics
 title: Computer Graphics
 sidebar_label: Computer Graphics
 ---
-CS4052
+CSU44052
 
 ## Resources
 
