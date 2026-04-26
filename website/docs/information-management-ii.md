@@ -9,6 +9,7 @@ CSU34041
 ## Resources
 
 -   [Blackboard](https://tcd.blackboard.com/webapps/blackboard/execute/announcement?method=search&context=course_entry&course_id=_52402_1&handle=announcements_entry&mode=view)
+-   [Lucia Brown's Notes (PDF download)](https://github.com/user-attachments/files/27089179/Information.Management.II.pdf)
 
 ## Notes
 

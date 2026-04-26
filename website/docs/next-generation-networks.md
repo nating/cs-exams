@@ -9,6 +9,10 @@ CS4031
 
 -   [Blackboard](https://mymodule.tcd.ie/)
 
+## Notes
+- [Lucia Brown's Notes (PDF download)](https://github.com/user-attachments/files/27089198/Next.Generation.Networks.pdf)
+- Exam Format changed in 2024
+
 ## Questions by Year
 
 -   [2023](https://www.tcd.ie/academicregistry/exams/assets/local/Past%20Papers%202023-2024/Semester%201/CSU%20CS7%20STU%20STP/CSU44031-1%20Final%20Approved.pdf)
