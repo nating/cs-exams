@@ -11,3 +11,4 @@ sidebar_label: Fifth Year
 -   [Research Methods](research-methods.md)
 -   [Scalable Computing](scalable-computing.md)
 -   [Security & Privacy](security-and-privacy.md)
+-   [Knowledge & Data Engineering](knowledge-and-data-engineering.md)
