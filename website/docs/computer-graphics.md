@@ -10,7 +10,7 @@ CSU44052
 -   [Blackboard](https://mymodule.tcd.ie/)
 -   [LearnOpenGL](https://learnopengl.com/)
 
-## Questions by Year
+## Related Previous Modules
 
 -   [2018 - December](https://www.tcd.ie/academicregistry/exams/assets/local/past-papers2019/Semester%201%20Papers/CS/CS4052-1.PDF)
 -   [2018 - January](https://www.tcd.ie/academicregistry/exams/assets/local/past-papers2018/CS/CS4052-1.PDF)
