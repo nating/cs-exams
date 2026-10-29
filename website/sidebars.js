@@ -110,6 +110,7 @@ module.exports = {
       items: [
         'information-retrieval-and-web-search',
         'internet-of-things',
+        'knowledge-and-data-engineering',
         'next-generation-networks-ii',
         'research-methods',
         'scalable-computing',
