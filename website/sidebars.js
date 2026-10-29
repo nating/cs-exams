@@ -85,7 +85,6 @@ module.exports = {
       collapsed: true,
       items: [
         'advanced-computational-linguistics',
-        'advanced-computer-architecture',
         'computer-graphics',
         'computer-vision',
         'entrepreneurship-and-high-tech-venture-creation',

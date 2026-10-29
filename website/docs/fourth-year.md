@@ -6,7 +6,6 @@ sidebar_label: Fourth Year
 ## Modules
 
 -   [Advanced Computational Linguistics](advanced-computational-linguistics.md)
--   [Advanced Computer Architecture](advanced-computer-architecture.md)
 -   [Computer Graphics](computer-graphics.md)
 -   [Computer Vision](computer-vision.md)
 -   [Formal Verification](formal-verification.md)
