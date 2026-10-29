@@ -15,5 +15,4 @@ sidebar_label: Third Year
 -   [Information Management II](information-management-ii.md)
 -   [Introduction to Functional Programming](introduction-to-functional-programming.md)
 -   [Software Engineering](software-engineering.md)
--   [Statistical Methods for Computer Science](statistical-methods-for-computer-science.md)
 -   [Symbolic Programming](symbolic-programming.md)

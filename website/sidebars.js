@@ -71,7 +71,6 @@ module.exports = {
         'information-management-ii',
         'introduction-to-functional-programming',
         'software-engineering',
-        'statistical-methods-for-computer-science',
         'symbolic-programming'
       ],
     },
