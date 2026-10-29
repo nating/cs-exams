@@ -12,7 +12,7 @@ CSU33012
 -   [Submission Page](https://scss.tcd.ie/Stephen.Barrett/teaching/CS3012/submit.html)
 -   [Daniel Crawford's Notes](https://docs.google.com/document/d/1wv4wQaE8hRKdtdVF-n7sQkjUC0XHk21BK_6X8XjpsBE)
 
-## Questions by Year
+## Related Previous Modules
 
 -   [2017](https://www.tcd.ie/academicregistry/exams/assets/local/past-papers2017/CS/CS3012-1%20EDITED.pdf)
 -   [2016](https://www.tcd.ie/academicregistry/exams/assets/local/past-papers2016/CS/CS3012-1.PDF)
