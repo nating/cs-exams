@@ -93,8 +93,7 @@ module.exports = {
         'internet-applications',
         'machine-learning',
         'machine-learning-with-applications-in-media-processing',
-        'next-generation-networks',
-        'topics-in-functional-programming'
+        'next-generation-networks'
       ],
     },
     {

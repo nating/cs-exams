@@ -15,4 +15,3 @@ sidebar_label: Fourth Year
 -   [Machine Learning](machine-learning.md)
 -   [Machine Learning with Applications in Media Processing](machine-learning-with-applications-in-media-processing.md)
 -   [Next Generation Networks](next-generation-networks.md)
--   [Topics in Functional Programming](topics-in-functional-programming.md)
